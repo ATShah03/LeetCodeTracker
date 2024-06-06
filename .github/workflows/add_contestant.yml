@@ -13,13 +13,13 @@ jobs:
     
     steps:
       - name: Checkout repository content
-        uses: actions/checkout@v2 # Checkout the repository content to github runner
+        uses: actions/checkout@v3 # Checkout the repository content to github runner
       - name: Setup Python Version
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v3
         with:
           python-version: 3.12 # Install needed python version
       - name: Install Python depenencies
-        uses: py-actions/py-dependency-install@v2
+        uses: py-actions/py-dependency-install@v3
         with:
           path: requirements.txt
       - name: Execute Python scripts
