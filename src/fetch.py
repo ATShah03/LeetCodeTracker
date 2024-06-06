@@ -35,6 +35,7 @@ stats = []
 for res in list(result['data'].values()):
     user_info = {}
     user_info['username'] = res['username']
+    print(user_info['username'])
     user_info['act_name'] = users[res['username']]
     user_info['problems_solved'] = 0
     for type in res['submitStats']['acSubmissionNum']:
