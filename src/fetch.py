@@ -35,8 +35,8 @@ stats = []
 for res in list(result['data'].values()):
     user_info = {}
     user_info['username'] = res['username']
-    print(user_info['username'])
-    print("jdhrsnfkjaerwn")
+    # print(user_info['username'])
+    # print("jdhrsnfkjaerwn")
     user_info['act_name'] = users[res['username']]
     user_info['problems_solved'] = 0
     for type in res['submitStats']['acSubmissionNum']:
@@ -47,10 +47,16 @@ for res in list(result['data'].values()):
 sorted_stats = sorted(stats, key=lambda x : x['totalScore'], reverse=True)
 
 # Markdown Update
+with open("README.md", 'r') as file:
+    lines = file.readlines()
 with open("README.md", 'w') as file:
+    for line in lines:
+        if line.strip() == '# 🏆 Leetcode Leaderboard 🏆':
+            break
+        file.write(line)
     file.write('# 🏆 Leetcode Leaderboard 🏆\n\n')
-    file.write('| Rank | Score | Username       | Name | Problems Solved |\n')
-    file.write('|------|----------------|-----------------|-------------------|--------------|\n')
+    file.write('| Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |\n')
+    file.write('|------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|\n')
     for index, stat in enumerate(sorted_stats):
         index +=1
         rank_emoji = ""
@@ -62,6 +68,6 @@ with open("README.md", 'w') as file:
             rank_emoji = "🥉 3"
         else:
             rank_emoji = f'{index}'
-        file.write(f'| {rank_emoji} | {stat['totalScore']} | {stat['username']} | {stat['act_name']} | {stat['All']} \n')
+        file.write(f'| {rank_emoji} | {stat['totalScore']} | {stat['username']} | {stat['act_name']} | {stat['Easy']} | {stat['Medium']} | {stat['Hard']} | {stat['All']} |\n')
     file.write("---")
 
