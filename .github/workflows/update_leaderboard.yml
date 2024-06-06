@@ -1,1 +1,33 @@
+name: Update Leaderboard
+on:
+  schedule:
+    - cron: "0 13-23/2 * * *"
+permissions:
+  contents: write
+jobs:
+  update-leaderboard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository content
+        uses: actions/checkout@v2 # Checkout the repository content to github runner
+      - name: Setup Python Version
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.12 # Install needed python version
+      - name: Install Python depenencies
+        uses: py-actions/py-dependency-install@v2
+        with:
+          path: requirements.txt
+      - name: Execute Python scripts
+        run: |
+          git config --local user.name github-actions
+          git config --local user.email github-actions.github.com
+          python3 src/fetch.py
+          git add README.md
+          git commit -m "GH ACTION updated leaderboard"
+          git push
+        env:
+          REPO_KEY: ${{secrets.GITHUB_TOKEN}}
+          username: github-actions
+
 
