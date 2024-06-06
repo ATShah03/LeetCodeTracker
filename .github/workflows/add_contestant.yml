@@ -28,11 +28,10 @@ jobs:
           git config --local user.email github-actions.github.com
           python3 src/update_users.py "${{ github.event.issue.body }}"
           git add data/users.json
-          git commit -m "GH ACTION added user"
+          git diff --cached --quiet -- data/users.json || git commit -m "GH ACTION added user"
           python3 src/fetch.py
           git add README.md
-          git commit -m "GH ACTION updated leaderboard"
-          git push
+          git diff --cached --quiet -- README.md || {git commit -m "GH ACTION updated leaderboard"; git push; }
       - name: Close issue
         run: gh issue close ${{ github.event.issue.number }} -c "Added"
         env:
