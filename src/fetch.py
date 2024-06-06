@@ -48,7 +48,8 @@ sorted_stats = sorted(stats, key=lambda x : x['totalScore'], reverse=True)
 # Markdown Update
 with open("README.md", 'w') as file:
     file.write('# 🏆 Leetcode Leaderboard 🏆\n\n')
-    file.write('| Rank | Score | Username       | Name | Problems Solved \n')
+    file.write('| Rank | Score | Username       | Name | Problems Solved |\n')
+    file.write('|------|----------------|-----------------|-------------------|--------------|\n')
     for index, stat in enumerate(sorted_stats):
         index +=1
         rank_emoji = ""
