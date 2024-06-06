@@ -31,7 +31,7 @@ jobs:
           git diff --cached --quiet -- data/users.json || git commit -m "GH ACTION added user"
           python3 src/fetch.py
           git add README.md
-          git diff --cached --quiet -- README.md || {git commit -m "GH ACTION updated leaderboard"; git push; }
+          git diff --cached --quiet -- README.md || (git commit -m "GH ACTION updated leaderboard" && git push)
       - name: Close issue
         run: gh issue close ${{ github.event.issue.number }} -c "Added"
         env:
