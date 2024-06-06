@@ -13,3 +13,4 @@ if (len(sys.argv) > 1):
     with open("data/users.json", 'w') as f:
         users['username'] = act_name
         json.dump(users, f)
+    print("success")
