@@ -39,7 +39,6 @@ for res in list(result['data'].values()):
     user_info['problems_solved'] = 0
     for type in res['submitStats']['acSubmissionNum']:
         user_info[type['difficulty']] = type['count']
-        user_info['problems_solved'] += type['count']
     user_info['totalScore'] = user_info['Easy'] + 2*user_info['Medium'] + 3*user_info['Hard']
     stats.append(user_info)
 
@@ -61,6 +60,6 @@ with open("README.md", 'w') as file:
             rank_emoji = "🥉 3"
         else:
             rank_emoji = f'{index}'
-        file.write(f'| {rank_emoji} | {stat['totalScore']} | {stat['username']} | {stat['act_name']} | {stat['problems_solved']} \n')
+        file.write(f'| {rank_emoji} | {stat['totalScore']} | {stat['username']} | {stat['act_name']} | {stat['All']} \n')
     file.write("---")
 
