@@ -37,5 +37,6 @@ jobs:
         run: gh issue close ${{ github.event.issue.number }} -c "Added"
         env:
           REPO_KEY: ${{secrets.GITHUB_TOKEN}}
+          GH_TOKEN: ${{ github.token }}
           username: github-actions
 
