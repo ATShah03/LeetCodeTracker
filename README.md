@@ -8,6 +8,6 @@
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 333 | Vonais | John Xie | 70 | 121 | 7 | 198 |
-| 🥈 2 | 172 | arnsh | Arnav Shah | 24 | 59 | 10 | 93 |
-| 🥉 3 | 84 | wlvrd | Nick Walvoord | 19 | 28 | 3 | 50 |
+| 🥈 2 | 174 | arnsh | Arnav Shah | 24 | 60 | 10 | 94 |
+| 🥉 3 | 88 | wlvrd | Nick Walvoord | 19 | 30 | 3 | 52 |
 ---
