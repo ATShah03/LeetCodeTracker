@@ -10,6 +10,6 @@
 | 🥇 1 | 337 | Vonais | John Xie | 70 | 123 | 7 | 200 |
 | 🥈 2 | 307 | shadowion | Ihsaan Yasin | 87 | 92 | 12 | 191 |
 | 🥉 3 | 273 | shreypatel703 | Shrey Patel | 49 | 103 | 6 | 158 |
-| 4 | 197 | arnsh | Arnav Shah | 30 | 67 | 11 | 108 |
+| 4 | 204 | arnsh | Arnav Shah | 31 | 70 | 11 | 112 |
 | 5 | 110 | wlvrd | Nick Walvoord | 25 | 38 | 3 | 66 |
 ---
