@@ -7,9 +7,9 @@
 
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
-| 🥇 1 | 344 | Vonais | John Xie | 70 | 125 | 8 | 203 |
-| 🥈 2 | 307 | shadowion | Ihsaan Yasin | 87 | 92 | 12 | 191 |
-| 🥉 3 | 276 | shreypatel703 | Shrey Patel | 49 | 103 | 7 | 159 |
-| 4 | 206 | arnsh | Arnav Shah | 31 | 71 | 11 | 113 |
-| 5 | 120 | wlvrd | Nick Walvoord | 26 | 41 | 4 | 71 |
+| 🥇 1 | 338 | Vonais | John Xie | 70 | 122 | 8 | 200 |
+| 🥈 2 | 305 | shadowion | Ihsaan Yasin | 87 | 91 | 12 | 190 |
+| 🥉 3 | 269 | shreypatel703 | Shrey Patel | 48 | 100 | 7 | 155 |
+| 4 | 204 | arnsh | Arnav Shah | 31 | 70 | 11 | 112 |
+| 5 | 118 | wlvrd | Nick Walvoord | 26 | 40 | 4 | 70 |
 ---
