@@ -11,7 +11,7 @@
 | 🥈 2 | 305 | shadowion | Ihsaan Yasin | 87 | 91 | 12 | 190 |
 | 🥉 3 | 285 | ericzhao16 | Eric Zhao | 48 | 108 | 7 | 163 |
 | 4 | 269 | shreypatel703 | Shrey Patel | 48 | 100 | 7 | 155 |
-| 5 | 204 | arnsh | Arnav Shah | 31 | 70 | 11 | 112 |
+| 5 | 206 | arnsh | Arnav Shah | 31 | 71 | 11 | 113 |
 | 6 | 137 | ohmp7 | Ohm Patel | 32 | 45 | 5 | 82 |
 | 7 | 118 | wlvrd | Nick Walvoord | 26 | 40 | 4 | 70 |
 ---
