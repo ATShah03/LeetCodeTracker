@@ -13,5 +13,5 @@
 | 4 | 269 | shreypatel703 | Shrey Patel | 48 | 100 | 7 | 155 |
 | 5 | 206 | arnsh | Arnav Shah | 31 | 71 | 11 | 113 |
 | 6 | 137 | ohmp7 | Ohm Patel | 32 | 45 | 5 | 82 |
-| 7 | 118 | wlvrd | Nick Walvoord | 26 | 40 | 4 | 70 |
+| 7 | 121 | wlvrd | Nick Walvoord | 26 | 40 | 5 | 71 |
 ---
