@@ -12,7 +12,7 @@
 | 🥉 3 | 289 | ericzhao16 | Eric Zhao | 48 | 110 | 7 | 165 |
 | 4 | 276 | shreypatel703 | Shrey Patel | 49 | 103 | 7 | 159 |
 | 5 | 213 | arnsh | Arnav Shah | 31 | 73 | 12 | 116 |
-| 6 | 139 | ohmp7 | Ohm Patel | 32 | 46 | 5 | 83 |
+| 6 | 140 | ohmp7 | Ohm Patel | 33 | 46 | 5 | 84 |
 | 7 | 129 | wlvrd | Nick Walvoord | 30 | 42 | 5 | 77 |
 | 8 | 66 | justinbabe019 | Angie Leong | 26 | 20 | 0 | 46 |
 ---
