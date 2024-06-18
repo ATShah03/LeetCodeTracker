@@ -10,10 +10,10 @@
 | 🥇 1 | 345 | Vonais | John Xie | 71 | 125 | 8 | 204 |
 | 🥈 2 | 312 | shadowion | Ihsaan Yasin | 87 | 93 | 13 | 193 |
 | 🥉 3 | 291 | ericzhao16 | Eric Zhao | 48 | 111 | 7 | 166 |
-| 4 | 278 | shreypatel703 | Shrey Patel | 49 | 104 | 7 | 160 |
+| 4 | 280 | shreypatel703 | Shrey Patel | 49 | 105 | 7 | 161 |
 | 5 | 215 | arnsh | Arnav Shah | 31 | 74 | 12 | 117 |
 | 6 | 207 | adavidwu | David Wu | 50 | 65 | 9 | 124 |
 | 7 | 140 | ohmp7 | Ohm Patel | 33 | 46 | 5 | 84 |
-| 8 | 129 | wlvrd | Nick Walvoord | 30 | 42 | 5 | 77 |
+| 8 | 134 | wlvrd | Nick Walvoord | 31 | 44 | 5 | 80 |
 | 9 | 66 | justinbabe019 | Angie Leong | 26 | 20 | 0 | 46 |
 ---
