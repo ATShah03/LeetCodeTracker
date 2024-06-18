@@ -9,9 +9,9 @@
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 345 | Vonais | John Xie | 71 | 125 | 8 | 204 |
 | 🥈 2 | 312 | shadowion | Ihsaan Yasin | 87 | 93 | 13 | 193 |
-| 🥉 3 | 289 | ericzhao16 | Eric Zhao | 48 | 110 | 7 | 165 |
-| 4 | 276 | shreypatel703 | Shrey Patel | 49 | 103 | 7 | 159 |
-| 5 | 213 | arnsh | Arnav Shah | 31 | 73 | 12 | 116 |
+| 🥉 3 | 291 | ericzhao16 | Eric Zhao | 48 | 111 | 7 | 166 |
+| 4 | 278 | shreypatel703 | Shrey Patel | 49 | 104 | 7 | 160 |
+| 5 | 215 | arnsh | Arnav Shah | 31 | 74 | 12 | 117 |
 | 6 | 207 | adavidwu | David Wu | 50 | 65 | 9 | 124 |
 | 7 | 140 | ohmp7 | Ohm Patel | 33 | 46 | 5 | 84 |
 | 8 | 129 | wlvrd | Nick Walvoord | 30 | 42 | 5 | 77 |
