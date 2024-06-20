@@ -14,8 +14,8 @@
 | 5 | 282 | enumerative | Peter Wu | 44 | 101 | 12 | 157 |
 | 6 | 222 | arnsh | Arnav Shah | 32 | 77 | 12 | 121 |
 | 7 | 207 | adavidwu | David Wu | 50 | 65 | 9 | 124 |
-| 8 | 140 | ohmp7 | Ohm Patel | 33 | 46 | 5 | 84 |
-| 9 | 138 | wlvrd | Nick Walvoord | 31 | 46 | 5 | 82 |
+| 8 | 142 | wlvrd | Nick Walvoord | 31 | 48 | 5 | 84 |
+| 9 | 140 | ohmp7 | Ohm Patel | 33 | 46 | 5 | 84 |
 | 10 | 95 | wolinskij | Jonathan Wolinski | 25 | 32 | 2 | 59 |
 | 11 | 66 | justinbabe019 | Angie Leong | 26 | 20 | 0 | 46 |
 ---
