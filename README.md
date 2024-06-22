@@ -16,6 +16,6 @@
 | 7 | 207 | adavidwu | David Wu | 50 | 65 | 9 | 124 |
 | 8 | 148 | wlvrd | Nick Walvoord | 31 | 51 | 5 | 87 |
 | 9 | 140 | ohmp7 | Ohm Patel | 33 | 46 | 5 | 84 |
-| 10 | 95 | wolinskij | Jonathan Wolinski | 25 | 32 | 2 | 59 |
-| 11 | 66 | justinbabe019 | Angie Leong | 26 | 20 | 0 | 46 |
+| 10 | 97 | wolinskij | Jonathan Wolinski | 25 | 33 | 2 | 60 |
+| 11 | 68 | justinbabe019 | Angie Leong | 26 | 21 | 0 | 47 |
 ---
