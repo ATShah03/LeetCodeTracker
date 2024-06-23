@@ -7,12 +7,12 @@
 
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
-| 🥇 1 | 347 | Vonais | John Xie | 71 | 126 | 8 | 205 |
+| 🥇 1 | 349 | Vonais | John Xie | 71 | 127 | 8 | 206 |
 | 🥈 2 | 312 | shadowion | Ihsaan Yasin | 87 | 93 | 13 | 193 |
-| 🥉 3 | 294 | ericzhao16 | Eric Zhao | 49 | 112 | 7 | 168 |
+| 🥉 3 | 296 | ericzhao16 | Eric Zhao | 49 | 113 | 7 | 169 |
 | 4 | 289 | shreypatel703 | Shrey Patel | 50 | 109 | 7 | 166 |
 | 5 | 284 | enumerative | Peter Wu | 44 | 102 | 12 | 158 |
-| 6 | 231 | arnsh | Arnav Shah | 33 | 81 | 12 | 126 |
+| 6 | 234 | arnsh | Arnav Shah | 34 | 82 | 12 | 128 |
 | 7 | 207 | adavidwu | David Wu | 50 | 65 | 9 | 124 |
 | 8 | 152 | wlvrd | Nick Walvoord | 31 | 53 | 5 | 89 |
 | 9 | 142 | ohmp7 | Ohm Patel | 33 | 47 | 5 | 85 |
