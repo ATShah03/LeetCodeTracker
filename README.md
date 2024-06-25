@@ -12,7 +12,7 @@
 | 🥉 3 | 296 | ericzhao16 | Eric Zhao | 49 | 113 | 7 | 169 |
 | 4 | 289 | shreypatel703 | Shrey Patel | 50 | 109 | 7 | 166 |
 | 5 | 286 | enumerative | Peter Wu | 44 | 103 | 12 | 159 |
-| 6 | 237 | arnsh | Arnav Shah | 34 | 82 | 13 | 129 |
+| 6 | 239 | arnsh | Arnav Shah | 34 | 83 | 13 | 130 |
 | 7 | 207 | adavidwu | David Wu | 50 | 65 | 9 | 124 |
 | 8 | 154 | wlvrd | Nick Walvoord | 31 | 54 | 5 | 90 |
 | 9 | 142 | ohmp7 | Ohm Patel | 33 | 47 | 5 | 85 |
