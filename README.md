@@ -9,11 +9,11 @@
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 349 | Vonais | John Xie | 71 | 127 | 8 | 206 |
 | 🥈 2 | 312 | shadowion | Ihsaan Yasin | 87 | 93 | 13 | 193 |
-| 🥉 3 | 296 | ericzhao16 | Eric Zhao | 49 | 113 | 7 | 169 |
-| 4 | 289 | shreypatel703 | Shrey Patel | 50 | 109 | 7 | 166 |
+| 🥉 3 | 297 | ericzhao16 | Eric Zhao | 50 | 113 | 7 | 170 |
+| 4 | 291 | shreypatel703 | Shrey Patel | 50 | 110 | 7 | 167 |
 | 5 | 286 | enumerative | Peter Wu | 44 | 103 | 12 | 159 |
 | 6 | 244 | arnsh | Arnav Shah | 35 | 85 | 13 | 133 |
-| 7 | 207 | adavidwu | David Wu | 50 | 65 | 9 | 124 |
+| 7 | 212 | adavidwu | David Wu | 51 | 67 | 9 | 127 |
 | 8 | 160 | wlvrd | Nick Walvoord | 31 | 57 | 5 | 93 |
 | 9 | 142 | ohmp7 | Ohm Patel | 33 | 47 | 5 | 85 |
 | 10 | 107 | wolinskij | Jonathan Wolinski | 25 | 38 | 2 | 65 |
