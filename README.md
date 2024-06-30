@@ -13,7 +13,7 @@
 | 4 | 291 | shreypatel703 | Shrey Patel | 50 | 110 | 7 | 167 |
 | 5 | 286 | enumerative | Peter Wu | 44 | 103 | 12 | 159 |
 | 6 | 258 | arnsh | Arnav Shah | 37 | 91 | 13 | 141 |
-| 7 | 214 | adavidwu | David Wu | 51 | 68 | 9 | 128 |
+| 7 | 219 | adavidwu | David Wu | 51 | 69 | 10 | 130 |
 | 8 | 163 | wlvrd | Nick Walvoord | 32 | 58 | 5 | 95 |
 | 9 | 142 | ohmp7 | Ohm Patel | 33 | 47 | 5 | 85 |
 | 10 | 117 | wolinskij | Jonathan Wolinski | 29 | 41 | 2 | 72 |
