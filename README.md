@@ -14,7 +14,7 @@
 | 5 | 291 | shreypatel703 | Shrey Patel | 50 | 110 | 7 | 167 |
 | 6 | 258 | arnsh | Arnav Shah | 37 | 91 | 13 | 141 |
 | 7 | 219 | adavidwu | David Wu | 51 | 69 | 10 | 130 |
-| 8 | 163 | wlvrd | Nick Walvoord | 32 | 58 | 5 | 95 |
+| 8 | 164 | wlvrd | Nick Walvoord | 33 | 58 | 5 | 96 |
 | 9 | 142 | ohmp7 | Ohm Patel | 33 | 47 | 5 | 85 |
 | 10 | 118 | wolinskij | Jonathan Wolinski | 30 | 41 | 2 | 73 |
 | 11 | 68 | justinbabe019 | Angie Leong | 26 | 21 | 0 | 47 |
