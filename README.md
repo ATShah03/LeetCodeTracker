@@ -15,7 +15,7 @@
 | 6 | 269 | arnsh | Arnav Shah | 42 | 94 | 13 | 149 |
 | 7 | 220 | adavidwu | David Wu | 52 | 69 | 10 | 131 |
 | 8 | 178 | wlvrd | Nick Walvoord | 35 | 64 | 5 | 104 |
-| 9 | 158 | ohmp7 | Ohm Patel | 35 | 54 | 5 | 94 |
-| 10 | 125 | wolinskij | Jonathan Wolinski | 31 | 44 | 2 | 77 |
+| 9 | 160 | ohmp7 | Ohm Patel | 35 | 55 | 5 | 95 |
+| 10 | 129 | wolinskij | Jonathan Wolinski | 33 | 45 | 2 | 80 |
 | 11 | 68 | justinbabe019 | Angie Leong | 26 | 21 | 0 | 47 |
 ---
