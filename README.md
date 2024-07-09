@@ -7,7 +7,7 @@
 
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
-| 🥇 1 | 358 | Vonais | John Xie | 72 | 128 | 10 | 210 |
+| 🥇 1 | 360 | Vonais | John Xie | 72 | 129 | 10 | 211 |
 | 🥈 2 | 313 | shadowion | Ihsaan Yasin | 88 | 93 | 13 | 194 |
 | 🥉 3 | 297 | ericzhao16 | Eric Zhao | 50 | 113 | 7 | 170 |
 | 4 | 293 | shreypatel703 | Shrey Patel | 50 | 111 | 7 | 168 |
