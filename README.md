@@ -7,15 +7,15 @@
 
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
-| 🥇 1 | 360 | Vonais | John Xie | 72 | 129 | 10 | 211 |
+| 🥇 1 | 365 | Vonais | John Xie | 73 | 131 | 10 | 214 |
 | 🥈 2 | 313 | shadowion | Ihsaan Yasin | 88 | 93 | 13 | 194 |
 | 🥉 3 | 297 | ericzhao16 | Eric Zhao | 50 | 113 | 7 | 170 |
 | 4 | 293 | shreypatel703 | Shrey Patel | 50 | 111 | 7 | 168 |
 | 5 | 292 | enumerative | Peter Wu | 46 | 105 | 12 | 163 |
-| 6 | 273 | arnsh | Arnav Shah | 42 | 96 | 13 | 151 |
-| 7 | 220 | adavidwu | David Wu | 52 | 69 | 10 | 131 |
+| 6 | 276 | arnsh | Arnav Shah | 45 | 96 | 13 | 154 |
+| 7 | 232 | adavidwu | David Wu | 54 | 74 | 10 | 138 |
 | 8 | 182 | wlvrd | Nick Walvoord | 35 | 66 | 5 | 106 |
-| 9 | 162 | ohmp7 | Ohm Patel | 35 | 56 | 5 | 96 |
+| 9 | 164 | ohmp7 | Ohm Patel | 35 | 57 | 5 | 97 |
 | 10 | 132 | wolinskij | Jonathan Wolinski | 34 | 46 | 2 | 82 |
 | 11 | 68 | justinbabe019 | Angie Leong | 26 | 21 | 0 | 47 |
 ---
