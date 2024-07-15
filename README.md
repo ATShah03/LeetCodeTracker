@@ -8,7 +8,7 @@
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 393 | Vonais | John Xie | 80 | 140 | 11 | 231 |
-| 🥈 2 | 316 | shadowion | Ihsaan Yasin | 88 | 93 | 14 | 195 |
+| 🥈 2 | 318 | shadowion | Ihsaan Yasin | 88 | 94 | 14 | 196 |
 | 🥉 3 | 301 | arnsh | Arnav Shah | 46 | 105 | 15 | 166 |
 | 4 | 297 | shreypatel703 | Shrey Patel | 50 | 113 | 7 | 170 |
 | 5 | 297 | ericzhao16 | Eric Zhao | 50 | 113 | 7 | 170 |
