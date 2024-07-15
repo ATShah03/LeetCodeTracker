@@ -8,12 +8,12 @@
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 385 | Vonais | John Xie | 77 | 139 | 10 | 226 |
-| 🥈 2 | 313 | shadowion | Ihsaan Yasin | 88 | 93 | 13 | 194 |
-| 🥉 3 | 297 | shreypatel703 | Shrey Patel | 50 | 113 | 7 | 170 |
-| 4 | 297 | ericzhao16 | Eric Zhao | 50 | 113 | 7 | 170 |
-| 5 | 296 | arnsh | Arnav Shah | 46 | 104 | 14 | 164 |
+| 🥈 2 | 316 | shadowion | Ihsaan Yasin | 88 | 93 | 14 | 195 |
+| 🥉 3 | 299 | arnsh | Arnav Shah | 46 | 104 | 15 | 165 |
+| 4 | 297 | shreypatel703 | Shrey Patel | 50 | 113 | 7 | 170 |
+| 5 | 297 | ericzhao16 | Eric Zhao | 50 | 113 | 7 | 170 |
 | 6 | 292 | enumerative | Peter Wu | 46 | 105 | 12 | 163 |
-| 7 | 241 | adavidwu | David Wu | 54 | 77 | 11 | 142 |
+| 7 | 242 | adavidwu | David Wu | 55 | 77 | 11 | 143 |
 | 8 | 193 | wlvrd | Nick Walvoord | 36 | 71 | 5 | 112 |
 | 9 | 177 | ohmp7 | Ohm Patel | 36 | 63 | 5 | 104 |
 | 10 | 132 | wolinskij | Jonathan Wolinski | 34 | 46 | 2 | 82 |
