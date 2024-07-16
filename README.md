@@ -10,7 +10,7 @@
 | 🥇 1 | 393 | Vonais | John Xie | 80 | 140 | 11 | 231 |
 | 🥈 2 | 318 | shadowion | Ihsaan Yasin | 88 | 94 | 14 | 196 |
 | 🥉 3 | 301 | arnsh | Arnav Shah | 46 | 105 | 15 | 166 |
-| 4 | 297 | shreypatel703 | Shrey Patel | 50 | 113 | 7 | 170 |
+| 4 | 301 | shreypatel703 | Shrey Patel | 50 | 115 | 7 | 172 |
 | 5 | 297 | ericzhao16 | Eric Zhao | 50 | 113 | 7 | 170 |
 | 6 | 292 | enumerative | Peter Wu | 46 | 105 | 12 | 163 |
 | 7 | 242 | adavidwu | David Wu | 55 | 77 | 11 | 143 |
