@@ -11,7 +11,7 @@
 | 🥈 2 | 318 | shadowion | Ihsaan Yasin | 88 | 94 | 14 | 196 |
 | 🥉 3 | 311 | shreypatel703 | Shrey Patel | 50 | 120 | 7 | 177 |
 | 4 | 308 | kjihwan | Jihwan Kim | 62 | 102 | 14 | 178 |
-| 5 | 303 | arnsh | Arnav Shah | 46 | 106 | 15 | 167 |
+| 5 | 305 | arnsh | Arnav Shah | 46 | 107 | 15 | 168 |
 | 6 | 297 | ericzhao16 | Eric Zhao | 50 | 113 | 7 | 170 |
 | 7 | 292 | enumerative | Peter Wu | 46 | 105 | 12 | 163 |
 | 8 | 251 | adavidwu | David Wu | 56 | 81 | 11 | 148 |
