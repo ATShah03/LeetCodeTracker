@@ -18,5 +18,5 @@
 | 9 | 205 | wlvrd | Nick Walvoord | 38 | 76 | 5 | 119 |
 | 10 | 181 | ohmp7 | Ohm Patel | 36 | 65 | 5 | 106 |
 | 11 | 132 | wolinskij | Jonathan Wolinski | 34 | 46 | 2 | 82 |
-| 12 | 68 | justinbabe019 | Angie Leong | 26 | 21 | 0 | 47 |
+| 12 | 71 | justinbabe019 | Angie Leong | 27 | 22 | 0 | 49 |
 ---
