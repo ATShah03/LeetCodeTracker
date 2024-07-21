@@ -17,9 +17,9 @@
 | 8 | 297 | ericzhao16 | Eric Zhao | 50 | 113 | 7 | 170 |
 | 9 | 293 | enumerative | Peter Wu | 47 | 105 | 12 | 164 |
 | 10 | 264 | adavidwu | David Wu | 57 | 87 | 11 | 155 |
-| 11 | 205 | wlvrd | Nick Walvoord | 38 | 76 | 5 | 119 |
-| 12 | 181 | ohmp7 | Ohm Patel | 36 | 65 | 5 | 106 |
-| 13 | 180 | jessicaa_zhang | Jessica Zhang | 51 | 60 | 3 | 114 |
+| 11 | 207 | wlvrd | Nick Walvoord | 38 | 77 | 5 | 120 |
+| 12 | 184 | jessicaa_zhang | Jessica Zhang | 51 | 62 | 3 | 116 |
+| 13 | 181 | ohmp7 | Ohm Patel | 36 | 65 | 5 | 106 |
 | 14 | 132 | wolinskij | Jonathan Wolinski | 34 | 46 | 2 | 82 |
 | 15 | 74 | justinbabe019 | Angie Leong | 28 | 23 | 0 | 51 |
 ---
