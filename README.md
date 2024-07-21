@@ -9,17 +9,17 @@
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 722 | ashwin_a_kumar | Ashwin Kumar | 174 | 244 | 20 | 438 |
 | 🥈 2 | 438 | Flytre | Aaron Rahman | 41 | 140 | 39 | 220 |
-| 🥉 3 | 399 | Vonais | John Xie | 80 | 143 | 11 | 234 |
+| 🥉 3 | 414 | Vonais | John Xie | 83 | 146 | 13 | 242 |
 | 4 | 318 | shadowion | Ihsaan Yasin | 88 | 94 | 14 | 196 |
-| 5 | 313 | shreypatel703 | Shrey Patel | 50 | 121 | 7 | 178 |
-| 6 | 312 | arnsh | Arnav Shah | 47 | 110 | 15 | 172 |
+| 5 | 317 | arnsh | Arnav Shah | 48 | 112 | 15 | 175 |
+| 6 | 313 | shreypatel703 | Shrey Patel | 50 | 121 | 7 | 178 |
 | 7 | 308 | kjihwan | Jihwan Kim | 62 | 102 | 14 | 178 |
 | 8 | 297 | ericzhao16 | Eric Zhao | 50 | 113 | 7 | 170 |
-| 9 | 292 | enumerative | Peter Wu | 46 | 105 | 12 | 163 |
-| 10 | 260 | adavidwu | David Wu | 57 | 85 | 11 | 153 |
+| 9 | 293 | enumerative | Peter Wu | 47 | 105 | 12 | 164 |
+| 10 | 262 | adavidwu | David Wu | 57 | 86 | 11 | 154 |
 | 11 | 205 | wlvrd | Nick Walvoord | 38 | 76 | 5 | 119 |
 | 12 | 181 | ohmp7 | Ohm Patel | 36 | 65 | 5 | 106 |
-| 13 | 174 | jessicaa_zhang | Jessica Zhang | 47 | 59 | 3 | 109 |
+| 13 | 179 | jessicaa_zhang | Jessica Zhang | 50 | 60 | 3 | 113 |
 | 14 | 132 | wolinskij | Jonathan Wolinski | 34 | 46 | 2 | 82 |
 | 15 | 72 | justinbabe019 | Angie Leong | 28 | 22 | 0 | 50 |
 ---
