@@ -11,14 +11,14 @@
 | 🥈 2 | 438 | Flytre | Aaron Rahman | 41 | 140 | 39 | 220 |
 | 🥉 3 | 414 | Vonais | John Xie | 83 | 146 | 13 | 242 |
 | 4 | 319 | shadowion | Ihsaan Yasin | 89 | 94 | 14 | 197 |
-| 5 | 317 | arnsh | Arnav Shah | 48 | 112 | 15 | 175 |
+| 5 | 318 | arnsh | Arnav Shah | 49 | 112 | 15 | 176 |
 | 6 | 313 | shreypatel703 | Shrey Patel | 50 | 121 | 7 | 178 |
 | 7 | 308 | kjihwan | Jihwan Kim | 62 | 102 | 14 | 178 |
 | 8 | 297 | ericzhao16 | Eric Zhao | 50 | 113 | 7 | 170 |
 | 9 | 293 | enumerative | Peter Wu | 47 | 105 | 12 | 164 |
 | 10 | 267 | adavidwu | David Wu | 58 | 88 | 11 | 157 |
-| 11 | 207 | wlvrd | Nick Walvoord | 38 | 77 | 5 | 120 |
-| 12 | 184 | jessicaa_zhang | Jessica Zhang | 51 | 62 | 3 | 116 |
+| 11 | 209 | wlvrd | Nick Walvoord | 38 | 78 | 5 | 121 |
+| 12 | 187 | jessicaa_zhang | Jessica Zhang | 52 | 63 | 3 | 118 |
 | 13 | 181 | ohmp7 | Ohm Patel | 36 | 65 | 5 | 106 |
 | 14 | 132 | wolinskij | Jonathan Wolinski | 34 | 46 | 2 | 82 |
 | 15 | 74 | justinbabe019 | Angie Leong | 28 | 23 | 0 | 51 |
