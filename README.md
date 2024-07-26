@@ -10,7 +10,7 @@
 | 🥇 1 | 723 | ashwin_a_kumar | Ashwin Kumar | 175 | 244 | 20 | 439 |
 | 🥈 2 | 438 | Flytre | Aaron Rahman | 41 | 140 | 39 | 220 |
 | 🥉 3 | 436 | Vonais | John Xie | 86 | 151 | 16 | 253 |
-| 4 | 331 | arnsh | Arnav Shah | 50 | 115 | 17 | 182 |
+| 4 | 333 | arnsh | Arnav Shah | 50 | 116 | 17 | 183 |
 | 5 | 319 | shadowion | Ihsaan Yasin | 89 | 94 | 14 | 197 |
 | 6 | 313 | shreypatel703 | Shrey Patel | 50 | 121 | 7 | 178 |
 | 7 | 308 | kjihwan | Jihwan Kim | 62 | 102 | 14 | 178 |
