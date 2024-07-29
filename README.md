@@ -14,7 +14,7 @@
 | 5 | 319 | shadowion | Ihsaan Yasin | 89 | 94 | 14 | 197 |
 | 6 | 315 | shreypatel703 | Shrey Patel | 50 | 122 | 7 | 179 |
 | 7 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
-| 8 | 297 | ericzhao16 | Eric Zhao | 50 | 113 | 7 | 170 |
+| 8 | 298 | ericzhao16 | Eric Zhao | 51 | 113 | 7 | 171 |
 | 9 | 293 | enumerative | Peter Wu | 47 | 105 | 12 | 164 |
 | 10 | 273 | adavidwu | David Wu | 58 | 91 | 11 | 160 |
 | 11 | 216 | wlvrd | Nick Walvoord | 39 | 81 | 5 | 125 |
