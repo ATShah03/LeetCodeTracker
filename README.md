@@ -8,7 +8,7 @@
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 723 | ashwin_a_kumar | Ashwin Kumar | 175 | 244 | 20 | 439 |
-| 🥈 2 | 438 | Vonais | John Xie | 86 | 152 | 16 | 254 |
+| 🥈 2 | 445 | Vonais | John Xie | 87 | 155 | 16 | 258 |
 | 🥉 3 | 438 | Flytre | Aaron Rahman | 41 | 140 | 39 | 220 |
 | 4 | 339 | arnsh | Arnav Shah | 50 | 119 | 17 | 186 |
 | 5 | 319 | shadowion | Ihsaan Yasin | 89 | 94 | 14 | 197 |
