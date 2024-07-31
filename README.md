@@ -8,7 +8,7 @@
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 723 | ashwin_a_kumar | Ashwin Kumar | 175 | 244 | 20 | 439 |
-| 🥈 2 | 445 | Vonais | John Xie | 87 | 155 | 16 | 258 |
+| 🥈 2 | 449 | Vonais | John Xie | 87 | 157 | 16 | 260 |
 | 🥉 3 | 438 | Flytre | Aaron Rahman | 41 | 140 | 39 | 220 |
 | 4 | 339 | arnsh | Arnav Shah | 50 | 119 | 17 | 186 |
 | 5 | 319 | shadowion | Ihsaan Yasin | 89 | 94 | 14 | 197 |
@@ -16,7 +16,7 @@
 | 7 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 8 | 298 | ericzhao16 | Eric Zhao | 51 | 113 | 7 | 171 |
 | 9 | 293 | enumerative | Peter Wu | 47 | 105 | 12 | 164 |
-| 10 | 273 | adavidwu | David Wu | 58 | 91 | 11 | 160 |
+| 10 | 275 | adavidwu | David Wu | 58 | 92 | 11 | 161 |
 | 11 | 220 | wlvrd | Nick Walvoord | 39 | 83 | 5 | 127 |
 | 12 | 211 | ohmp7 | Ohm Patel | 39 | 77 | 6 | 122 |
 | 13 | 187 | jessicaa_zhang | Jessica Zhang | 52 | 63 | 3 | 118 |
