@@ -20,7 +20,7 @@
 | 11 | 222 | wlvrd | Nick Walvoord | 41 | 83 | 5 | 129 |
 | 12 | 217 | ohmp7 | Ohm Patel | 41 | 79 | 6 | 126 |
 | 13 | 187 | jessicaa_zhang | Jessica Zhang | 52 | 63 | 3 | 118 |
-| 14 | 172 | ewangerz | Emily Wang | 18 | 59 | 12 | 89 |
+| 14 | 174 | ewangerz | Emily Wang | 20 | 59 | 12 | 91 |
 | 15 | 132 | wolinskij | Jonathan Wolinski | 34 | 46 | 2 | 82 |
-| 16 | 82 | justinbabe019 | Angie Leong | 30 | 26 | 0 | 56 |
+| 16 | 83 | justinbabe019 | Angie Leong | 31 | 26 | 0 | 57 |
 ---
