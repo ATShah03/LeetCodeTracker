@@ -8,7 +8,7 @@
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 723 | ashwin_a_kumar | Ashwin Kumar | 175 | 244 | 20 | 439 |
-| 🥈 2 | 459 | Vonais | John Xie | 88 | 160 | 17 | 265 |
+| 🥈 2 | 463 | Vonais | John Xie | 88 | 162 | 17 | 267 |
 | 🥉 3 | 439 | Flytre | Aaron Rahman | 42 | 140 | 39 | 221 |
 | 4 | 345 | arnsh | Arnav Shah | 50 | 122 | 17 | 189 |
 | 5 | 319 | shadowion | Ihsaan Yasin | 89 | 94 | 14 | 197 |
@@ -19,8 +19,8 @@
 | 10 | 276 | adavidwu | David Wu | 59 | 92 | 11 | 162 |
 | 11 | 222 | wlvrd | Nick Walvoord | 41 | 83 | 5 | 129 |
 | 12 | 221 | ohmp7 | Ohm Patel | 41 | 81 | 6 | 128 |
-| 13 | 196 | jessicaa_zhang | Jessica Zhang | 52 | 66 | 4 | 122 |
-| 14 | 178 | ewangerz | Emily Wang | 24 | 59 | 12 | 95 |
+| 13 | 198 | jessicaa_zhang | Jessica Zhang | 52 | 67 | 4 | 123 |
+| 14 | 181 | ewangerz | Emily Wang | 24 | 59 | 13 | 96 |
 | 15 | 133 | wolinskij | Jonathan Wolinski | 35 | 46 | 2 | 83 |
 | 16 | 83 | justinbabe019 | Angie Leong | 31 | 26 | 0 | 57 |
 ---
