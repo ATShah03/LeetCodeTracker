@@ -16,11 +16,11 @@
 | 7 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 8 | 298 | ericzhao16 | Eric Zhao | 51 | 113 | 7 | 171 |
 | 9 | 293 | enumerative | Peter Wu | 47 | 105 | 12 | 164 |
-| 10 | 276 | adavidwu | David Wu | 59 | 92 | 11 | 162 |
+| 10 | 278 | adavidwu | David Wu | 59 | 93 | 11 | 163 |
 | 11 | 225 | wlvrd | Nick Walvoord | 42 | 84 | 5 | 131 |
 | 12 | 221 | ohmp7 | Ohm Patel | 41 | 81 | 6 | 128 |
 | 13 | 198 | jessicaa_zhang | Jessica Zhang | 52 | 67 | 4 | 123 |
-| 14 | 181 | ewangerz | Emily Wang | 24 | 59 | 13 | 96 |
+| 14 | 183 | ewangerz | Emily Wang | 26 | 59 | 13 | 98 |
 | 15 | 133 | wolinskij | Jonathan Wolinski | 35 | 46 | 2 | 83 |
 | 16 | 85 | justinbabe019 | Angie Leong | 31 | 27 | 0 | 58 |
 ---
