@@ -22,5 +22,5 @@
 | 13 | 198 | jessicaa_zhang | Jessica Zhang | 52 | 67 | 4 | 123 |
 | 14 | 186 | ewangerz | Emily Wang | 27 | 60 | 13 | 100 |
 | 15 | 133 | wolinskij | Jonathan Wolinski | 35 | 46 | 2 | 83 |
-| 16 | 85 | justinbabe019 | Angie Leong | 31 | 27 | 0 | 58 |
+| 16 | 86 | justinbabe019 | Angie Leong | 32 | 27 | 0 | 59 |
 ---
