@@ -8,9 +8,9 @@
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 726 | ashwin_a_kumar | Ashwin Kumar | 176 | 245 | 20 | 441 |
-| 🥈 2 | 487 | Vonais | John Xie | 91 | 171 | 18 | 280 |
+| 🥈 2 | 492 | Vonais | John Xie | 91 | 172 | 19 | 282 |
 | 🥉 3 | 442 | Flytre | Aaron Rahman | 43 | 141 | 39 | 223 |
-| 4 | 386 | arnsh | Arnav Shah | 55 | 140 | 17 | 212 |
+| 4 | 388 | arnsh | Arnav Shah | 55 | 141 | 17 | 213 |
 | 5 | 322 | shadowion | Ihsaan Yasin | 90 | 95 | 14 | 199 |
 | 6 | 318 | shreypatel703 | Shrey Patel | 50 | 122 | 8 | 180 |
 | 7 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
@@ -20,7 +20,7 @@
 | 11 | 230 | ohmp7 | Ohm Patel | 42 | 85 | 6 | 133 |
 | 12 | 227 | wlvrd | Nick Walvoord | 42 | 85 | 5 | 132 |
 | 13 | 219 | ewangerz | Emily Wang | 30 | 75 | 13 | 118 |
-| 14 | 212 | jessicaa_zhang | Jessica Zhang | 52 | 74 | 4 | 130 |
+| 14 | 218 | jessicaa_zhang | Jessica Zhang | 52 | 77 | 4 | 133 |
 | 15 | 134 | wolinskij | Jonathan Wolinski | 36 | 46 | 2 | 84 |
 | 16 | 93 | justinbabe019 | Angie Leong | 35 | 29 | 0 | 64 |
 ---
