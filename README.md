@@ -10,15 +10,15 @@
 | 🥇 1 | 726 | ashwin_a_kumar | Ashwin Kumar | 176 | 245 | 20 | 441 |
 | 🥈 2 | 512 | Vonais | John Xie | 93 | 178 | 21 | 292 |
 | 🥉 3 | 442 | Flytre | Aaron Rahman | 43 | 141 | 39 | 223 |
-| 4 | 429 | arnsh | Arnav Shah | 56 | 152 | 23 | 231 |
+| 4 | 431 | arnsh | Arnav Shah | 56 | 153 | 23 | 232 |
 | 5 | 326 | shadowion | Ihsaan Yasin | 90 | 97 | 14 | 201 |
 | 6 | 321 | shreypatel703 | Shrey Patel | 50 | 122 | 9 | 181 |
 | 7 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 8 | 298 | ericzhao16 | Eric Zhao | 51 | 113 | 7 | 171 |
 | 9 | 293 | enumerative | Peter Wu | 47 | 105 | 12 | 164 |
 | 10 | 291 | adavidwu | David Wu | 61 | 97 | 12 | 170 |
-| 11 | 232 | ohmp7 | Ohm Patel | 42 | 86 | 6 | 134 |
-| 12 | 232 | ewangerz | Emily Wang | 30 | 80 | 14 | 124 |
+| 11 | 238 | ewangerz | Emily Wang | 30 | 83 | 14 | 127 |
+| 12 | 232 | ohmp7 | Ohm Patel | 42 | 86 | 6 | 134 |
 | 13 | 231 | wlvrd | Nick Walvoord | 42 | 87 | 5 | 134 |
 | 14 | 218 | jessicaa_zhang | Jessica Zhang | 52 | 77 | 4 | 133 |
 | 15 | 145 | wolinskij | Jonathan Wolinski | 36 | 50 | 3 | 89 |
