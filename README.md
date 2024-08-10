@@ -10,12 +10,12 @@
 | 🥇 1 | 726 | ashwin_a_kumar | Ashwin Kumar | 176 | 245 | 20 | 441 |
 | 🥈 2 | 512 | Vonais | John Xie | 93 | 178 | 21 | 292 |
 | 🥉 3 | 442 | Flytre | Aaron Rahman | 43 | 141 | 39 | 223 |
-| 4 | 431 | arnsh | Arnav Shah | 56 | 153 | 23 | 232 |
+| 4 | 439 | arnsh | Arnav Shah | 56 | 154 | 25 | 235 |
 | 5 | 326 | shadowion | Ihsaan Yasin | 90 | 97 | 14 | 201 |
 | 6 | 321 | shreypatel703 | Shrey Patel | 50 | 122 | 9 | 181 |
 | 7 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
-| 8 | 298 | ericzhao16 | Eric Zhao | 51 | 113 | 7 | 171 |
-| 9 | 293 | adavidwu | David Wu | 61 | 98 | 12 | 171 |
+| 8 | 303 | adavidwu | David Wu | 61 | 103 | 12 | 176 |
+| 9 | 298 | ericzhao16 | Eric Zhao | 51 | 113 | 7 | 171 |
 | 10 | 293 | enumerative | Peter Wu | 47 | 105 | 12 | 164 |
 | 11 | 238 | ewangerz | Emily Wang | 30 | 83 | 14 | 127 |
 | 12 | 232 | ohmp7 | Ohm Patel | 42 | 86 | 6 | 134 |
