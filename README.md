@@ -9,10 +9,10 @@
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 726 | ashwin_a_kumar | Ashwin Kumar | 176 | 245 | 20 | 441 |
 | 🥈 2 | 514 | Vonais | John Xie | 93 | 179 | 21 | 293 |
-| 🥉 3 | 448 | arnsh | Arnav Shah | 57 | 158 | 25 | 240 |
+| 🥉 3 | 451 | arnsh | Arnav Shah | 57 | 158 | 26 | 241 |
 | 4 | 442 | Flytre | Aaron Rahman | 43 | 141 | 39 | 223 |
-| 5 | 326 | shadowion | Ihsaan Yasin | 90 | 97 | 14 | 201 |
-| 6 | 324 | adavidwu | David Wu | 61 | 109 | 15 | 185 |
+| 5 | 327 | adavidwu | David Wu | 61 | 109 | 16 | 186 |
+| 6 | 326 | shadowion | Ihsaan Yasin | 90 | 97 | 14 | 201 |
 | 7 | 321 | shreypatel703 | Shrey Patel | 50 | 122 | 9 | 181 |
 | 8 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 9 | 298 | ericzhao16 | Eric Zhao | 51 | 113 | 7 | 171 |
