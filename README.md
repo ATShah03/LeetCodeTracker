@@ -21,6 +21,6 @@
 | 12 | 238 | ewangerz | Emily Wang | 30 | 83 | 14 | 127 |
 | 13 | 232 | ohmp7 | Ohm Patel | 42 | 86 | 6 | 134 |
 | 14 | 220 | jessicaa_zhang | Jessica Zhang | 52 | 78 | 4 | 134 |
-| 15 | 151 | wolinskij | Jonathan Wolinski | 36 | 53 | 3 | 92 |
+| 15 | 152 | wolinskij | Jonathan Wolinski | 37 | 53 | 3 | 93 |
 | 16 | 99 | justinbabe019 | Angie Leong | 36 | 30 | 1 | 67 |
 ---
