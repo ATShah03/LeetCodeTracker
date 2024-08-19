@@ -11,13 +11,13 @@
 | 🥈 2 | 558 | Vonais | John Xie | 107 | 191 | 23 | 321 |
 | 🥉 3 | 479 | arnsh | Arnav Shah | 60 | 166 | 29 | 255 |
 | 4 | 459 | Flytre | Aaron Rahman | 43 | 148 | 40 | 231 |
-| 5 | 348 | adavidwu | David Wu | 62 | 113 | 20 | 195 |
+| 5 | 350 | adavidwu | David Wu | 62 | 114 | 20 | 196 |
 | 6 | 329 | shadowion | Ihsaan Yasin | 91 | 98 | 14 | 203 |
 | 7 | 321 | shreypatel703 | Shrey Patel | 50 | 122 | 9 | 181 |
 | 8 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 9 | 298 | ericzhao16 | Eric Zhao | 51 | 113 | 7 | 171 |
 | 10 | 293 | enumerative | Peter Wu | 47 | 105 | 12 | 164 |
-| 11 | 241 | wlvrd | Nick Walvoord | 42 | 92 | 5 | 139 |
+| 11 | 243 | wlvrd | Nick Walvoord | 42 | 93 | 5 | 140 |
 | 12 | 238 | ewangerz | Emily Wang | 30 | 83 | 14 | 127 |
 | 13 | 232 | ohmp7 | Ohm Patel | 42 | 86 | 6 | 134 |
 | 14 | 228 | jessicaa_zhang | Jessica Zhang | 52 | 82 | 4 | 138 |
