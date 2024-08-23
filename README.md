@@ -9,7 +9,7 @@
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 726 | ashwin_a_kumar | Ashwin Kumar | 176 | 245 | 20 | 441 |
 | 🥈 2 | 577 | Vonais | John Xie | 108 | 197 | 25 | 330 |
-| 🥉 3 | 505 | arnsh | Arnav Shah | 61 | 171 | 34 | 266 |
+| 🥉 3 | 507 | arnsh | Arnav Shah | 61 | 172 | 34 | 267 |
 | 4 | 459 | Flytre | Aaron Rahman | 43 | 148 | 40 | 231 |
 | 5 | 358 | adavidwu | David Wu | 63 | 116 | 21 | 200 |
 | 6 | 329 | shadowion | Ihsaan Yasin | 91 | 98 | 14 | 203 |
@@ -18,7 +18,7 @@
 | 9 | 299 | ericzhao16 | Eric Zhao | 52 | 113 | 7 | 172 |
 | 10 | 293 | enumerative | Peter Wu | 47 | 105 | 12 | 164 |
 | 11 | 258 | ewangerz | Emily Wang | 39 | 87 | 15 | 141 |
-| 12 | 245 | wlvrd | Nick Walvoord | 42 | 94 | 5 | 141 |
+| 12 | 247 | wlvrd | Nick Walvoord | 42 | 95 | 5 | 142 |
 | 13 | 232 | ohmp7 | Ohm Patel | 42 | 86 | 6 | 134 |
 | 14 | 228 | jessicaa_zhang | Jessica Zhang | 52 | 82 | 4 | 138 |
 | 15 | 152 | wolinskij | Jonathan Wolinski | 37 | 53 | 3 | 93 |
