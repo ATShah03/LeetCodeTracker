@@ -21,6 +21,6 @@
 | 12 | 251 | wlvrd | Nick Walvoord | 42 | 97 | 5 | 144 |
 | 13 | 232 | ohmp7 | Ohm Patel | 42 | 86 | 6 | 134 |
 | 14 | 228 | jessicaa_zhang | Jessica Zhang | 52 | 82 | 4 | 138 |
-| 15 | 163 | wolinskij | Jonathan Wolinski | 38 | 58 | 3 | 99 |
+| 15 | 165 | wolinskij | Jonathan Wolinski | 38 | 59 | 3 | 100 |
 | 16 | 101 | justinbabe019 | Angie Leong | 38 | 30 | 1 | 69 |
 ---
