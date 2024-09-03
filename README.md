@@ -12,8 +12,8 @@
 | 🥉 3 | 539 | arnsh | Arnav Shah | 64 | 179 | 39 | 282 |
 | 4 | 460 | Flytre | Aaron Rahman | 44 | 148 | 40 | 232 |
 | 5 | 363 | adavidwu | David Wu | 65 | 116 | 22 | 203 |
-| 6 | 329 | shadowion | Ihsaan Yasin | 91 | 98 | 14 | 203 |
-| 7 | 326 | shreypatel703 | Shrey Patel | 50 | 123 | 10 | 183 |
+| 6 | 329 | shreypatel703 | Shrey Patel | 50 | 123 | 11 | 184 |
+| 7 | 329 | shadowion | Ihsaan Yasin | 91 | 98 | 14 | 203 |
 | 8 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 9 | 299 | ericzhao16 | Eric Zhao | 52 | 113 | 7 | 172 |
 | 10 | 293 | enumerative | Peter Wu | 47 | 105 | 12 | 164 |
