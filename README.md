@@ -9,7 +9,7 @@
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 726 | ashwin_a_kumar | Ashwin Kumar | 176 | 245 | 20 | 441 |
 | 🥈 2 | 602 | Vonais | John Xie | 110 | 207 | 26 | 343 |
-| 🥉 3 | 539 | arnsh | Arnav Shah | 64 | 179 | 39 | 282 |
+| 🥉 3 | 543 | arnsh | Arnav Shah | 64 | 181 | 39 | 284 |
 | 4 | 460 | Flytre | Aaron Rahman | 44 | 148 | 40 | 232 |
 | 5 | 363 | adavidwu | David Wu | 65 | 116 | 22 | 203 |
 | 6 | 331 | shreypatel703 | Shrey Patel | 50 | 124 | 11 | 185 |
@@ -18,9 +18,9 @@
 | 9 | 299 | ericzhao16 | Eric Zhao | 52 | 113 | 7 | 172 |
 | 10 | 293 | enumerative | Peter Wu | 47 | 105 | 12 | 164 |
 | 11 | 265 | ewangerz | Emily Wang | 39 | 89 | 16 | 144 |
-| 12 | 251 | wlvrd | Nick Walvoord | 42 | 97 | 5 | 144 |
+| 12 | 253 | wlvrd | Nick Walvoord | 42 | 98 | 5 | 145 |
 | 13 | 232 | ohmp7 | Ohm Patel | 42 | 86 | 6 | 134 |
 | 14 | 228 | jessicaa_zhang | Jessica Zhang | 52 | 82 | 4 | 138 |
-| 15 | 175 | wolinskij | Jonathan Wolinski | 40 | 63 | 3 | 106 |
+| 15 | 177 | wolinskij | Jonathan Wolinski | 40 | 64 | 3 | 107 |
 | 16 | 101 | justinbabe019 | Angie Leong | 38 | 30 | 1 | 69 |
 ---
