@@ -22,5 +22,5 @@
 | 13 | 232 | ohmp7 | Ohm Patel | 42 | 86 | 6 | 134 |
 | 14 | 228 | jessicaa_zhang | Jessica Zhang | 52 | 82 | 4 | 138 |
 | 15 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
-| 16 | 101 | justinbabe019 | Angie Leong | 38 | 30 | 1 | 69 |
+| 16 | 108 | justinbabe019 | Angie Leong | 38 | 32 | 2 | 72 |
 ---
