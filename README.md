@@ -12,12 +12,12 @@
 | 🥉 3 | 586 | arnsh | Arnav Shah | 68 | 193 | 44 | 305 |
 | 4 | 460 | Flytre | Aaron Rahman | 44 | 148 | 40 | 232 |
 | 5 | 364 | adavidwu | David Wu | 66 | 116 | 22 | 204 |
-| 6 | 334 | shreypatel703 | Shrey Patel | 50 | 124 | 12 | 186 |
+| 6 | 336 | shreypatel703 | Shrey Patel | 50 | 125 | 12 | 187 |
 | 7 | 332 | shadowion | Ihsaan Yasin | 92 | 99 | 14 | 205 |
 | 8 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 9 | 299 | ericzhao16 | Eric Zhao | 52 | 113 | 7 | 172 |
 | 10 | 295 | enumerative | Peter Wu | 47 | 106 | 12 | 165 |
-| 11 | 274 | ewangerz | Emily Wang | 39 | 92 | 17 | 148 |
+| 11 | 275 | ewangerz | Emily Wang | 40 | 92 | 17 | 149 |
 | 12 | 265 | wlvrd | Nick Walvoord | 42 | 104 | 5 | 151 |
 | 13 | 234 | ohmp7 | Ohm Patel | 42 | 87 | 6 | 135 |
 | 14 | 228 | jessicaa_zhang | Jessica Zhang | 52 | 82 | 4 | 138 |
