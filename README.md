@@ -8,8 +8,8 @@
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 729 | ashwin_a_kumar | Ashwin Kumar | 177 | 246 | 20 | 443 |
-| 🥈 2 | 615 | Vonais | John Xie | 112 | 211 | 27 | 350 |
-| 🥉 3 | 612 | arnsh | Arnav Shah | 70 | 199 | 48 | 317 |
+| 🥈 2 | 616 | arnsh | Arnav Shah | 71 | 199 | 49 | 319 |
+| 🥉 3 | 615 | Vonais | John Xie | 112 | 211 | 27 | 350 |
 | 4 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 5 | 368 | adavidwu | David Wu | 66 | 118 | 22 | 206 |
 | 6 | 347 | shreypatel703 | Shrey Patel | 52 | 128 | 13 | 193 |
@@ -17,8 +17,8 @@
 | 8 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 9 | 299 | ericzhao16 | Eric Zhao | 52 | 113 | 7 | 172 |
 | 10 | 295 | enumerative | Peter Wu | 47 | 106 | 12 | 165 |
-| 11 | 282 | ewangerz | Emily Wang | 41 | 95 | 17 | 153 |
-| 12 | 280 | wlvrd | Nick Walvoord | 42 | 110 | 6 | 158 |
+| 11 | 282 | wlvrd | Nick Walvoord | 42 | 111 | 6 | 159 |
+| 12 | 282 | ewangerz | Emily Wang | 41 | 95 | 17 | 153 |
 | 13 | 264 | ohmp7 | Ohm Patel | 43 | 100 | 7 | 150 |
 | 14 | 228 | jessicaa_zhang | Jessica Zhang | 52 | 82 | 4 | 138 |
 | 15 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
