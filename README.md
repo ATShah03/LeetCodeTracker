@@ -9,15 +9,15 @@
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 729 | ashwin_a_kumar | Ashwin Kumar | 177 | 246 | 20 | 443 |
 | 🥈 2 | 634 | arnsh | Arnav Shah | 71 | 205 | 51 | 327 |
-| 🥉 3 | 622 | Vonais | John Xie | 112 | 213 | 28 | 353 |
+| 🥉 3 | 624 | Vonais | John Xie | 112 | 214 | 28 | 354 |
 | 4 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 5 | 370 | adavidwu | David Wu | 66 | 119 | 22 | 207 |
 | 6 | 357 | shreypatel703 | Shrey Patel | 52 | 133 | 13 | 198 |
-| 7 | 336 | shadowion | Ihsaan Yasin | 92 | 101 | 14 | 207 |
+| 7 | 338 | shadowion | Ihsaan Yasin | 92 | 102 | 14 | 208 |
 | 8 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 9 | 299 | ericzhao16 | Eric Zhao | 52 | 113 | 7 | 172 |
 | 10 | 295 | enumerative | Peter Wu | 47 | 106 | 12 | 165 |
-| 11 | 287 | ewangerz | Emily Wang | 41 | 96 | 18 | 155 |
+| 11 | 288 | ewangerz | Emily Wang | 42 | 96 | 18 | 156 |
 | 12 | 282 | wlvrd | Nick Walvoord | 42 | 111 | 6 | 159 |
 | 13 | 271 | ohmp7 | Ohm Patel | 44 | 103 | 7 | 154 |
 | 14 | 228 | jessicaa_zhang | Jessica Zhang | 52 | 82 | 4 | 138 |
