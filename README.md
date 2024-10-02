@@ -17,7 +17,7 @@
 | 8 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 9 | 299 | ericzhao16 | Eric Zhao | 52 | 113 | 7 | 172 |
 | 10 | 295 | enumerative | Peter Wu | 47 | 106 | 12 | 165 |
-| 11 | 288 | ewangerz | Emily Wang | 42 | 96 | 18 | 156 |
+| 11 | 289 | ewangerz | Emily Wang | 43 | 96 | 18 | 157 |
 | 12 | 282 | wlvrd | Nick Walvoord | 42 | 111 | 6 | 159 |
 | 13 | 273 | ohmp7 | Ohm Patel | 44 | 104 | 7 | 155 |
 | 14 | 228 | jessicaa_zhang | Jessica Zhang | 52 | 82 | 4 | 138 |
