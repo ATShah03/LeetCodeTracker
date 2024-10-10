@@ -19,7 +19,7 @@
 | 10 | 298 | enumerative | Peter Wu | 47 | 106 | 13 | 166 |
 | 11 | 291 | ewangerz | Emily Wang | 43 | 97 | 18 | 158 |
 | 12 | 286 | ohmp7 | Ohm Patel | 45 | 107 | 9 | 161 |
-| 13 | 282 | wlvrd | Nick Walvoord | 42 | 111 | 6 | 159 |
+| 13 | 284 | wlvrd | Nick Walvoord | 42 | 112 | 6 | 160 |
 | 14 | 274 | jessicaa_zhang | Jessica Zhang | 52 | 102 | 6 | 160 |
 | 15 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
 | 16 | 115 | justinbabe019 | Angie Leong | 41 | 34 | 2 | 77 |
