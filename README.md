@@ -22,5 +22,5 @@
 | 13 | 282 | wlvrd | Nick Walvoord | 42 | 111 | 6 | 159 |
 | 14 | 274 | jessicaa_zhang | Jessica Zhang | 52 | 102 | 6 | 160 |
 | 15 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
-| 16 | 111 | justinbabe019 | Angie Leong | 39 | 33 | 2 | 74 |
+| 16 | 115 | justinbabe019 | Angie Leong | 41 | 34 | 2 | 77 |
 ---
