@@ -12,12 +12,12 @@
 | 🥉 3 | 635 | Vonais | John Xie | 113 | 216 | 30 | 359 |
 | 4 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 5 | 411 | adavidwu | David Wu | 68 | 134 | 25 | 227 |
-| 6 | 401 | shreypatel703 | Shrey Patel | 53 | 153 | 14 | 220 |
+| 6 | 406 | shreypatel703 | Shrey Patel | 54 | 155 | 14 | 223 |
 | 7 | 357 | shadowion | Ihsaan Yasin | 94 | 109 | 15 | 218 |
 | 8 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 9 | 299 | ericzhao16 | Eric Zhao | 52 | 113 | 7 | 172 |
 | 10 | 298 | enumerative | Peter Wu | 47 | 106 | 13 | 166 |
-| 11 | 291 | ewangerz | Emily Wang | 43 | 97 | 18 | 158 |
+| 11 | 293 | ewangerz | Emily Wang | 43 | 98 | 18 | 159 |
 | 12 | 286 | ohmp7 | Ohm Patel | 45 | 107 | 9 | 161 |
 | 13 | 284 | wlvrd | Nick Walvoord | 42 | 112 | 6 | 160 |
 | 14 | 275 | jessicaa_zhang | Jessica Zhang | 53 | 102 | 6 | 161 |
