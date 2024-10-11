@@ -12,7 +12,7 @@
 | 🥉 3 | 635 | Vonais | John Xie | 113 | 216 | 30 | 359 |
 | 4 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 5 | 411 | adavidwu | David Wu | 68 | 134 | 25 | 227 |
-| 6 | 397 | shreypatel703 | Shrey Patel | 53 | 151 | 14 | 218 |
+| 6 | 401 | shreypatel703 | Shrey Patel | 53 | 153 | 14 | 220 |
 | 7 | 357 | shadowion | Ihsaan Yasin | 94 | 109 | 15 | 218 |
 | 8 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 9 | 299 | ericzhao16 | Eric Zhao | 52 | 113 | 7 | 172 |
