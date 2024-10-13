@@ -11,7 +11,7 @@
 | 🥈 2 | 638 | arnsh | Arnav Shah | 71 | 207 | 51 | 329 |
 | 🥉 3 | 635 | Vonais | John Xie | 113 | 216 | 30 | 359 |
 | 4 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
-| 5 | 434 | adavidwu | David Wu | 73 | 143 | 25 | 241 |
+| 5 | 439 | adavidwu | David Wu | 73 | 144 | 26 | 243 |
 | 6 | 410 | shreypatel703 | Shrey Patel | 54 | 157 | 14 | 225 |
 | 7 | 364 | shadowion | Ihsaan Yasin | 94 | 111 | 16 | 221 |
 | 8 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
