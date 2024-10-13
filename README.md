@@ -11,7 +11,7 @@
 | 🥈 2 | 638 | arnsh | Arnav Shah | 71 | 207 | 51 | 329 |
 | 🥉 3 | 635 | Vonais | John Xie | 113 | 216 | 30 | 359 |
 | 4 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
-| 5 | 414 | adavidwu | David Wu | 69 | 135 | 25 | 229 |
+| 5 | 416 | adavidwu | David Wu | 69 | 136 | 25 | 230 |
 | 6 | 406 | shreypatel703 | Shrey Patel | 54 | 155 | 14 | 223 |
 | 7 | 364 | shadowion | Ihsaan Yasin | 94 | 111 | 16 | 221 |
 | 8 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
@@ -22,5 +22,5 @@
 | 13 | 284 | wlvrd | Nick Walvoord | 42 | 112 | 6 | 160 |
 | 14 | 275 | jessicaa_zhang | Jessica Zhang | 53 | 102 | 6 | 161 |
 | 15 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
-| 16 | 118 | justinbabe019 | Angie Leong | 41 | 34 | 3 | 78 |
+| 16 | 119 | justinbabe019 | Angie Leong | 42 | 34 | 3 | 79 |
 ---
