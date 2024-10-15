@@ -15,8 +15,8 @@
 | 6 | 416 | shreypatel703 | Shrey Patel | 54 | 160 | 14 | 228 |
 | 7 | 368 | shadowion | Ihsaan Yasin | 94 | 113 | 16 | 223 |
 | 8 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
-| 9 | 300 | ewangerz | Emily Wang | 43 | 100 | 19 | 162 |
-| 10 | 299 | ericzhao16 | Eric Zhao | 52 | 113 | 7 | 172 |
+| 9 | 301 | ericzhao16 | Eric Zhao | 52 | 114 | 7 | 173 |
+| 10 | 300 | ewangerz | Emily Wang | 43 | 100 | 19 | 162 |
 | 11 | 298 | enumerative | Peter Wu | 47 | 106 | 13 | 166 |
 | 12 | 291 | ohmp7 | Ohm Patel | 50 | 107 | 9 | 166 |
 | 13 | 284 | wlvrd | Nick Walvoord | 42 | 112 | 6 | 160 |
