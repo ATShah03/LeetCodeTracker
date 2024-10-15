@@ -13,7 +13,7 @@
 | 4 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 5 | 444 | adavidwu | David Wu | 74 | 146 | 26 | 246 |
 | 6 | 416 | shreypatel703 | Shrey Patel | 54 | 160 | 14 | 228 |
-| 7 | 368 | shadowion | Ihsaan Yasin | 94 | 113 | 16 | 223 |
+| 7 | 370 | shadowion | Ihsaan Yasin | 94 | 114 | 16 | 224 |
 | 8 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 9 | 301 | ericzhao16 | Eric Zhao | 52 | 114 | 7 | 173 |
 | 10 | 300 | ewangerz | Emily Wang | 43 | 100 | 19 | 162 |
