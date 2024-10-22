@@ -12,7 +12,7 @@
 | 🥉 3 | 638 | arnsh | Arnav Shah | 71 | 207 | 51 | 329 |
 | 4 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 5 | 448 | adavidwu | David Wu | 74 | 148 | 26 | 248 |
-| 6 | 416 | shreypatel703 | Shrey Patel | 54 | 160 | 14 | 228 |
+| 6 | 418 | shreypatel703 | Shrey Patel | 54 | 161 | 14 | 229 |
 | 7 | 386 | shadowion | Ihsaan Yasin | 95 | 120 | 17 | 232 |
 | 8 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 9 | 304 | ewangerz | Emily Wang | 43 | 102 | 19 | 164 |
