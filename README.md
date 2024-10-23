@@ -23,4 +23,5 @@
 | 14 | 275 | jessicaa_zhang | Jessica Zhang | 53 | 102 | 6 | 161 |
 | 15 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
 | 16 | 128 | justinbabe019 | Angie Leong | 43 | 38 | 3 | 84 |
+| 17 | 61 | user9263Q | Nikhil Vaidyanathan | 15 | 11 | 8 | 34 |
 ---
