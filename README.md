@@ -16,12 +16,12 @@
 | 7 | 386 | shadowion | Ihsaan Yasin | 95 | 120 | 17 | 232 |
 | 8 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 9 | 306 | ewangerz | Emily Wang | 43 | 103 | 19 | 165 |
-| 10 | 304 | ohmp7 | Ohm Patel | 50 | 112 | 10 | 172 |
+| 10 | 305 | ohmp7 | Ohm Patel | 51 | 112 | 10 | 173 |
 | 11 | 303 | ericzhao16 | Eric Zhao | 52 | 115 | 7 | 174 |
 | 12 | 298 | enumerative | Peter Wu | 47 | 106 | 13 | 166 |
 | 13 | 292 | wlvrd | Nick Walvoord | 42 | 116 | 6 | 164 |
 | 14 | 279 | jessicaa_zhang | Jessica Zhang | 53 | 104 | 6 | 163 |
 | 15 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
 | 16 | 136 | justinbabe019 | Angie Leong | 43 | 42 | 3 | 88 |
-| 17 | 81 | user9263Q | Nikhil Vaidyanathan | 16 | 16 | 11 | 43 |
+| 17 | 84 | user9263Q | Nikhil Vaidyanathan | 16 | 16 | 12 | 44 |
 ---
