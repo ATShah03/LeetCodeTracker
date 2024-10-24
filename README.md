@@ -12,7 +12,7 @@
 | 🥉 3 | 640 | Vonais | John Xie | 113 | 217 | 31 | 361 |
 | 4 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 5 | 450 | adavidwu | David Wu | 74 | 149 | 26 | 249 |
-| 6 | 428 | shreypatel703 | Shrey Patel | 55 | 164 | 15 | 234 |
+| 6 | 438 | shreypatel703 | Shrey Patel | 55 | 169 | 15 | 239 |
 | 7 | 386 | shadowion | Ihsaan Yasin | 95 | 120 | 17 | 232 |
 | 8 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 9 | 306 | ewangerz | Emily Wang | 43 | 103 | 19 | 165 |
@@ -23,5 +23,5 @@
 | 14 | 279 | jessicaa_zhang | Jessica Zhang | 53 | 104 | 6 | 163 |
 | 15 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
 | 16 | 136 | justinbabe019 | Angie Leong | 43 | 42 | 3 | 88 |
-| 17 | 70 | user9263Q | Nikhil Vaidyanathan | 15 | 14 | 9 | 38 |
+| 17 | 75 | user9263Q | Nikhil Vaidyanathan | 15 | 15 | 10 | 40 |
 ---
