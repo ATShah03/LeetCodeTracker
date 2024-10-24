@@ -12,16 +12,16 @@
 | 🥉 3 | 640 | Vonais | John Xie | 113 | 217 | 31 | 361 |
 | 4 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 5 | 450 | adavidwu | David Wu | 74 | 149 | 26 | 249 |
-| 6 | 438 | shreypatel703 | Shrey Patel | 55 | 169 | 15 | 239 |
+| 6 | 440 | shreypatel703 | Shrey Patel | 55 | 170 | 15 | 240 |
 | 7 | 386 | shadowion | Ihsaan Yasin | 95 | 120 | 17 | 232 |
 | 8 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 9 | 306 | ewangerz | Emily Wang | 43 | 103 | 19 | 165 |
-| 10 | 303 | ericzhao16 | Eric Zhao | 52 | 115 | 7 | 174 |
-| 11 | 302 | ohmp7 | Ohm Patel | 50 | 111 | 10 | 171 |
+| 10 | 304 | ohmp7 | Ohm Patel | 50 | 112 | 10 | 172 |
+| 11 | 303 | ericzhao16 | Eric Zhao | 52 | 115 | 7 | 174 |
 | 12 | 298 | enumerative | Peter Wu | 47 | 106 | 13 | 166 |
 | 13 | 292 | wlvrd | Nick Walvoord | 42 | 116 | 6 | 164 |
 | 14 | 279 | jessicaa_zhang | Jessica Zhang | 53 | 104 | 6 | 163 |
 | 15 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
 | 16 | 136 | justinbabe019 | Angie Leong | 43 | 42 | 3 | 88 |
-| 17 | 75 | user9263Q | Nikhil Vaidyanathan | 15 | 15 | 10 | 40 |
+| 17 | 81 | user9263Q | Nikhil Vaidyanathan | 16 | 16 | 11 | 43 |
 ---
