@@ -8,12 +8,12 @@
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 733 | ashwin_a_kumar | Ashwin Kumar | 177 | 248 | 20 | 445 |
-| 🥈 2 | 644 | arnsh | Arnav Shah | 71 | 210 | 51 | 332 |
+| 🥈 2 | 647 | arnsh | Arnav Shah | 72 | 211 | 51 | 334 |
 | 🥉 3 | 640 | Vonais | John Xie | 113 | 217 | 31 | 361 |
 | 4 | 640 | brinco | Brian Lee | 80 | 238 | 28 | 346 |
 | 5 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
-| 6 | 450 | adavidwu | David Wu | 74 | 149 | 26 | 249 |
-| 7 | 444 | shreypatel703 | Shrey Patel | 55 | 172 | 15 | 242 |
+| 6 | 452 | shreypatel703 | Shrey Patel | 57 | 175 | 15 | 247 |
+| 7 | 450 | adavidwu | David Wu | 74 | 149 | 26 | 249 |
 | 8 | 440 | devk03 | Dev Kunjadia | 81 | 166 | 9 | 256 |
 | 9 | 388 | shadowion | Ihsaan Yasin | 95 | 121 | 17 | 233 |
 | 10 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
