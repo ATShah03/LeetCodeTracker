@@ -12,10 +12,10 @@
 | 🥉 3 | 640 | Vonais | John Xie | 113 | 217 | 31 | 361 |
 | 4 | 640 | brinco | Brian Lee | 80 | 238 | 28 | 346 |
 | 5 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
-| 6 | 452 | shreypatel703 | Shrey Patel | 57 | 175 | 15 | 247 |
+| 6 | 454 | shreypatel703 | Shrey Patel | 57 | 176 | 15 | 248 |
 | 7 | 450 | adavidwu | David Wu | 74 | 149 | 26 | 249 |
 | 8 | 440 | devk03 | Dev Kunjadia | 81 | 166 | 9 | 256 |
-| 9 | 388 | shadowion | Ihsaan Yasin | 95 | 121 | 17 | 233 |
+| 9 | 391 | shadowion | Ihsaan Yasin | 95 | 121 | 18 | 234 |
 | 10 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 11 | 306 | ericzhao16 | Eric Zhao | 52 | 115 | 8 | 175 |
 | 12 | 306 | ewangerz | Emily Wang | 43 | 103 | 19 | 165 |
@@ -25,5 +25,5 @@
 | 16 | 279 | jessicaa_zhang | Jessica Zhang | 53 | 104 | 6 | 163 |
 | 17 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
 | 18 | 136 | justinbabe019 | Angie Leong | 43 | 42 | 3 | 88 |
-| 19 | 103 | user9263Q | Nikhil Vaidyanathan | 24 | 20 | 13 | 57 |
+| 19 | 109 | nishtothekish | Nikhil Vaidyanathan | 25 | 21 | 14 | 60 |
 ---
