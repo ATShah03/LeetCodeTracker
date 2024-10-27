@@ -22,8 +22,9 @@
 | 13 | 306 | ewangerz | Emily Wang | 43 | 103 | 19 | 165 |
 | 14 | 298 | enumerative | Peter Wu | 47 | 106 | 13 | 166 |
 | 15 | 294 | wlvrd | Nick Walvoord | 42 | 117 | 6 | 165 |
-| 16 | 279 | jessicaa_zhang | Jessica Zhang | 53 | 104 | 6 | 163 |
-| 17 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
-| 18 | 140 | justinbabe019 | Angie Leong | 43 | 44 | 3 | 90 |
-| 19 | 115 | nishtothekish | Nikhil Vaidyanathan | 25 | 24 | 14 | 63 |
+| 16 | 287 | RGBmarya | Mihir Arya | 47 | 93 | 18 | 158 |
+| 17 | 279 | jessicaa_zhang | Jessica Zhang | 53 | 104 | 6 | 163 |
+| 18 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
+| 19 | 140 | justinbabe019 | Angie Leong | 43 | 44 | 3 | 90 |
+| 20 | 115 | nishtothekish | Nikhil Vaidyanathan | 25 | 24 | 14 | 63 |
 ---
