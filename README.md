@@ -11,7 +11,7 @@
 | 🥈 2 | 655 | arnsh | Arnav Shah | 73 | 213 | 52 | 338 |
 | 🥉 3 | 655 | brinco | Brian Lee | 82 | 243 | 29 | 354 |
 | 4 | 640 | Vonais | John Xie | 113 | 217 | 31 | 361 |
-| 5 | 463 | shreypatel703 | Shrey Patel | 57 | 179 | 16 | 252 |
+| 5 | 470 | shreypatel703 | Shrey Patel | 57 | 181 | 17 | 255 |
 | 6 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 7 | 450 | adavidwu | David Wu | 74 | 149 | 26 | 249 |
 | 8 | 446 | devk03 | Dev Kunjadia | 81 | 169 | 9 | 259 |
@@ -27,4 +27,5 @@
 | 18 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
 | 19 | 140 | justinbabe019 | Angie Leong | 43 | 44 | 3 | 90 |
 | 20 | 115 | nishtothekish | Nikhil Vaidyanathan | 25 | 24 | 14 | 63 |
+| 21 | 89 | calebjlee | Caleb Lee | 37 | 26 | 0 | 63 |
 ---
