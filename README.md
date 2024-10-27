@@ -26,6 +26,7 @@
 | 17 | 279 | jessicaa_zhang | Jessica Zhang | 53 | 104 | 6 | 163 |
 | 18 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
 | 19 | 140 | justinbabe019 | Angie Leong | 43 | 44 | 3 | 90 |
-| 20 | 115 | nishtothekish | Nikhil Vaidyanathan | 25 | 24 | 14 | 63 |
-| 21 | 89 | calebjlee | Caleb Lee | 37 | 26 | 0 | 63 |
+| 20 | 119 | QuantumMechanics123 | Aadit Jain | 27 | 37 | 6 | 70 |
+| 21 | 115 | nishtothekish | Nikhil Vaidyanathan | 25 | 24 | 14 | 63 |
+| 22 | 89 | calebjlee | Caleb Lee | 37 | 26 | 0 | 63 |
 ---
