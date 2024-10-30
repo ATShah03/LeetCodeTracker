@@ -21,8 +21,8 @@
 | 12 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 13 | 309 | ewangerz | Emily Wang | 44 | 104 | 19 | 167 |
 | 14 | 306 | ericzhao16 | Eric Zhao | 52 | 115 | 8 | 175 |
-| 15 | 298 | enumerative | Peter Wu | 47 | 106 | 13 | 166 |
-| 16 | 296 | wlvrd | Nick Walvoord | 42 | 118 | 6 | 166 |
+| 15 | 298 | wlvrd | Nick Walvoord | 42 | 119 | 6 | 167 |
+| 16 | 298 | enumerative | Peter Wu | 47 | 106 | 13 | 166 |
 | 17 | 293 | RGBmarya | Mihir Arya | 47 | 96 | 18 | 161 |
 | 18 | 279 | jessicaa_zhang | Jessica Zhang | 53 | 104 | 6 | 163 |
 | 19 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
