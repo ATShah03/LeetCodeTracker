@@ -26,7 +26,7 @@
 | 17 | 293 | RGBmarya | Mihir Arya | 47 | 96 | 18 | 161 |
 | 18 | 279 | jessicaa_zhang | Jessica Zhang | 53 | 104 | 6 | 163 |
 | 19 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
-| 20 | 150 | justinbabe019 | Angie Leong | 45 | 48 | 3 | 96 |
+| 20 | 152 | justinbabe019 | Angie Leong | 45 | 49 | 3 | 97 |
 | 21 | 143 | nishtothekish | Nikhil Vaidyanathan | 28 | 32 | 17 | 77 |
 | 22 | 132 | QuantumMechanics123 | Aadit Jain | 32 | 41 | 6 | 79 |
 | 23 | 95 | calebjlee | Caleb Lee | 37 | 29 | 0 | 66 |
