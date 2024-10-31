@@ -16,7 +16,7 @@
 | 7 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 8 | 457 | adavidwu | David Wu | 74 | 151 | 27 | 252 |
 | 9 | 449 | devk03 | Dev Kunjadia | 82 | 170 | 9 | 261 |
-| 10 | 424 | shadowion | Ihsaan Yasin | 99 | 134 | 19 | 252 |
+| 10 | 426 | shadowion | Ihsaan Yasin | 99 | 135 | 19 | 253 |
 | 11 | 316 | ohmp7 | Ohm Patel | 51 | 116 | 11 | 178 |
 | 12 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 13 | 309 | ewangerz | Emily Wang | 44 | 104 | 19 | 167 |
@@ -28,6 +28,6 @@
 | 19 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
 | 20 | 157 | justinbabe019 | Angie Leong | 46 | 51 | 3 | 100 |
 | 21 | 143 | nishtothekish | Nikhil Vaidyanathan | 28 | 32 | 17 | 77 |
-| 22 | 138 | QuantumMechanics123 | Aadit Jain | 34 | 43 | 6 | 83 |
+| 22 | 140 | QuantumMechanics123 | Aadit Jain | 34 | 44 | 6 | 84 |
 | 23 | 95 | calebjlee | Caleb Lee | 37 | 29 | 0 | 66 |
 ---
