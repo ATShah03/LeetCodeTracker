@@ -12,11 +12,11 @@
 | 🥉 3 | 674 | brinco | Brian Lee | 85 | 248 | 31 | 364 |
 | 4 | 659 | arnsh | Arnav Shah | 73 | 215 | 52 | 340 |
 | 5 | 645 | Vonais | John Xie | 113 | 218 | 32 | 363 |
-| 6 | 496 | shreypatel703 | Shrey Patel | 58 | 192 | 18 | 268 |
+| 6 | 502 | shreypatel703 | Shrey Patel | 58 | 195 | 18 | 271 |
 | 7 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 8 | 457 | adavidwu | David Wu | 74 | 151 | 27 | 252 |
 | 9 | 454 | devk03 | Dev Kunjadia | 85 | 171 | 9 | 265 |
-| 10 | 426 | shadowion | Ihsaan Yasin | 99 | 135 | 19 | 253 |
+| 10 | 428 | shadowion | Ihsaan Yasin | 99 | 136 | 19 | 254 |
 | 11 | 316 | ohmp7 | Ohm Patel | 51 | 116 | 11 | 178 |
 | 12 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 13 | 309 | ewangerz | Emily Wang | 44 | 104 | 19 | 167 |
@@ -27,7 +27,7 @@
 | 18 | 279 | jessicaa_zhang | Jessica Zhang | 53 | 104 | 6 | 163 |
 | 19 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
 | 20 | 157 | justinbabe019 | Angie Leong | 46 | 51 | 3 | 100 |
-| 21 | 146 | QuantumMechanics123 | Aadit Jain | 37 | 44 | 7 | 88 |
+| 21 | 150 | QuantumMechanics123 | Aadit Jain | 37 | 46 | 7 | 90 |
 | 22 | 143 | nishtothekish | Nikhil Vaidyanathan | 28 | 32 | 17 | 77 |
-| 23 | 100 | calebjlee | Caleb Lee | 38 | 31 | 0 | 69 |
+| 23 | 103 | calebjlee | Caleb Lee | 38 | 31 | 1 | 70 |
 ---
