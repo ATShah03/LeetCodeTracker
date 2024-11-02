@@ -17,7 +17,7 @@
 | 8 | 457 | adavidwu | David Wu | 74 | 151 | 27 | 252 |
 | 9 | 454 | devk03 | Dev Kunjadia | 85 | 171 | 9 | 265 |
 | 10 | 428 | shadowion | Ihsaan Yasin | 99 | 136 | 19 | 254 |
-| 11 | 318 | ohmp7 | Ohm Patel | 53 | 116 | 11 | 180 |
+| 11 | 320 | ohmp7 | Ohm Patel | 53 | 117 | 11 | 181 |
 | 12 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 13 | 309 | ewangerz | Emily Wang | 44 | 104 | 19 | 167 |
 | 14 | 308 | ericzhao16 | Eric Zhao | 52 | 116 | 8 | 176 |
@@ -27,7 +27,7 @@
 | 18 | 279 | jessicaa_zhang | Jessica Zhang | 53 | 104 | 6 | 163 |
 | 19 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
 | 20 | 157 | justinbabe019 | Angie Leong | 46 | 51 | 3 | 100 |
-| 21 | 150 | QuantumMechanics123 | Aadit Jain | 37 | 46 | 7 | 90 |
+| 21 | 155 | QuantumMechanics123 | Aadit Jain | 38 | 48 | 7 | 93 |
 | 22 | 143 | nishtothekish | Nikhil Vaidyanathan | 28 | 32 | 17 | 77 |
 | 23 | 103 | calebjlee | Caleb Lee | 38 | 31 | 1 | 70 |
 ---
