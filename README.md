@@ -16,10 +16,10 @@
 | 7 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 8 | 457 | adavidwu | David Wu | 74 | 151 | 27 | 252 |
 | 9 | 454 | devk03 | Dev Kunjadia | 85 | 171 | 9 | 265 |
-| 10 | 435 | shadowion | Ihsaan Yasin | 99 | 138 | 20 | 257 |
+| 10 | 442 | shadowion | Ihsaan Yasin | 100 | 141 | 20 | 261 |
 | 11 | 323 | ohmp7 | Ohm Patel | 54 | 118 | 11 | 183 |
 | 12 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
-| 13 | 309 | ewangerz | Emily Wang | 44 | 104 | 19 | 167 |
+| 13 | 311 | ewangerz | Emily Wang | 44 | 105 | 19 | 168 |
 | 14 | 308 | ericzhao16 | Eric Zhao | 52 | 116 | 8 | 176 |
 | 15 | 301 | wlvrd | Nick Walvoord | 43 | 120 | 6 | 169 |
 | 16 | 300 | RGBmarya | Mihir Arya | 47 | 98 | 19 | 164 |
@@ -29,5 +29,5 @@
 | 20 | 159 | QuantumMechanics123 | Aadit Jain | 38 | 50 | 7 | 95 |
 | 21 | 157 | justinbabe019 | Angie Leong | 46 | 51 | 3 | 100 |
 | 22 | 143 | nishtothekish | Nikhil Vaidyanathan | 28 | 32 | 17 | 77 |
-| 23 | 110 | calebjlee | Caleb Lee | 39 | 31 | 3 | 73 |
+| 23 | 115 | calebjlee | Caleb Lee | 39 | 32 | 4 | 75 |
 ---
