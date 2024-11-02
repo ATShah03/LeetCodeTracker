@@ -17,7 +17,7 @@
 | 8 | 457 | adavidwu | David Wu | 74 | 151 | 27 | 252 |
 | 9 | 454 | devk03 | Dev Kunjadia | 85 | 171 | 9 | 265 |
 | 10 | 428 | shadowion | Ihsaan Yasin | 99 | 136 | 19 | 254 |
-| 11 | 316 | ohmp7 | Ohm Patel | 51 | 116 | 11 | 178 |
+| 11 | 318 | ohmp7 | Ohm Patel | 53 | 116 | 11 | 180 |
 | 12 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 13 | 309 | ewangerz | Emily Wang | 44 | 104 | 19 | 167 |
 | 14 | 308 | ericzhao16 | Eric Zhao | 52 | 116 | 8 | 176 |
