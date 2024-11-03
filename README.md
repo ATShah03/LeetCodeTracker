@@ -16,7 +16,7 @@
 | 7 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 8 | 457 | adavidwu | David Wu | 74 | 151 | 27 | 252 |
 | 9 | 454 | devk03 | Dev Kunjadia | 85 | 171 | 9 | 265 |
-| 10 | 448 | shadowion | Ihsaan Yasin | 100 | 144 | 20 | 264 |
+| 10 | 450 | shadowion | Ihsaan Yasin | 100 | 145 | 20 | 265 |
 | 11 | 326 | ohmp7 | Ohm Patel | 55 | 119 | 11 | 185 |
 | 12 | 311 | ericzhao16 | Eric Zhao | 52 | 116 | 9 | 177 |
 | 13 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
