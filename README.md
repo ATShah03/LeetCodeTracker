@@ -30,4 +30,5 @@
 | 21 | 157 | justinbabe019 | Angie Leong | 46 | 51 | 3 | 100 |
 | 22 | 144 | nishtothekish | Nikhil Vaidyanathan | 29 | 32 | 17 | 78 |
 | 23 | 141 | calebjlee | Caleb Lee | 40 | 43 | 5 | 88 |
+| 24 | 0 | alexdnl | Alex Lee | 0 | 0 | 0 | 0 |
 ---
