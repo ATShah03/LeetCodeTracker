@@ -7,16 +7,16 @@
 
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
-| 🥇 1 | 765 | mj3061 | Michael Jiang | 108 | 264 | 43 | 415 |
+| 🥇 1 | 768 | mj3061 | Michael Jiang | 109 | 265 | 43 | 417 |
 | 🥈 2 | 734 | ashwin_a_kumar | Ashwin Kumar | 178 | 248 | 20 | 446 |
-| 🥉 3 | 686 | brinco | Brian Lee | 86 | 249 | 34 | 369 |
+| 🥉 3 | 688 | brinco | Brian Lee | 86 | 250 | 34 | 370 |
 | 4 | 660 | arnsh | Arnav Shah | 74 | 215 | 52 | 341 |
 | 5 | 645 | Vonais | John Xie | 113 | 218 | 32 | 363 |
 | 6 | 504 | shreypatel703 | Shrey Patel | 60 | 195 | 18 | 273 |
-| 7 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
-| 8 | 457 | adavidwu | David Wu | 74 | 151 | 27 | 252 |
-| 9 | 454 | shadowion | Ihsaan Yasin | 100 | 147 | 20 | 267 |
-| 10 | 454 | devk03 | Dev Kunjadia | 85 | 171 | 9 | 265 |
+| 7 | 464 | shadowion | Ihsaan Yasin | 100 | 152 | 20 | 272 |
+| 8 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
+| 9 | 459 | devk03 | Dev Kunjadia | 85 | 172 | 10 | 267 |
+| 10 | 457 | adavidwu | David Wu | 74 | 151 | 27 | 252 |
 | 11 | 326 | ohmp7 | Ohm Patel | 55 | 119 | 11 | 185 |
 | 12 | 311 | ericzhao16 | Eric Zhao | 52 | 116 | 9 | 177 |
 | 13 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
@@ -29,5 +29,5 @@
 | 20 | 167 | QuantumMechanics123 | Aadit Jain | 40 | 53 | 7 | 100 |
 | 21 | 157 | justinbabe019 | Angie Leong | 46 | 51 | 3 | 100 |
 | 22 | 144 | nishtothekish | Nikhil Vaidyanathan | 29 | 32 | 17 | 78 |
-| 23 | 124 | calebjlee | Caleb Lee | 40 | 36 | 4 | 80 |
+| 23 | 139 | calebjlee | Caleb Lee | 40 | 42 | 5 | 87 |
 ---
