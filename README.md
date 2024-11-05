@@ -18,7 +18,7 @@
 | 9 | 461 | devk03 | Dev Kunjadia | 85 | 173 | 10 | 268 |
 | 10 | 457 | adavidwu | David Wu | 74 | 151 | 27 | 252 |
 | 11 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
-| 12 | 314 | ewangerz | Emily Wang | 45 | 106 | 19 | 170 |
+| 12 | 316 | ewangerz | Emily Wang | 45 | 107 | 19 | 171 |
 | 13 | 311 | ericzhao16 | Eric Zhao | 52 | 116 | 9 | 177 |
 | 14 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 15 | 303 | wlvrd | Nick Walvoord | 43 | 121 | 6 | 170 |
