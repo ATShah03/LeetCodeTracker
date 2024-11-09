@@ -12,7 +12,7 @@
 | 🥉 3 | 688 | brinco | Brian Lee | 86 | 250 | 34 | 370 |
 | 4 | 666 | Vonais | John Xie | 115 | 226 | 33 | 374 |
 | 5 | 661 | arnsh | Arnav Shah | 75 | 215 | 52 | 342 |
-| 6 | 513 | shreypatel703 | Shrey Patel | 60 | 198 | 19 | 277 |
+| 6 | 516 | shreypatel703 | Shrey Patel | 60 | 198 | 20 | 278 |
 | 7 | 492 | shadowion | Ihsaan Yasin | 102 | 165 | 20 | 287 |
 | 8 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 9 | 461 | devk03 | Dev Kunjadia | 85 | 173 | 10 | 268 |
@@ -28,7 +28,7 @@
 | 19 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
 | 20 | 170 | QuantumMechanics123 | Aadit Jain | 40 | 53 | 8 | 101 |
 | 21 | 157 | justinbabe019 | Angie Leong | 46 | 51 | 3 | 100 |
-| 22 | 148 | calebjlee | Caleb Lee | 41 | 46 | 5 | 92 |
+| 22 | 152 | calebjlee | Caleb Lee | 41 | 48 | 5 | 94 |
 | 23 | 144 | nishtothekish | Nikhil Vaidyanathan | 29 | 32 | 17 | 78 |
 | 24 | 3 | alexdnl | Alex Lee | 1 | 1 | 0 | 2 |
 ---
