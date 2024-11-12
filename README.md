@@ -12,7 +12,7 @@
 | 🥉 3 | 688 | brinco | Brian Lee | 86 | 250 | 34 | 370 |
 | 4 | 668 | Vonais | John Xie | 115 | 227 | 33 | 375 |
 | 5 | 661 | arnsh | Arnav Shah | 75 | 215 | 52 | 342 |
-| 6 | 518 | shreypatel703 | Shrey Patel | 60 | 199 | 20 | 279 |
+| 6 | 520 | shreypatel703 | Shrey Patel | 60 | 200 | 20 | 280 |
 | 7 | 494 | shadowion | Ihsaan Yasin | 102 | 166 | 20 | 288 |
 | 8 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 9 | 461 | devk03 | Dev Kunjadia | 85 | 173 | 10 | 268 |
