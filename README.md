@@ -13,7 +13,7 @@
 | 4 | 668 | Vonais | John Xie | 115 | 227 | 33 | 375 |
 | 5 | 661 | arnsh | Arnav Shah | 75 | 215 | 52 | 342 |
 | 6 | 520 | shreypatel703 | Shrey Patel | 60 | 200 | 20 | 280 |
-| 7 | 494 | shadowion | Ihsaan Yasin | 102 | 166 | 20 | 288 |
+| 7 | 496 | shadowion | Ihsaan Yasin | 102 | 167 | 20 | 289 |
 | 8 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 9 | 461 | devk03 | Dev Kunjadia | 85 | 173 | 10 | 268 |
 | 10 | 457 | adavidwu | David Wu | 74 | 151 | 27 | 252 |
