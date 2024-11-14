@@ -9,7 +9,7 @@
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 780 | mj3061 | Michael Jiang | 109 | 271 | 43 | 423 |
 | 🥈 2 | 734 | ashwin_a_kumar | Ashwin Kumar | 178 | 248 | 20 | 446 |
-| 🥉 3 | 690 | brinco | Brian Lee | 86 | 251 | 34 | 371 |
+| 🥉 3 | 694 | brinco | Brian Lee | 86 | 253 | 34 | 373 |
 | 4 | 668 | Vonais | John Xie | 115 | 227 | 33 | 375 |
 | 5 | 661 | arnsh | Arnav Shah | 75 | 215 | 52 | 342 |
 | 6 | 522 | shreypatel703 | Shrey Patel | 60 | 201 | 20 | 281 |
@@ -18,7 +18,7 @@
 | 9 | 461 | devk03 | Dev Kunjadia | 85 | 173 | 10 | 268 |
 | 10 | 457 | adavidwu | David Wu | 74 | 151 | 27 | 252 |
 | 11 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
-| 12 | 316 | ericzhao16 | Eric Zhao | 55 | 117 | 9 | 181 |
+| 12 | 318 | ericzhao16 | Eric Zhao | 55 | 118 | 9 | 182 |
 | 13 | 316 | ewangerz | Emily Wang | 45 | 107 | 19 | 171 |
 | 14 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 15 | 306 | wlvrd | Nick Walvoord | 43 | 121 | 7 | 171 |
@@ -27,8 +27,8 @@
 | 18 | 279 | jessicaa_zhang | Jessica Zhang | 53 | 104 | 6 | 163 |
 | 19 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
 | 20 | 174 | QuantumMechanics123 | Aadit Jain | 40 | 55 | 8 | 103 |
-| 21 | 159 | nishtothekish | Nikhil Vaidyanathan | 30 | 33 | 21 | 84 |
-| 22 | 157 | justinbabe019 | Angie Leong | 46 | 51 | 3 | 100 |
+| 21 | 159 | justinbabe019 | Angie Leong | 46 | 52 | 3 | 101 |
+| 22 | 159 | nishtothekish | Nikhil Vaidyanathan | 30 | 33 | 21 | 84 |
 | 23 | 154 | calebjlee | Caleb Lee | 41 | 49 | 5 | 95 |
 | 24 | 3 | alexdnl | Alex Lee | 1 | 1 | 0 | 2 |
 ---
