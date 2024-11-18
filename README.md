@@ -12,13 +12,13 @@
 | 🥉 3 | 698 | brinco | Brian Lee | 86 | 255 | 34 | 375 |
 | 4 | 670 | Vonais | John Xie | 115 | 228 | 33 | 376 |
 | 5 | 661 | arnsh | Arnav Shah | 75 | 215 | 52 | 342 |
-| 6 | 535 | shreypatel703 | Shrey Patel | 60 | 203 | 23 | 286 |
+| 6 | 538 | shreypatel703 | Shrey Patel | 61 | 204 | 23 | 288 |
 | 7 | 496 | shadowion | Ihsaan Yasin | 102 | 167 | 20 | 289 |
 | 8 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 9 | 461 | devk03 | Dev Kunjadia | 85 | 173 | 10 | 268 |
 | 10 | 459 | adavidwu | David Wu | 74 | 152 | 27 | 253 |
 | 11 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
-| 12 | 323 | ericzhao16 | Eric Zhao | 56 | 120 | 9 | 185 |
+| 12 | 327 | ericzhao16 | Eric Zhao | 56 | 122 | 9 | 187 |
 | 13 | 316 | ewangerz | Emily Wang | 45 | 107 | 19 | 171 |
 | 14 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 15 | 309 | wlvrd | Nick Walvoord | 43 | 121 | 8 | 172 |
@@ -30,5 +30,5 @@
 | 21 | 168 | nishtothekish | Nikhil Vaidyanathan | 30 | 36 | 22 | 88 |
 | 22 | 159 | justinbabe019 | Angie Leong | 46 | 52 | 3 | 101 |
 | 23 | 154 | calebjlee | Caleb Lee | 41 | 49 | 5 | 95 |
-| 24 | 3 | alexdnl | Alex Lee | 1 | 1 | 0 | 2 |
+| 24 | 5 | alexdnl | Alex Lee | 1 | 2 | 0 | 3 |
 ---
