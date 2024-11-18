@@ -12,7 +12,7 @@
 | 🥉 3 | 698 | brinco | Brian Lee | 86 | 255 | 34 | 375 |
 | 4 | 670 | Vonais | John Xie | 115 | 228 | 33 | 376 |
 | 5 | 661 | arnsh | Arnav Shah | 75 | 215 | 52 | 342 |
-| 6 | 538 | shreypatel703 | Shrey Patel | 61 | 204 | 23 | 288 |
+| 6 | 541 | shreypatel703 | Shrey Patel | 61 | 204 | 24 | 289 |
 | 7 | 496 | shadowion | Ihsaan Yasin | 102 | 167 | 20 | 289 |
 | 8 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 9 | 461 | devk03 | Dev Kunjadia | 85 | 173 | 10 | 268 |
@@ -20,8 +20,8 @@
 | 11 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
 | 12 | 330 | ericzhao16 | Eric Zhao | 56 | 122 | 10 | 188 |
 | 13 | 316 | ewangerz | Emily Wang | 45 | 107 | 19 | 171 |
-| 14 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
-| 15 | 309 | wlvrd | Nick Walvoord | 43 | 121 | 8 | 172 |
+| 14 | 311 | wlvrd | Nick Walvoord | 43 | 122 | 8 | 173 |
+| 15 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 16 | 300 | RGBmarya | Mihir Arya | 47 | 98 | 19 | 164 |
 | 17 | 298 | enumerative | Peter Wu | 47 | 106 | 13 | 166 |
 | 18 | 279 | jessicaa_zhang | Jessica Zhang | 53 | 104 | 6 | 163 |
