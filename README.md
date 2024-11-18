@@ -13,12 +13,12 @@
 | 4 | 670 | Vonais | John Xie | 115 | 228 | 33 | 376 |
 | 5 | 661 | arnsh | Arnav Shah | 75 | 215 | 52 | 342 |
 | 6 | 541 | shreypatel703 | Shrey Patel | 61 | 204 | 24 | 289 |
-| 7 | 496 | shadowion | Ihsaan Yasin | 102 | 167 | 20 | 289 |
+| 7 | 497 | shadowion | Ihsaan Yasin | 103 | 167 | 20 | 290 |
 | 8 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 9 | 461 | devk03 | Dev Kunjadia | 85 | 173 | 10 | 268 |
 | 10 | 459 | adavidwu | David Wu | 74 | 152 | 27 | 253 |
 | 11 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
-| 12 | 330 | ericzhao16 | Eric Zhao | 56 | 122 | 10 | 188 |
+| 12 | 332 | ericzhao16 | Eric Zhao | 56 | 123 | 10 | 189 |
 | 13 | 316 | ewangerz | Emily Wang | 45 | 107 | 19 | 171 |
 | 14 | 311 | wlvrd | Nick Walvoord | 43 | 122 | 8 | 173 |
 | 15 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
@@ -29,6 +29,6 @@
 | 20 | 175 | QuantumMechanics123 | Aadit Jain | 41 | 55 | 8 | 104 |
 | 21 | 168 | nishtothekish | Nikhil Vaidyanathan | 30 | 36 | 22 | 88 |
 | 22 | 159 | justinbabe019 | Angie Leong | 46 | 52 | 3 | 101 |
-| 23 | 154 | calebjlee | Caleb Lee | 41 | 49 | 5 | 95 |
+| 23 | 155 | calebjlee | Caleb Lee | 42 | 49 | 5 | 96 |
 | 24 | 5 | alexdnl | Alex Lee | 1 | 2 | 0 | 3 |
 ---
