@@ -7,7 +7,7 @@
 
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
-| 🥇 1 | 780 | mj3061 | Michael Jiang | 109 | 271 | 43 | 423 |
+| 🥇 1 | 782 | mj3061 | Michael Jiang | 109 | 272 | 43 | 424 |
 | 🥈 2 | 734 | ashwin_a_kumar | Ashwin Kumar | 178 | 248 | 20 | 446 |
 | 🥉 3 | 698 | brinco | Brian Lee | 86 | 255 | 34 | 375 |
 | 4 | 670 | Vonais | John Xie | 115 | 228 | 33 | 376 |
@@ -15,7 +15,7 @@
 | 6 | 545 | shreypatel703 | Shrey Patel | 61 | 206 | 24 | 291 |
 | 7 | 499 | shadowion | Ihsaan Yasin | 103 | 168 | 20 | 291 |
 | 8 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
-| 9 | 461 | devk03 | Dev Kunjadia | 85 | 173 | 10 | 268 |
+| 9 | 463 | devk03 | Dev Kunjadia | 85 | 174 | 10 | 269 |
 | 10 | 459 | adavidwu | David Wu | 74 | 152 | 27 | 253 |
 | 11 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
 | 12 | 332 | ericzhao16 | Eric Zhao | 56 | 123 | 10 | 189 |
