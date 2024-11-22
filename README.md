@@ -19,7 +19,7 @@
 | 10 | 459 | adavidwu | David Wu | 74 | 152 | 27 | 253 |
 | 11 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
 | 12 | 332 | ericzhao16 | Eric Zhao | 56 | 123 | 10 | 189 |
-| 13 | 318 | wlvrd | Nick Walvoord | 48 | 123 | 8 | 179 |
+| 13 | 320 | wlvrd | Nick Walvoord | 50 | 123 | 8 | 181 |
 | 14 | 316 | ewangerz | Emily Wang | 45 | 107 | 19 | 171 |
 | 15 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 16 | 300 | RGBmarya | Mihir Arya | 47 | 98 | 19 | 164 |
