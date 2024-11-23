@@ -19,16 +19,16 @@
 | 10 | 459 | adavidwu | David Wu | 74 | 152 | 27 | 253 |
 | 11 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
 | 12 | 332 | ericzhao16 | Eric Zhao | 56 | 123 | 10 | 189 |
-| 13 | 323 | wlvrd | Nick Walvoord | 51 | 124 | 8 | 183 |
-| 14 | 316 | ewangerz | Emily Wang | 45 | 107 | 19 | 171 |
+| 13 | 325 | wlvrd | Nick Walvoord | 51 | 125 | 8 | 184 |
+| 14 | 318 | ewangerz | Emily Wang | 45 | 108 | 19 | 172 |
 | 15 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 16 | 300 | RGBmarya | Mihir Arya | 47 | 98 | 19 | 164 |
 | 17 | 298 | enumerative | Peter Wu | 47 | 106 | 13 | 166 |
-| 18 | 279 | jessicaa_zhang | Jessica Zhang | 53 | 104 | 6 | 163 |
+| 18 | 284 | jessicaa_zhang | Jessica Zhang | 54 | 106 | 6 | 166 |
 | 19 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
 | 20 | 175 | QuantumMechanics123 | Aadit Jain | 41 | 55 | 8 | 104 |
 | 21 | 168 | nishtothekish | Nikhil Vaidyanathan | 30 | 36 | 22 | 88 |
 | 22 | 159 | justinbabe019 | Angie Leong | 46 | 52 | 3 | 101 |
-| 23 | 155 | calebjlee | Caleb Lee | 42 | 49 | 5 | 96 |
-| 24 | 7 | alexdnl | Alex Lee | 1 | 3 | 0 | 4 |
+| 23 | 157 | calebjlee | Caleb Lee | 42 | 50 | 5 | 97 |
+| 24 | 9 | alexdnl | Alex Lee | 1 | 4 | 0 | 5 |
 ---
