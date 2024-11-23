@@ -26,7 +26,7 @@
 | 17 | 298 | enumerative | Peter Wu | 47 | 106 | 13 | 166 |
 | 18 | 284 | jessicaa_zhang | Jessica Zhang | 54 | 106 | 6 | 166 |
 | 19 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
-| 20 | 177 | QuantumMechanics123 | Aadit Jain | 41 | 56 | 8 | 105 |
+| 20 | 180 | QuantumMechanics123 | Aadit Jain | 42 | 57 | 8 | 107 |
 | 21 | 168 | nishtothekish | Nikhil Vaidyanathan | 30 | 36 | 22 | 88 |
 | 22 | 159 | justinbabe019 | Angie Leong | 46 | 52 | 3 | 101 |
 | 23 | 157 | calebjlee | Caleb Lee | 42 | 50 | 5 | 97 |
