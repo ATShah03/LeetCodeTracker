@@ -24,11 +24,11 @@
 | 15 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 16 | 300 | RGBmarya | Mihir Arya | 47 | 98 | 19 | 164 |
 | 17 | 298 | enumerative | Peter Wu | 47 | 106 | 13 | 166 |
-| 18 | 285 | jessicaa_zhang | Jessica Zhang | 55 | 106 | 6 | 167 |
+| 18 | 287 | jessicaa_zhang | Jessica Zhang | 57 | 106 | 6 | 169 |
 | 19 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
 | 20 | 180 | QuantumMechanics123 | Aadit Jain | 42 | 57 | 8 | 107 |
-| 21 | 168 | nishtothekish | Nikhil Vaidyanathan | 30 | 36 | 22 | 88 |
-| 22 | 159 | justinbabe019 | Angie Leong | 46 | 52 | 3 | 101 |
-| 23 | 159 | calebjlee | Caleb Lee | 42 | 51 | 5 | 98 |
+| 21 | 172 | calebjlee | Caleb Lee | 42 | 56 | 6 | 104 |
+| 22 | 168 | nishtothekish | Nikhil Vaidyanathan | 30 | 36 | 22 | 88 |
+| 23 | 159 | justinbabe019 | Angie Leong | 46 | 52 | 3 | 101 |
 | 24 | 9 | alexdnl | Alex Lee | 1 | 4 | 0 | 5 |
 ---
