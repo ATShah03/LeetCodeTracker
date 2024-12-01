@@ -7,9 +7,9 @@
 
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
-| 🥇 1 | 782 | mj3061 | Michael Jiang | 109 | 272 | 43 | 424 |
+| 🥇 1 | 783 | mj3061 | Michael Jiang | 110 | 272 | 43 | 425 |
 | 🥈 2 | 742 | ashwin_a_kumar | Ashwin Kumar | 178 | 252 | 20 | 450 |
-| 🥉 3 | 714 | brinco | Brian Lee | 88 | 259 | 36 | 383 |
+| 🥉 3 | 717 | brinco | Brian Lee | 89 | 260 | 36 | 385 |
 | 4 | 675 | Vonais | John Xie | 115 | 229 | 34 | 378 |
 | 5 | 669 | arnsh | Arnav Shah | 75 | 219 | 52 | 346 |
 | 6 | 545 | shreypatel703 | Shrey Patel | 61 | 206 | 24 | 291 |
@@ -29,6 +29,6 @@
 | 20 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
 | 21 | 180 | QuantumMechanics123 | Aadit Jain | 42 | 57 | 8 | 107 |
 | 22 | 168 | nishtothekish | Nikhil Vaidyanathan | 30 | 36 | 22 | 88 |
-| 23 | 159 | justinbabe019 | Angie Leong | 46 | 52 | 3 | 101 |
+| 23 | 164 | justinbabe019 | Angie Leong | 47 | 54 | 3 | 104 |
 | 24 | 9 | alexdnl | Alex Lee | 1 | 4 | 0 | 5 |
 ---
