@@ -27,7 +27,7 @@
 | 18 | 298 | enumerative | Peter Wu | 47 | 106 | 13 | 166 |
 | 19 | 192 | calebjlee | Caleb Lee | 43 | 64 | 7 | 114 |
 | 20 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
-| 21 | 180 | QuantumMechanics123 | Aadit Jain | 42 | 57 | 8 | 107 |
+| 21 | 182 | QuantumMechanics123 | Aadit Jain | 42 | 58 | 8 | 108 |
 | 22 | 168 | nishtothekish | Nikhil Vaidyanathan | 30 | 36 | 22 | 88 |
 | 23 | 166 | justinbabe019 | Angie Leong | 49 | 54 | 3 | 106 |
 | 24 | 9 | alexdnl | Alex Lee | 1 | 4 | 0 | 5 |
