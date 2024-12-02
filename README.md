@@ -20,13 +20,13 @@
 | 11 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
 | 12 | 332 | ericzhao16 | Eric Zhao | 56 | 123 | 10 | 189 |
 | 13 | 329 | wlvrd | Nick Walvoord | 53 | 126 | 8 | 187 |
-| 14 | 321 | ewangerz | Emily Wang | 46 | 109 | 19 | 174 |
-| 15 | 319 | jessicaa_zhang | Jessica Zhang | 69 | 116 | 6 | 191 |
+| 14 | 321 | jessicaa_zhang | Jessica Zhang | 69 | 117 | 6 | 192 |
+| 15 | 321 | ewangerz | Emily Wang | 46 | 109 | 19 | 174 |
 | 16 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 17 | 300 | RGBmarya | Mihir Arya | 47 | 98 | 19 | 164 |
 | 18 | 298 | enumerative | Peter Wu | 47 | 106 | 13 | 166 |
 | 19 | 192 | calebjlee | Caleb Lee | 43 | 64 | 7 | 114 |
-| 20 | 186 | QuantumMechanics123 | Aadit Jain | 43 | 58 | 9 | 110 |
+| 20 | 190 | QuantumMechanics123 | Aadit Jain | 43 | 60 | 9 | 112 |
 | 21 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
 | 22 | 168 | nishtothekish | Nikhil Vaidyanathan | 30 | 36 | 22 | 88 |
 | 23 | 166 | justinbabe019 | Angie Leong | 49 | 54 | 3 | 106 |
