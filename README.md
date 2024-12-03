@@ -10,7 +10,7 @@
 | 🥇 1 | 783 | mj3061 | Michael Jiang | 110 | 272 | 43 | 425 |
 | 🥈 2 | 742 | ashwin_a_kumar | Ashwin Kumar | 178 | 252 | 20 | 450 |
 | 🥉 3 | 724 | brinco | Brian Lee | 91 | 261 | 37 | 389 |
-| 4 | 690 | Vonais | John Xie | 117 | 234 | 35 | 386 |
+| 4 | 692 | Vonais | John Xie | 117 | 235 | 35 | 387 |
 | 5 | 669 | arnsh | Arnav Shah | 75 | 219 | 52 | 346 |
 | 6 | 545 | shreypatel703 | Shrey Patel | 61 | 206 | 24 | 291 |
 | 7 | 499 | shadowion | Ihsaan Yasin | 103 | 168 | 20 | 291 |
