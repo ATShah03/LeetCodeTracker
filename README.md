@@ -9,7 +9,7 @@
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 783 | mj3061 | Michael Jiang | 110 | 272 | 43 | 425 |
 | 🥈 2 | 742 | ashwin_a_kumar | Ashwin Kumar | 178 | 252 | 20 | 450 |
-| 🥉 3 | 724 | brinco | Brian Lee | 91 | 261 | 37 | 389 |
+| 🥉 3 | 727 | brinco | Brian Lee | 91 | 261 | 38 | 390 |
 | 4 | 692 | Vonais | John Xie | 117 | 235 | 35 | 387 |
 | 5 | 669 | arnsh | Arnav Shah | 75 | 219 | 52 | 346 |
 | 6 | 545 | shreypatel703 | Shrey Patel | 61 | 206 | 24 | 291 |
@@ -28,7 +28,7 @@
 | 19 | 192 | calebjlee | Caleb Lee | 43 | 64 | 7 | 114 |
 | 20 | 190 | QuantumMechanics123 | Aadit Jain | 43 | 60 | 9 | 112 |
 | 21 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
-| 22 | 168 | nishtothekish | Nikhil Vaidyanathan | 30 | 36 | 22 | 88 |
-| 23 | 166 | justinbabe019 | Angie Leong | 49 | 54 | 3 | 106 |
+| 22 | 168 | justinbabe019 | Angie Leong | 49 | 55 | 3 | 107 |
+| 23 | 168 | nishtothekish | Nikhil Vaidyanathan | 30 | 36 | 22 | 88 |
 | 24 | 9 | alexdnl | Alex Lee | 1 | 4 | 0 | 5 |
 ---
