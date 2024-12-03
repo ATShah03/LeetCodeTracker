@@ -10,7 +10,7 @@
 | 🥇 1 | 783 | mj3061 | Michael Jiang | 110 | 272 | 43 | 425 |
 | 🥈 2 | 742 | ashwin_a_kumar | Ashwin Kumar | 178 | 252 | 20 | 450 |
 | 🥉 3 | 724 | brinco | Brian Lee | 91 | 261 | 37 | 389 |
-| 4 | 681 | Vonais | John Xie | 117 | 231 | 34 | 382 |
+| 4 | 690 | Vonais | John Xie | 117 | 234 | 35 | 386 |
 | 5 | 669 | arnsh | Arnav Shah | 75 | 219 | 52 | 346 |
 | 6 | 545 | shreypatel703 | Shrey Patel | 61 | 206 | 24 | 291 |
 | 7 | 499 | shadowion | Ihsaan Yasin | 103 | 168 | 20 | 291 |
@@ -20,7 +20,7 @@
 | 11 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
 | 12 | 332 | ericzhao16 | Eric Zhao | 56 | 123 | 10 | 189 |
 | 13 | 331 | wlvrd | Nick Walvoord | 53 | 127 | 8 | 188 |
-| 14 | 321 | jessicaa_zhang | Jessica Zhang | 69 | 117 | 6 | 192 |
+| 14 | 325 | jessicaa_zhang | Jessica Zhang | 69 | 119 | 6 | 194 |
 | 15 | 321 | ewangerz | Emily Wang | 46 | 109 | 19 | 174 |
 | 16 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 17 | 300 | RGBmarya | Mihir Arya | 47 | 98 | 19 | 164 |
