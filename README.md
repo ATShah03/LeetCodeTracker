@@ -7,7 +7,7 @@
 
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
-| 🥇 1 | 783 | mj3061 | Michael Jiang | 110 | 272 | 43 | 425 |
+| 🥇 1 | 785 | mj3061 | Michael Jiang | 110 | 273 | 43 | 426 |
 | 🥈 2 | 742 | ashwin_a_kumar | Ashwin Kumar | 178 | 252 | 20 | 450 |
 | 🥉 3 | 729 | brinco | Brian Lee | 91 | 262 | 38 | 391 |
 | 4 | 692 | Vonais | John Xie | 117 | 235 | 35 | 387 |
