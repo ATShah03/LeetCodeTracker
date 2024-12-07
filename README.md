@@ -20,7 +20,7 @@
 | 11 | 338 | wlvrd | Nick Walvoord | 54 | 130 | 8 | 192 |
 | 12 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
 | 13 | 332 | ericzhao16 | Eric Zhao | 56 | 123 | 10 | 189 |
-| 14 | 328 | jessicaa_zhang | Jessica Zhang | 69 | 119 | 7 | 195 |
+| 14 | 330 | jessicaa_zhang | Jessica Zhang | 69 | 120 | 7 | 196 |
 | 15 | 321 | ewangerz | Emily Wang | 46 | 109 | 19 | 174 |
 | 16 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 17 | 300 | RGBmarya | Mihir Arya | 47 | 98 | 19 | 164 |
