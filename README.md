@@ -21,7 +21,7 @@
 | 12 | 346 | wlvrd | Nick Walvoord | 54 | 131 | 10 | 195 |
 | 13 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
 | 14 | 332 | ericzhao16 | Eric Zhao | 56 | 123 | 10 | 189 |
-| 15 | 323 | ewangerz | Emily Wang | 46 | 110 | 19 | 175 |
+| 15 | 324 | ewangerz | Emily Wang | 47 | 110 | 19 | 176 |
 | 16 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 17 | 300 | RGBmarya | Mihir Arya | 47 | 98 | 19 | 164 |
 | 18 | 298 | enumerative | Peter Wu | 47 | 106 | 13 | 166 |
