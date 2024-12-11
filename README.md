@@ -18,7 +18,7 @@
 | 9 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 10 | 459 | adavidwu | David Wu | 74 | 152 | 27 | 253 |
 | 11 | 352 | jessicaa_zhang | Jessica Zhang | 69 | 128 | 9 | 206 |
-| 12 | 348 | wlvrd | Nick Walvoord | 54 | 132 | 10 | 196 |
+| 12 | 350 | wlvrd | Nick Walvoord | 54 | 133 | 10 | 197 |
 | 13 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
 | 14 | 332 | ericzhao16 | Eric Zhao | 56 | 123 | 10 | 189 |
 | 15 | 324 | ewangerz | Emily Wang | 47 | 110 | 19 | 176 |
