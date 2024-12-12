@@ -9,7 +9,7 @@
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 785 | mj3061 | Michael Jiang | 110 | 273 | 43 | 426 |
 | 🥈 2 | 742 | ashwin_a_kumar | Ashwin Kumar | 178 | 252 | 20 | 450 |
-| 🥉 3 | 739 | brinco | Brian Lee | 91 | 267 | 38 | 396 |
+| 🥉 3 | 741 | brinco | Brian Lee | 91 | 268 | 38 | 397 |
 | 4 | 692 | Vonais | John Xie | 117 | 235 | 35 | 387 |
 | 5 | 671 | arnsh | Arnav Shah | 75 | 220 | 52 | 347 |
 | 6 | 545 | shreypatel703 | Shrey Patel | 61 | 206 | 24 | 291 |
@@ -28,7 +28,7 @@
 | 19 | 196 | calebjlee | Caleb Lee | 43 | 66 | 7 | 116 |
 | 20 | 196 | QuantumMechanics123 | Aadit Jain | 43 | 63 | 9 | 115 |
 | 21 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
-| 22 | 172 | nishtothekish | Nikhil Vaidyanathan | 32 | 37 | 22 | 91 |
+| 22 | 180 | nishtothekish | Nikhil Vaidyanathan | 35 | 38 | 23 | 96 |
 | 23 | 168 | justinbabe019 | Angie Leong | 49 | 55 | 3 | 107 |
 | 24 | 9 | alexdnl | Alex Lee | 1 | 4 | 0 | 5 |
 ---
