@@ -8,8 +8,8 @@
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 785 | mj3061 | Michael Jiang | 110 | 273 | 43 | 426 |
-| 🥈 2 | 743 | brinco | Brian Lee | 91 | 269 | 38 | 398 |
-| 🥉 3 | 742 | ashwin_a_kumar | Ashwin Kumar | 178 | 252 | 20 | 450 |
+| 🥈 2 | 744 | ashwin_a_kumar | Ashwin Kumar | 178 | 253 | 20 | 451 |
+| 🥉 3 | 743 | brinco | Brian Lee | 91 | 269 | 38 | 398 |
 | 4 | 692 | Vonais | John Xie | 117 | 235 | 35 | 387 |
 | 5 | 671 | arnsh | Arnav Shah | 75 | 220 | 52 | 347 |
 | 6 | 545 | shreypatel703 | Shrey Patel | 61 | 206 | 24 | 291 |
@@ -17,7 +17,7 @@
 | 8 | 465 | devk03 | Dev Kunjadia | 85 | 175 | 10 | 270 |
 | 9 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 10 | 459 | adavidwu | David Wu | 74 | 152 | 27 | 253 |
-| 11 | 357 | wlvrd | Nick Walvoord | 54 | 135 | 11 | 200 |
+| 11 | 359 | wlvrd | Nick Walvoord | 54 | 136 | 11 | 201 |
 | 12 | 352 | jessicaa_zhang | Jessica Zhang | 69 | 128 | 9 | 206 |
 | 13 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
 | 14 | 332 | ericzhao16 | Eric Zhao | 56 | 123 | 10 | 189 |
