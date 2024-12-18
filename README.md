@@ -11,7 +11,7 @@
 | 🥈 2 | 747 | brinco | Brian Lee | 91 | 271 | 38 | 400 |
 | 🥉 3 | 744 | ashwin_a_kumar | Ashwin Kumar | 178 | 253 | 20 | 451 |
 | 4 | 692 | Vonais | John Xie | 117 | 235 | 35 | 387 |
-| 5 | 671 | arnsh | Arnav Shah | 75 | 220 | 52 | 347 |
+| 5 | 672 | arnsh | Arnav Shah | 76 | 220 | 52 | 348 |
 | 6 | 545 | shreypatel703 | Shrey Patel | 61 | 206 | 24 | 291 |
 | 7 | 499 | shadowion | Ihsaan Yasin | 103 | 168 | 20 | 291 |
 | 8 | 465 | devk03 | Dev Kunjadia | 85 | 175 | 10 | 270 |
@@ -25,8 +25,8 @@
 | 16 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 17 | 300 | RGBmarya | Mihir Arya | 47 | 98 | 19 | 164 |
 | 18 | 298 | enumerative | Peter Wu | 47 | 106 | 13 | 166 |
-| 19 | 198 | QuantumMechanics123 | Aadit Jain | 43 | 64 | 9 | 116 |
-| 20 | 196 | calebjlee | Caleb Lee | 43 | 66 | 7 | 116 |
+| 19 | 200 | calebjlee | Caleb Lee | 43 | 68 | 7 | 118 |
+| 20 | 198 | QuantumMechanics123 | Aadit Jain | 43 | 64 | 9 | 116 |
 | 21 | 185 | wolinskij | Jonathan Wolinski | 42 | 67 | 3 | 112 |
 | 22 | 185 | nishtothekish | Nikhil Vaidyanathan | 35 | 39 | 24 | 98 |
 | 23 | 168 | justinbabe019 | Angie Leong | 49 | 55 | 3 | 107 |
