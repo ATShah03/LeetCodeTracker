@@ -23,7 +23,7 @@
 | 14 | 332 | ericzhao16 | Eric Zhao | 56 | 123 | 10 | 189 |
 | 15 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
 | 16 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
-| 17 | 301 | RGBmarya | Mihir Arya | 48 | 98 | 19 | 165 |
+| 17 | 304 | RGBmarya | Mihir Arya | 48 | 98 | 20 | 166 |
 | 18 | 298 | enumerative | Peter Wu | 47 | 106 | 13 | 166 |
 | 19 | 200 | calebjlee | Caleb Lee | 43 | 68 | 7 | 118 |
 | 20 | 198 | QuantumMechanics123 | Aadit Jain | 43 | 64 | 9 | 116 |
