@@ -14,7 +14,7 @@
 | 5 | 674 | arnsh | Arnav Shah | 76 | 221 | 52 | 349 |
 | 6 | 545 | shreypatel703 | Shrey Patel | 61 | 206 | 24 | 291 |
 | 7 | 499 | shadowion | Ihsaan Yasin | 103 | 168 | 20 | 291 |
-| 8 | 466 | devk03 | Dev Kunjadia | 86 | 175 | 10 | 271 |
+| 8 | 468 | devk03 | Dev Kunjadia | 86 | 176 | 10 | 272 |
 | 9 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 10 | 459 | adavidwu | David Wu | 74 | 152 | 27 | 253 |
 | 11 | 377 | wlvrd | Nick Walvoord | 56 | 144 | 11 | 211 |
