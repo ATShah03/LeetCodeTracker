@@ -11,7 +11,7 @@
 | 🥈 2 | 772 | brinco | Brian Lee | 93 | 278 | 41 | 412 |
 | 🥉 3 | 754 | ashwin_a_kumar | Ashwin Kumar | 178 | 258 | 20 | 456 |
 | 4 | 692 | Vonais | John Xie | 117 | 235 | 35 | 387 |
-| 5 | 674 | arnsh | Arnav Shah | 76 | 221 | 52 | 349 |
+| 5 | 676 | arnsh | Arnav Shah | 76 | 222 | 52 | 350 |
 | 6 | 545 | shreypatel703 | Shrey Patel | 61 | 206 | 24 | 291 |
 | 7 | 499 | shadowion | Ihsaan Yasin | 103 | 168 | 20 | 291 |
 | 8 | 468 | devk03 | Dev Kunjadia | 86 | 176 | 10 | 272 |
