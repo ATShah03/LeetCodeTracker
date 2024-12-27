@@ -29,6 +29,6 @@
 | 20 | 200 | calebjlee | Caleb Lee | 43 | 68 | 7 | 118 |
 | 21 | 186 | wolinskij | Jonathan Wolinski | 43 | 67 | 3 | 113 |
 | 22 | 185 | nishtothekish | Nikhil Vaidyanathan | 35 | 39 | 24 | 98 |
-| 23 | 178 | justinbabe019 | Angie Leong | 55 | 57 | 3 | 115 |
+| 23 | 181 | justinbabe019 | Angie Leong | 56 | 58 | 3 | 117 |
 | 24 | 9 | alexdnl | Alex Lee | 1 | 4 | 0 | 5 |
 ---
