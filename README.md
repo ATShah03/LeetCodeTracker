@@ -13,11 +13,11 @@
 | 4 | 692 | Vonais | John Xie | 117 | 235 | 35 | 387 |
 | 5 | 678 | arnsh | Arnav Shah | 76 | 223 | 52 | 351 |
 | 6 | 545 | shreypatel703 | Shrey Patel | 61 | 206 | 24 | 291 |
-| 7 | 499 | shadowion | Ihsaan Yasin | 103 | 168 | 20 | 291 |
+| 7 | 501 | shadowion | Ihsaan Yasin | 103 | 169 | 20 | 292 |
 | 8 | 468 | devk03 | Dev Kunjadia | 86 | 176 | 10 | 272 |
 | 9 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 10 | 459 | adavidwu | David Wu | 74 | 152 | 27 | 253 |
-| 11 | 385 | wlvrd | Nick Walvoord | 56 | 148 | 11 | 215 |
+| 11 | 387 | wlvrd | Nick Walvoord | 56 | 149 | 11 | 216 |
 | 12 | 352 | jessicaa_zhang | Jessica Zhang | 69 | 128 | 9 | 206 |
 | 13 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
 | 14 | 332 | ericzhao16 | Eric Zhao | 56 | 123 | 10 | 189 |
@@ -30,5 +30,5 @@
 | 21 | 186 | wolinskij | Jonathan Wolinski | 43 | 67 | 3 | 113 |
 | 22 | 185 | nishtothekish | Nikhil Vaidyanathan | 35 | 39 | 24 | 98 |
 | 23 | 181 | justinbabe019 | Angie Leong | 56 | 58 | 3 | 117 |
-| 24 | 9 | alexdnl | Alex Lee | 1 | 4 | 0 | 5 |
+| 24 | 11 | alexdnl | Alex Lee | 1 | 5 | 0 | 6 |
 ---
