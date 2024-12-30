@@ -8,7 +8,7 @@
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 785 | mj3061 | Michael Jiang | 110 | 273 | 43 | 426 |
-| 🥈 2 | 780 | brinco | Brian Lee | 93 | 279 | 43 | 415 |
+| 🥈 2 | 782 | brinco | Brian Lee | 93 | 280 | 43 | 416 |
 | 🥉 3 | 758 | ashwin_a_kumar | Ashwin Kumar | 178 | 260 | 20 | 458 |
 | 4 | 692 | Vonais | John Xie | 117 | 235 | 35 | 387 |
 | 5 | 678 | arnsh | Arnav Shah | 76 | 223 | 52 | 351 |
@@ -27,8 +27,8 @@
 | 18 | 298 | enumerative | Peter Wu | 47 | 106 | 13 | 166 |
 | 19 | 209 | QuantumMechanics123 | Aadit Jain | 43 | 68 | 10 | 121 |
 | 20 | 200 | calebjlee | Caleb Lee | 43 | 68 | 7 | 118 |
-| 21 | 186 | wolinskij | Jonathan Wolinski | 43 | 67 | 3 | 113 |
-| 22 | 185 | nishtothekish | Nikhil Vaidyanathan | 35 | 39 | 24 | 98 |
-| 23 | 181 | justinbabe019 | Angie Leong | 56 | 58 | 3 | 117 |
-| 24 | 11 | alexdnl | Alex Lee | 1 | 5 | 0 | 6 |
+| 21 | 189 | nishtothekish | Nikhil Vaidyanathan | 36 | 39 | 25 | 100 |
+| 22 | 186 | wolinskij | Jonathan Wolinski | 43 | 67 | 3 | 113 |
+| 23 | 185 | justinbabe019 | Angie Leong | 56 | 60 | 3 | 119 |
+| 24 | 13 | alexdnl | Alex Lee | 1 | 6 | 0 | 7 |
 ---
