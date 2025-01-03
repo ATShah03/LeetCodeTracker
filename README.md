@@ -7,7 +7,7 @@
 
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
-| 🥇 1 | 789 | brinco | Brian Lee | 94 | 283 | 43 | 420 |
+| 🥇 1 | 791 | brinco | Brian Lee | 94 | 284 | 43 | 421 |
 | 🥈 2 | 785 | mj3061 | Michael Jiang | 110 | 273 | 43 | 426 |
 | 🥉 3 | 762 | ashwin_a_kumar | Ashwin Kumar | 178 | 262 | 20 | 460 |
 | 4 | 692 | Vonais | John Xie | 117 | 235 | 35 | 387 |
@@ -18,7 +18,7 @@
 | 9 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 10 | 459 | adavidwu | David Wu | 74 | 152 | 27 | 253 |
 | 11 | 407 | wlvrd | Nick Walvoord | 59 | 156 | 12 | 227 |
-| 12 | 354 | jessicaa_zhang | Jessica Zhang | 69 | 129 | 9 | 207 |
+| 12 | 356 | jessicaa_zhang | Jessica Zhang | 69 | 130 | 9 | 208 |
 | 13 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
 | 14 | 332 | ericzhao16 | Eric Zhao | 56 | 123 | 10 | 189 |
 | 15 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
@@ -26,7 +26,7 @@
 | 17 | 307 | RGBmarya | Mihir Arya | 48 | 98 | 21 | 167 |
 | 18 | 298 | enumerative | Peter Wu | 47 | 106 | 13 | 166 |
 | 19 | 209 | QuantumMechanics123 | Aadit Jain | 43 | 68 | 10 | 121 |
-| 20 | 200 | calebjlee | Caleb Lee | 43 | 68 | 7 | 118 |
+| 20 | 204 | calebjlee | Caleb Lee | 45 | 69 | 7 | 121 |
 | 21 | 189 | nishtothekish | Nikhil Vaidyanathan | 36 | 39 | 25 | 100 |
 | 22 | 186 | wolinskij | Jonathan Wolinski | 43 | 67 | 3 | 113 |
 | 23 | 185 | justinbabe019 | Angie Leong | 56 | 60 | 3 | 119 |
