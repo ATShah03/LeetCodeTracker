@@ -7,9 +7,9 @@
 
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
-| 🥇 1 | 791 | brinco | Brian Lee | 94 | 284 | 43 | 421 |
+| 🥇 1 | 795 | brinco | Brian Lee | 94 | 286 | 43 | 423 |
 | 🥈 2 | 785 | mj3061 | Michael Jiang | 110 | 273 | 43 | 426 |
-| 🥉 3 | 764 | ashwin_a_kumar | Ashwin Kumar | 178 | 263 | 20 | 461 |
+| 🥉 3 | 766 | ashwin_a_kumar | Ashwin Kumar | 178 | 264 | 20 | 462 |
 | 4 | 692 | Vonais | John Xie | 117 | 235 | 35 | 387 |
 | 5 | 678 | arnsh | Arnav Shah | 76 | 223 | 52 | 351 |
 | 6 | 547 | shreypatel703 | Shrey Patel | 61 | 207 | 24 | 292 |
@@ -18,7 +18,7 @@
 | 9 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 10 | 459 | adavidwu | David Wu | 74 | 152 | 27 | 253 |
 | 11 | 407 | wlvrd | Nick Walvoord | 59 | 156 | 12 | 227 |
-| 12 | 356 | jessicaa_zhang | Jessica Zhang | 69 | 130 | 9 | 208 |
+| 12 | 358 | jessicaa_zhang | Jessica Zhang | 69 | 131 | 9 | 209 |
 | 13 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
 | 14 | 334 | ericzhao16 | Eric Zhao | 56 | 124 | 10 | 190 |
 | 15 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
