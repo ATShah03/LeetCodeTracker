@@ -12,13 +12,13 @@
 | 🥉 3 | 771 | ashwin_a_kumar | Ashwin Kumar | 178 | 265 | 21 | 464 |
 | 4 | 692 | Vonais | John Xie | 117 | 235 | 35 | 387 |
 | 5 | 678 | arnsh | Arnav Shah | 76 | 223 | 52 | 351 |
-| 6 | 549 | shreypatel703 | Shrey Patel | 61 | 208 | 24 | 293 |
+| 6 | 550 | shreypatel703 | Shrey Patel | 62 | 208 | 24 | 294 |
 | 7 | 504 | shadowion | Ihsaan Yasin | 104 | 170 | 20 | 294 |
 | 8 | 468 | devk03 | Dev Kunjadia | 86 | 176 | 10 | 272 |
 | 9 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 10 | 459 | adavidwu | David Wu | 74 | 152 | 27 | 253 |
 | 11 | 409 | wlvrd | Nick Walvoord | 59 | 157 | 12 | 228 |
-| 12 | 364 | jessicaa_zhang | Jessica Zhang | 69 | 134 | 9 | 212 |
+| 12 | 366 | jessicaa_zhang | Jessica Zhang | 69 | 135 | 9 | 213 |
 | 13 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
 | 14 | 334 | ericzhao16 | Eric Zhao | 56 | 124 | 10 | 190 |
 | 15 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
