@@ -25,7 +25,7 @@
 | 16 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 17 | 307 | RGBmarya | Mihir Arya | 48 | 98 | 21 | 167 |
 | 18 | 298 | enumerative | Peter Wu | 47 | 106 | 13 | 166 |
-| 19 | 209 | QuantumMechanics123 | Aadit Jain | 43 | 68 | 10 | 121 |
+| 19 | 211 | QuantumMechanics123 | Aadit Jain | 43 | 69 | 10 | 122 |
 | 20 | 204 | calebjlee | Caleb Lee | 45 | 69 | 7 | 121 |
 | 21 | 189 | nishtothekish | Nikhil Vaidyanathan | 36 | 39 | 25 | 100 |
 | 22 | 186 | wolinskij | Jonathan Wolinski | 43 | 67 | 3 | 113 |
