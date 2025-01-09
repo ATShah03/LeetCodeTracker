@@ -7,7 +7,7 @@
 
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
-| 🥇 1 | 805 | brinco | Brian Lee | 96 | 290 | 43 | 429 |
+| 🥇 1 | 806 | brinco | Brian Lee | 97 | 290 | 43 | 430 |
 | 🥈 2 | 785 | mj3061 | Michael Jiang | 110 | 273 | 43 | 426 |
 | 🥉 3 | 771 | ashwin_a_kumar | Ashwin Kumar | 178 | 265 | 21 | 464 |
 | 4 | 692 | Vonais | John Xie | 117 | 235 | 35 | 387 |
@@ -18,7 +18,7 @@
 | 9 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 10 | 459 | adavidwu | David Wu | 74 | 152 | 27 | 253 |
 | 11 | 409 | wlvrd | Nick Walvoord | 59 | 157 | 12 | 228 |
-| 12 | 368 | jessicaa_zhang | Jessica Zhang | 71 | 135 | 9 | 215 |
+| 12 | 382 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 9 | 222 |
 | 13 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
 | 14 | 334 | ericzhao16 | Eric Zhao | 56 | 124 | 10 | 190 |
 | 15 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
