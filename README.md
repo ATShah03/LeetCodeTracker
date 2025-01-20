@@ -7,13 +7,13 @@
 
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
-| 🥇 1 | 822 | brinco | Brian Lee | 97 | 298 | 43 | 438 |
+| 🥇 1 | 824 | brinco | Brian Lee | 97 | 299 | 43 | 439 |
 | 🥈 2 | 785 | mj3061 | Michael Jiang | 110 | 273 | 43 | 426 |
-| 🥉 3 | 771 | ashwin_a_kumar | Ashwin Kumar | 178 | 265 | 21 | 464 |
+| 🥉 3 | 773 | ashwin_a_kumar | Ashwin Kumar | 178 | 266 | 21 | 465 |
 | 4 | 692 | Vonais | John Xie | 117 | 235 | 35 | 387 |
 | 5 | 678 | arnsh | Arnav Shah | 76 | 223 | 52 | 351 |
 | 6 | 553 | shreypatel703 | Shrey Patel | 63 | 209 | 24 | 296 |
-| 7 | 504 | shadowion | Ihsaan Yasin | 104 | 170 | 20 | 294 |
+| 7 | 506 | shadowion | Ihsaan Yasin | 104 | 171 | 20 | 295 |
 | 8 | 468 | devk03 | Dev Kunjadia | 86 | 176 | 10 | 272 |
 | 9 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 10 | 459 | adavidwu | David Wu | 74 | 152 | 27 | 253 |
@@ -25,7 +25,7 @@
 | 16 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 17 | 307 | RGBmarya | Mihir Arya | 48 | 98 | 21 | 167 |
 | 18 | 298 | enumerative | Peter Wu | 47 | 106 | 13 | 166 |
-| 19 | 225 | calebjlee | Caleb Lee | 48 | 78 | 7 | 133 |
+| 19 | 228 | calebjlee | Caleb Lee | 48 | 78 | 8 | 134 |
 | 20 | 215 | QuantumMechanics123 | Aadit Jain | 43 | 71 | 10 | 124 |
 | 21 | 190 | nishtothekish | Nikhil Vaidyanathan | 37 | 39 | 25 | 101 |
 | 22 | 188 | wolinskij | Jonathan Wolinski | 43 | 68 | 3 | 114 |
