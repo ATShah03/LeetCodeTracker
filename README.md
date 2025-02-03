@@ -17,7 +17,7 @@
 | 8 | 468 | devk03 | Dev Kunjadia | 86 | 176 | 10 | 272 |
 | 9 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 10 | 461 | adavidwu | David Wu | 74 | 153 | 27 | 254 |
-| 11 | 427 | wlvrd | Nick Walvoord | 63 | 161 | 14 | 238 |
+| 11 | 429 | wlvrd | Nick Walvoord | 63 | 162 | 14 | 239 |
 | 12 | 406 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 17 | 230 |
 | 13 | 337 | ericzhao16 | Eric Zhao | 57 | 125 | 10 | 192 |
 | 14 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
