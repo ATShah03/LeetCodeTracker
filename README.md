@@ -10,9 +10,9 @@
 | 🥇 1 | 833 | brinco | Brian Lee | 97 | 302 | 44 | 443 |
 | 🥈 2 | 785 | mj3061 | Michael Jiang | 110 | 273 | 43 | 426 |
 | 🥉 3 | 773 | ashwin_a_kumar | Ashwin Kumar | 178 | 266 | 21 | 465 |
-| 4 | 692 | Vonais | John Xie | 117 | 235 | 35 | 387 |
+| 4 | 693 | Vonais | John Xie | 118 | 235 | 35 | 388 |
 | 5 | 680 | arnsh | Arnav Shah | 76 | 224 | 52 | 352 |
-| 6 | 553 | shreypatel703 | Shrey Patel | 63 | 209 | 24 | 296 |
+| 6 | 554 | shreypatel703 | Shrey Patel | 64 | 209 | 24 | 297 |
 | 7 | 506 | shadowion | Ihsaan Yasin | 104 | 171 | 20 | 295 |
 | 8 | 468 | devk03 | Dev Kunjadia | 86 | 176 | 10 | 272 |
 | 9 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
