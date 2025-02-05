@@ -15,8 +15,8 @@
 | 6 | 554 | shreypatel703 | Shrey Patel | 64 | 209 | 24 | 297 |
 | 7 | 506 | shadowion | Ihsaan Yasin | 104 | 171 | 20 | 295 |
 | 8 | 468 | devk03 | Dev Kunjadia | 86 | 176 | 10 | 272 |
-| 9 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
-| 10 | 461 | adavidwu | David Wu | 74 | 153 | 27 | 254 |
+| 9 | 465 | adavidwu | David Wu | 74 | 155 | 27 | 256 |
+| 10 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
 | 11 | 429 | wlvrd | Nick Walvoord | 63 | 162 | 14 | 239 |
 | 12 | 406 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 17 | 230 |
 | 13 | 337 | ericzhao16 | Eric Zhao | 57 | 125 | 10 | 192 |
@@ -25,7 +25,7 @@
 | 16 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 17 | 307 | RGBmarya | Mihir Arya | 48 | 98 | 21 | 167 |
 | 18 | 298 | enumerative | Peter Wu | 47 | 106 | 13 | 166 |
-| 19 | 242 | calebjlee | Caleb Lee | 51 | 82 | 9 | 142 |
+| 19 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 20 | 239 | QuantumMechanics123 | Aadit Jain | 43 | 83 | 10 | 136 |
 | 21 | 190 | nishtothekish | Nikhil Vaidyanathan | 37 | 39 | 25 | 101 |
 | 22 | 188 | wolinskij | Jonathan Wolinski | 43 | 68 | 3 | 114 |
