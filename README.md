@@ -28,7 +28,7 @@
 | 19 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 20 | 244 | QuantumMechanics123 | Aadit Jain | 44 | 85 | 10 | 139 |
 | 21 | 190 | nishtothekish | Nikhil Vaidyanathan | 37 | 39 | 25 | 101 |
-| 22 | 188 | wolinskij | Jonathan Wolinski | 43 | 68 | 3 | 114 |
-| 23 | 186 | justinbabe019 | Angie Leong | 57 | 60 | 3 | 120 |
+| 22 | 188 | justinbabe019 | Angie Leong | 57 | 61 | 3 | 121 |
+| 23 | 188 | wolinskij | Jonathan Wolinski | 43 | 68 | 3 | 114 |
 | 24 | 13 | alexdnl | Alex Lee | 1 | 6 | 0 | 7 |
 ---
