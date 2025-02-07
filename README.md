@@ -10,9 +10,9 @@
 | 🥇 1 | 833 | brinco | Brian Lee | 97 | 302 | 44 | 443 |
 | 🥈 2 | 785 | mj3061 | Michael Jiang | 110 | 273 | 43 | 426 |
 | 🥉 3 | 773 | ashwin_a_kumar | Ashwin Kumar | 178 | 266 | 21 | 465 |
-| 4 | 693 | Vonais | John Xie | 118 | 235 | 35 | 388 |
+| 4 | 695 | Vonais | John Xie | 118 | 236 | 35 | 389 |
 | 5 | 680 | arnsh | Arnav Shah | 76 | 224 | 52 | 352 |
-| 6 | 554 | shreypatel703 | Shrey Patel | 64 | 209 | 24 | 297 |
+| 6 | 560 | shreypatel703 | Shrey Patel | 66 | 211 | 24 | 301 |
 | 7 | 506 | shadowion | Ihsaan Yasin | 104 | 171 | 20 | 295 |
 | 8 | 468 | devk03 | Dev Kunjadia | 86 | 176 | 10 | 272 |
 | 9 | 465 | adavidwu | David Wu | 74 | 155 | 27 | 256 |
@@ -26,7 +26,7 @@
 | 17 | 307 | RGBmarya | Mihir Arya | 48 | 98 | 21 | 167 |
 | 18 | 298 | enumerative | Peter Wu | 47 | 106 | 13 | 166 |
 | 19 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
-| 20 | 239 | QuantumMechanics123 | Aadit Jain | 43 | 83 | 10 | 136 |
+| 20 | 242 | QuantumMechanics123 | Aadit Jain | 44 | 84 | 10 | 138 |
 | 21 | 190 | nishtothekish | Nikhil Vaidyanathan | 37 | 39 | 25 | 101 |
 | 22 | 188 | wolinskij | Jonathan Wolinski | 43 | 68 | 3 | 114 |
 | 23 | 186 | justinbabe019 | Angie Leong | 57 | 60 | 3 | 120 |
