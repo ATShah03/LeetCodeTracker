@@ -9,7 +9,7 @@
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 833 | brinco | Brian Lee | 97 | 302 | 44 | 443 |
 | 🥈 2 | 788 | mj3061 | Michael Jiang | 110 | 273 | 44 | 427 |
-| 🥉 3 | 773 | ashwin_a_kumar | Ashwin Kumar | 178 | 266 | 21 | 465 |
+| 🥉 3 | 775 | ashwin_a_kumar | Ashwin Kumar | 178 | 267 | 21 | 466 |
 | 4 | 695 | Vonais | John Xie | 118 | 236 | 35 | 389 |
 | 5 | 680 | arnsh | Arnav Shah | 76 | 224 | 52 | 352 |
 | 6 | 561 | shreypatel703 | Shrey Patel | 67 | 211 | 24 | 302 |
@@ -17,7 +17,7 @@
 | 8 | 468 | devk03 | Dev Kunjadia | 86 | 176 | 10 | 272 |
 | 9 | 465 | adavidwu | David Wu | 74 | 155 | 27 | 256 |
 | 10 | 463 | Flytre | Aaron Rahman | 44 | 148 | 41 | 233 |
-| 11 | 435 | wlvrd | Nick Walvoord | 63 | 165 | 14 | 242 |
+| 11 | 437 | wlvrd | Nick Walvoord | 63 | 166 | 14 | 243 |
 | 12 | 406 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 17 | 230 |
 | 13 | 337 | ericzhao16 | Eric Zhao | 57 | 125 | 10 | 192 |
 | 14 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
