@@ -7,7 +7,7 @@
 
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
-| 🥇 1 | 838 | brinco | Brian Lee | 97 | 303 | 45 | 445 |
+| 🥇 1 | 840 | brinco | Brian Lee | 97 | 304 | 45 | 446 |
 | 🥈 2 | 788 | mj3061 | Michael Jiang | 110 | 273 | 44 | 427 |
 | 🥉 3 | 777 | ashwin_a_kumar | Ashwin Kumar | 178 | 268 | 21 | 467 |
 | 4 | 695 | Vonais | John Xie | 118 | 236 | 35 | 389 |
@@ -25,7 +25,7 @@
 | 16 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 17 | 307 | RGBmarya | Mihir Arya | 48 | 98 | 21 | 167 |
 | 18 | 301 | enumerative | Peter Wu | 48 | 107 | 13 | 168 |
-| 19 | 253 | QuantumMechanics123 | Aadit Jain | 45 | 89 | 10 | 144 |
+| 19 | 255 | QuantumMechanics123 | Aadit Jain | 45 | 90 | 10 | 145 |
 | 20 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 21 | 190 | nishtothekish | Nikhil Vaidyanathan | 37 | 39 | 25 | 101 |
 | 22 | 188 | justinbabe019 | Angie Leong | 57 | 61 | 3 | 121 |
