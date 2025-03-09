@@ -16,7 +16,7 @@
 | 7 | 506 | shadowion | Ihsaan Yasin | 104 | 171 | 20 | 295 |
 | 8 | 470 | adavidwu | David Wu | 74 | 156 | 28 | 258 |
 | 9 | 470 | devk03 | Dev Kunjadia | 86 | 177 | 10 | 273 |
-| 10 | 464 | Flytre | Aaron Rahman | 45 | 148 | 41 | 234 |
+| 10 | 466 | Flytre | Aaron Rahman | 45 | 149 | 41 | 235 |
 | 11 | 437 | wlvrd | Nick Walvoord | 63 | 166 | 14 | 243 |
 | 12 | 406 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 17 | 230 |
 | 13 | 337 | ericzhao16 | Eric Zhao | 57 | 125 | 10 | 192 |
