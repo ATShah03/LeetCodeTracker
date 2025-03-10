@@ -23,7 +23,7 @@
 | 14 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
 | 15 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
 | 16 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
-| 17 | 307 | RGBmarya | Mihir Arya | 48 | 98 | 21 | 167 |
+| 17 | 309 | RGBmarya | Mihir Arya | 48 | 99 | 21 | 168 |
 | 18 | 303 | enumerative | Peter Wu | 48 | 108 | 13 | 169 |
 | 19 | 283 | QuantumMechanics123 | Aadit Jain | 45 | 104 | 10 | 159 |
 | 20 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
