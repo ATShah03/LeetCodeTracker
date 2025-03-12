@@ -30,5 +30,5 @@
 | 21 | 190 | nishtothekish | Nikhil Vaidyanathan | 37 | 39 | 25 | 101 |
 | 22 | 188 | justinbabe019 | Angie Leong | 57 | 61 | 3 | 121 |
 | 23 | 188 | wolinskij | Jonathan Wolinski | 43 | 68 | 3 | 114 |
-| 24 | 15 | alexdnl | Alex Lee | 1 | 7 | 0 | 8 |
+| 24 | 17 | alexdnl | Alex Lee | 1 | 8 | 0 | 9 |
 ---
