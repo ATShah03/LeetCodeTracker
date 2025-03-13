@@ -10,13 +10,13 @@
 | 🥇 1 | 840 | brinco | Brian Lee | 97 | 304 | 45 | 446 |
 | 🥈 2 | 790 | mj3061 | Michael Jiang | 110 | 274 | 44 | 428 |
 | 🥉 3 | 778 | ashwin_a_kumar | Ashwin Kumar | 179 | 268 | 21 | 468 |
-| 4 | 695 | Vonais | John Xie | 118 | 236 | 35 | 389 |
+| 4 | 697 | Vonais | John Xie | 118 | 237 | 35 | 390 |
 | 5 | 681 | arnsh | Arnav Shah | 77 | 224 | 52 | 353 |
 | 6 | 569 | shreypatel703 | Shrey Patel | 67 | 215 | 24 | 306 |
 | 7 | 506 | shadowion | Ihsaan Yasin | 104 | 171 | 20 | 295 |
-| 8 | 470 | adavidwu | David Wu | 74 | 156 | 28 | 258 |
-| 9 | 470 | devk03 | Dev Kunjadia | 86 | 177 | 10 | 273 |
-| 10 | 469 | Flytre | Aaron Rahman | 46 | 150 | 41 | 237 |
+| 8 | 471 | Flytre | Aaron Rahman | 46 | 151 | 41 | 238 |
+| 9 | 470 | adavidwu | David Wu | 74 | 156 | 28 | 258 |
+| 10 | 470 | devk03 | Dev Kunjadia | 86 | 177 | 10 | 273 |
 | 11 | 437 | wlvrd | Nick Walvoord | 63 | 166 | 14 | 243 |
 | 12 | 406 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 17 | 230 |
 | 13 | 337 | ericzhao16 | Eric Zhao | 57 | 125 | 10 | 192 |
