@@ -8,9 +8,9 @@
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 840 | brinco | Brian Lee | 97 | 304 | 45 | 446 |
-| 🥈 2 | 790 | mj3061 | Michael Jiang | 110 | 274 | 44 | 428 |
+| 🥈 2 | 792 | mj3061 | Michael Jiang | 110 | 275 | 44 | 429 |
 | 🥉 3 | 780 | ashwin_a_kumar | Ashwin Kumar | 179 | 269 | 21 | 469 |
-| 4 | 706 | Vonais | John Xie | 119 | 241 | 35 | 395 |
+| 4 | 708 | Vonais | John Xie | 119 | 242 | 35 | 396 |
 | 5 | 681 | arnsh | Arnav Shah | 77 | 224 | 52 | 353 |
 | 6 | 569 | shreypatel703 | Shrey Patel | 67 | 215 | 24 | 306 |
 | 7 | 506 | shadowion | Ihsaan Yasin | 104 | 171 | 20 | 295 |
