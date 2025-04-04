@@ -30,6 +30,6 @@
 | 21 | 193 | nishtothekish | Nikhil Vaidyanathan | 38 | 40 | 25 | 103 |
 | 22 | 188 | justinbabe019 | Angie Leong | 57 | 61 | 3 | 121 |
 | 23 | 188 | wolinskij | Jonathan Wolinski | 43 | 68 | 3 | 114 |
-| 24 | 49 | zyoonkim | Zach Yoon-Kim | 33 | 8 | 0 | 41 |
+| 24 | 50 | zyoonkim | Zach Yoon-Kim | 34 | 8 | 0 | 42 |
 | 25 | 17 | alexdnl | Alex Lee | 1 | 8 | 0 | 9 |
 ---
