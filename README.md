@@ -22,7 +22,7 @@
 | 13 | 337 | ericzhao16 | Eric Zhao | 57 | 125 | 10 | 192 |
 | 14 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
 | 15 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
-| 16 | 317 | RGBmarya | Mihir Arya | 48 | 103 | 21 | 172 |
+| 16 | 319 | RGBmarya | Mihir Arya | 48 | 104 | 21 | 173 |
 | 17 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 18 | 303 | enumerative | Peter Wu | 48 | 108 | 13 | 169 |
 | 19 | 283 | QuantumMechanics123 | Aadit Jain | 45 | 104 | 10 | 159 |
@@ -30,5 +30,6 @@
 | 21 | 193 | nishtothekish | Nikhil Vaidyanathan | 38 | 40 | 25 | 103 |
 | 22 | 188 | justinbabe019 | Angie Leong | 57 | 61 | 3 | 121 |
 | 23 | 188 | wolinskij | Jonathan Wolinski | 43 | 68 | 3 | 114 |
-| 24 | 17 | alexdnl | Alex Lee | 1 | 8 | 0 | 9 |
+| 24 | 49 | zyoonkim | Zach Yoon-Kim | 33 | 8 | 0 | 41 |
+| 25 | 17 | alexdnl | Alex Lee | 1 | 8 | 0 | 9 |
 ---
