@@ -21,8 +21,8 @@
 | 12 | 406 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 17 | 230 |
 | 13 | 337 | ericzhao16 | Eric Zhao | 57 | 125 | 10 | 192 |
 | 14 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
-| 15 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
-| 16 | 322 | RGBmarya | Mihir Arya | 49 | 105 | 21 | 175 |
+| 15 | 326 | RGBmarya | Mihir Arya | 49 | 107 | 21 | 177 |
+| 16 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
 | 17 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 18 | 303 | enumerative | Peter Wu | 48 | 108 | 13 | 169 |
 | 19 | 283 | QuantumMechanics123 | Aadit Jain | 45 | 104 | 10 | 159 |
