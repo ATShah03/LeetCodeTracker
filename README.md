@@ -17,7 +17,7 @@
 | 8 | 474 | Flytre | Aaron Rahman | 47 | 152 | 41 | 240 |
 | 9 | 470 | adavidwu | David Wu | 74 | 156 | 28 | 258 |
 | 10 | 470 | devk03 | Dev Kunjadia | 86 | 177 | 10 | 273 |
-| 11 | 443 | wlvrd | Nick Walvoord | 64 | 167 | 15 | 246 |
+| 11 | 445 | wlvrd | Nick Walvoord | 64 | 168 | 15 | 247 |
 | 12 | 406 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 17 | 230 |
 | 13 | 337 | ericzhao16 | Eric Zhao | 57 | 125 | 10 | 192 |
 | 14 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
@@ -30,6 +30,6 @@
 | 21 | 193 | nishtothekish | Nikhil Vaidyanathan | 38 | 40 | 25 | 103 |
 | 22 | 188 | justinbabe019 | Angie Leong | 57 | 61 | 3 | 121 |
 | 23 | 188 | wolinskij | Jonathan Wolinski | 43 | 68 | 3 | 114 |
-| 24 | 50 | zyoonkim | Zach Yoon-Kim | 34 | 8 | 0 | 42 |
+| 24 | 52 | zyoonkim | Zach Yoon-Kim | 34 | 9 | 0 | 43 |
 | 25 | 17 | alexdnl | Alex Lee | 1 | 8 | 0 | 9 |
 ---
