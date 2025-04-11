@@ -17,14 +17,14 @@
 | 8 | 474 | Flytre | Aaron Rahman | 47 | 152 | 41 | 240 |
 | 9 | 470 | adavidwu | David Wu | 74 | 156 | 28 | 258 |
 | 10 | 470 | devk03 | Dev Kunjadia | 86 | 177 | 10 | 273 |
-| 11 | 449 | wlvrd | Nick Walvoord | 66 | 169 | 15 | 250 |
+| 11 | 450 | wlvrd | Nick Walvoord | 67 | 169 | 15 | 251 |
 | 12 | 406 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 17 | 230 |
 | 13 | 337 | ericzhao16 | Eric Zhao | 57 | 125 | 10 | 192 |
 | 14 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
 | 15 | 333 | RGBmarya | Mihir Arya | 51 | 108 | 22 | 181 |
 | 16 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
 | 17 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
-| 18 | 304 | enumerative | Peter Wu | 49 | 108 | 13 | 170 |
+| 18 | 306 | enumerative | Peter Wu | 49 | 109 | 13 | 171 |
 | 19 | 283 | QuantumMechanics123 | Aadit Jain | 45 | 104 | 10 | 159 |
 | 20 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 21 | 193 | nishtothekish | Nikhil Vaidyanathan | 38 | 40 | 25 | 103 |
