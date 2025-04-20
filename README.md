@@ -24,7 +24,7 @@
 | 15 | 333 | RGBmarya | Mihir Arya | 51 | 108 | 22 | 181 |
 | 16 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
 | 17 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
-| 18 | 306 | enumerative | Peter Wu | 49 | 109 | 13 | 171 |
+| 18 | 307 | enumerative | Peter Wu | 50 | 109 | 13 | 172 |
 | 19 | 283 | QuantumMechanics123 | Aadit Jain | 45 | 104 | 10 | 159 |
 | 20 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 21 | 193 | nishtothekish | Nikhil Vaidyanathan | 38 | 40 | 25 | 103 |
