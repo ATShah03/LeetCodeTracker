@@ -12,7 +12,7 @@
 | 🥉 3 | 784 | ashwin_a_kumar | Ashwin Kumar | 179 | 271 | 21 | 471 |
 | 4 | 720 | Vonais | John Xie | 121 | 247 | 35 | 403 |
 | 5 | 694 | arnsh | Arnav Shah | 80 | 229 | 52 | 361 |
-| 6 | 569 | shreypatel703 | Shrey Patel | 67 | 215 | 24 | 306 |
+| 6 | 570 | shreypatel703 | Shrey Patel | 68 | 215 | 24 | 307 |
 | 7 | 506 | shadowion | Ihsaan Yasin | 104 | 171 | 20 | 295 |
 | 8 | 474 | Flytre | Aaron Rahman | 47 | 152 | 41 | 240 |
 | 9 | 470 | adavidwu | David Wu | 74 | 156 | 28 | 258 |
