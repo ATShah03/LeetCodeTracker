@@ -32,5 +32,5 @@
 | 23 | 188 | justinbabe019 | Angie Leong | 57 | 61 | 3 | 121 |
 | 24 | 52 | zyoonkim | Zach Yoon-Kim | 34 | 9 | 0 | 43 |
 | 25 | 17 | alexdnl | Alex Lee | 1 | 8 | 0 | 9 |
-| 26 | 15 | KaelWu | Kael Wu | 5 | 5 | 0 | 10 |
+| 26 | 17 | KaelWu | Kael Wu | 5 | 6 | 0 | 11 |
 ---
