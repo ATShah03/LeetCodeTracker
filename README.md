@@ -13,7 +13,7 @@
 | 4 | 720 | Vonais | John Xie | 121 | 247 | 35 | 403 |
 | 5 | 694 | arnsh | Arnav Shah | 80 | 229 | 52 | 361 |
 | 6 | 570 | shreypatel703 | Shrey Patel | 68 | 215 | 24 | 307 |
-| 7 | 506 | shadowion | Ihsaan Yasin | 104 | 171 | 20 | 295 |
+| 7 | 509 | shadowion | Ihsaan Yasin | 104 | 171 | 21 | 296 |
 | 8 | 474 | Flytre | Aaron Rahman | 47 | 152 | 41 | 240 |
 | 9 | 470 | adavidwu | David Wu | 74 | 156 | 28 | 258 |
 | 10 | 470 | devk03 | Dev Kunjadia | 86 | 177 | 10 | 273 |
@@ -31,6 +31,6 @@
 | 22 | 190 | wolinskij | Jonathan Wolinski | 43 | 69 | 3 | 115 |
 | 23 | 188 | justinbabe019 | Angie Leong | 57 | 61 | 3 | 121 |
 | 24 | 54 | zyoonkim | Zach Yoon-Kim | 34 | 10 | 0 | 44 |
-| 25 | 23 | KaelWu | Kael Wu | 7 | 8 | 0 | 15 |
+| 25 | 29 | KaelWu | Kael Wu | 7 | 11 | 0 | 18 |
 | 26 | 17 | alexdnl | Alex Lee | 1 | 8 | 0 | 9 |
 ---
