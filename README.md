@@ -31,6 +31,6 @@
 | 22 | 190 | wolinskij | Jonathan Wolinski | 43 | 69 | 3 | 115 |
 | 23 | 188 | justinbabe019 | Angie Leong | 57 | 61 | 3 | 121 |
 | 24 | 56 | zyoonkim | Zach Yoon-Kim | 34 | 11 | 0 | 45 |
-| 25 | 29 | KaelWu | Kael Wu | 7 | 11 | 0 | 18 |
+| 25 | 34 | KaelWu | Kael Wu | 10 | 12 | 0 | 22 |
 | 26 | 17 | alexdnl | Alex Lee | 1 | 8 | 0 | 9 |
 ---
