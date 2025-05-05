@@ -27,10 +27,10 @@
 | 18 | 307 | enumerative | Peter Wu | 50 | 109 | 13 | 172 |
 | 19 | 283 | QuantumMechanics123 | Aadit Jain | 45 | 104 | 10 | 159 |
 | 20 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
-| 21 | 193 | nishtothekish | Nikhil Vaidyanathan | 38 | 40 | 25 | 103 |
+| 21 | 196 | nishtothekish | Nikhil Vaidyanathan | 38 | 40 | 26 | 104 |
 | 22 | 190 | wolinskij | Jonathan Wolinski | 43 | 69 | 3 | 115 |
 | 23 | 188 | justinbabe019 | Angie Leong | 57 | 61 | 3 | 121 |
-| 24 | 60 | zyoonkim | Zach Yoon-Kim | 34 | 13 | 0 | 47 |
+| 24 | 67 | zyoonkim | Zach Yoon-Kim | 34 | 15 | 1 | 50 |
 | 25 | 52 | KaelWu | Kael Wu | 18 | 17 | 0 | 35 |
 | 26 | 17 | alexdnl | Alex Lee | 1 | 8 | 0 | 9 |
 ---
