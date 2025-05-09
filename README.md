@@ -33,5 +33,5 @@
 | 24 | 76 | KaelWu | Kael Wu | 20 | 28 | 0 | 48 |
 | 25 | 74 | zyoonkim | Zach Yoon-Kim | 35 | 18 | 1 | 54 |
 | 26 | 17 | alexdnl | Alex Lee | 1 | 8 | 0 | 9 |
-| 27 | 6 | rayankdm | Rayan Kamdem | 6 | 0 | 0 | 6 |
+| 27 | 8 | rayankdm | Rayan Kamdem | 6 | 1 | 0 | 7 |
 ---
