@@ -24,7 +24,7 @@
 | 15 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
 | 16 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
 | 17 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
-| 18 | 307 | enumerative | Peter Wu | 50 | 109 | 13 | 172 |
+| 18 | 309 | enumerative | Peter Wu | 50 | 110 | 13 | 173 |
 | 19 | 285 | QuantumMechanics123 | Aadit Jain | 45 | 105 | 10 | 160 |
 | 20 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 21 | 196 | nishtothekish | Nikhil Vaidyanathan | 38 | 40 | 26 | 104 |
@@ -33,5 +33,5 @@
 | 24 | 84 | KaelWu | Kael Wu | 20 | 32 | 0 | 52 |
 | 25 | 74 | zyoonkim | Zach Yoon-Kim | 35 | 18 | 1 | 54 |
 | 26 | 17 | alexdnl | Alex Lee | 1 | 8 | 0 | 9 |
-| 27 | 8 | rayankdm | Rayan Kamdem | 6 | 1 | 0 | 7 |
+| 27 | 10 | rayankdm | Rayan Kamdem | 8 | 1 | 0 | 9 |
 ---
