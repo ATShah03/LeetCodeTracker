@@ -11,7 +11,7 @@
 | 🥈 2 | 793 | mj3061 | Michael Jiang | 111 | 275 | 44 | 430 |
 | 🥉 3 | 786 | ashwin_a_kumar | Ashwin Kumar | 179 | 272 | 21 | 472 |
 | 4 | 720 | Vonais | John Xie | 121 | 247 | 35 | 403 |
-| 5 | 694 | arnsh | Arnav Shah | 80 | 229 | 52 | 361 |
+| 5 | 695 | arnsh | Arnav Shah | 81 | 229 | 52 | 362 |
 | 6 | 573 | shreypatel703 | Shrey Patel | 69 | 216 | 24 | 309 |
 | 7 | 509 | shadowion | Ihsaan Yasin | 104 | 171 | 21 | 296 |
 | 8 | 474 | Flytre | Aaron Rahman | 47 | 152 | 41 | 240 |
