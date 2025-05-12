@@ -25,7 +25,7 @@
 | 16 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
 | 17 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 18 | 310 | enumerative | Peter Wu | 51 | 110 | 13 | 174 |
-| 19 | 285 | QuantumMechanics123 | Aadit Jain | 45 | 105 | 10 | 160 |
+| 19 | 287 | QuantumMechanics123 | Aadit Jain | 45 | 106 | 10 | 161 |
 | 20 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 21 | 202 | nishtothekish | Nikhil Vaidyanathan | 38 | 40 | 28 | 106 |
 | 22 | 190 | wolinskij | Jonathan Wolinski | 43 | 69 | 3 | 115 |
