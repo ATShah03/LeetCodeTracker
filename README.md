@@ -11,7 +11,7 @@
 | 🥈 2 | 793 | mj3061 | Michael Jiang | 111 | 275 | 44 | 430 |
 | 🥉 3 | 786 | ashwin_a_kumar | Ashwin Kumar | 179 | 272 | 21 | 472 |
 | 4 | 720 | Vonais | John Xie | 121 | 247 | 35 | 403 |
-| 5 | 696 | arnsh | Arnav Shah | 82 | 229 | 52 | 363 |
+| 5 | 709 | arnsh | Arnav Shah | 82 | 231 | 55 | 368 |
 | 6 | 573 | shreypatel703 | Shrey Patel | 69 | 216 | 24 | 309 |
 | 7 | 511 | shadowion | Ihsaan Yasin | 104 | 172 | 21 | 297 |
 | 8 | 474 | Flytre | Aaron Rahman | 47 | 152 | 41 | 240 |
@@ -27,7 +27,7 @@
 | 18 | 310 | enumerative | Peter Wu | 51 | 110 | 13 | 174 |
 | 19 | 287 | QuantumMechanics123 | Aadit Jain | 45 | 106 | 10 | 161 |
 | 20 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
-| 21 | 202 | nishtothekish | Nikhil Vaidyanathan | 38 | 40 | 28 | 106 |
+| 21 | 205 | nishtothekish | Nikhil Vaidyanathan | 38 | 40 | 29 | 107 |
 | 22 | 190 | wolinskij | Jonathan Wolinski | 43 | 69 | 3 | 115 |
 | 23 | 188 | justinbabe019 | Angie Leong | 57 | 61 | 3 | 121 |
 | 24 | 90 | KaelWu | Kael Wu | 20 | 35 | 0 | 55 |
