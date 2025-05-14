@@ -7,7 +7,7 @@
 
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
-| 🥇 1 | 840 | brinco | Brian Lee | 97 | 304 | 45 | 446 |
+| 🥇 1 | 842 | brinco | Brian Lee | 97 | 305 | 45 | 447 |
 | 🥈 2 | 793 | mj3061 | Michael Jiang | 111 | 275 | 44 | 430 |
 | 🥉 3 | 786 | ashwin_a_kumar | Ashwin Kumar | 179 | 272 | 21 | 472 |
 | 4 | 720 | Vonais | John Xie | 121 | 247 | 35 | 403 |
@@ -15,7 +15,7 @@
 | 6 | 573 | shreypatel703 | Shrey Patel | 69 | 216 | 24 | 309 |
 | 7 | 511 | shadowion | Ihsaan Yasin | 104 | 172 | 21 | 297 |
 | 8 | 476 | Flytre | Aaron Rahman | 47 | 153 | 41 | 241 |
-| 9 | 470 | adavidwu | David Wu | 74 | 156 | 28 | 258 |
+| 9 | 472 | adavidwu | David Wu | 74 | 157 | 28 | 259 |
 | 10 | 470 | devk03 | Dev Kunjadia | 86 | 177 | 10 | 273 |
 | 11 | 452 | wlvrd | Nick Walvoord | 67 | 170 | 15 | 252 |
 | 12 | 406 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 17 | 230 |
@@ -28,7 +28,7 @@
 | 19 | 294 | QuantumMechanics123 | Aadit Jain | 45 | 108 | 11 | 164 |
 | 20 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 21 | 205 | nishtothekish | Nikhil Vaidyanathan | 38 | 40 | 29 | 107 |
-| 22 | 190 | wolinskij | Jonathan Wolinski | 43 | 69 | 3 | 115 |
+| 22 | 192 | wolinskij | Jonathan Wolinski | 43 | 70 | 3 | 116 |
 | 23 | 188 | justinbabe019 | Angie Leong | 57 | 61 | 3 | 121 |
 | 24 | 92 | KaelWu | Kael Wu | 20 | 36 | 0 | 56 |
 | 25 | 74 | zyoonkim | Zach Yoon-Kim | 35 | 18 | 1 | 54 |
