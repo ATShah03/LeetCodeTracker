@@ -23,7 +23,7 @@
 | 14 | 338 | ericzhao16 | Eric Zhao | 58 | 125 | 10 | 193 |
 | 15 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
 | 16 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
-| 17 | 316 | QuantumMechanics123 | Aadit Jain | 49 | 114 | 13 | 176 |
+| 17 | 322 | QuantumMechanics123 | Aadit Jain | 49 | 117 | 13 | 179 |
 | 18 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 19 | 310 | enumerative | Peter Wu | 51 | 110 | 13 | 174 |
 | 20 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
