@@ -9,7 +9,7 @@
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 843 | brinco | Brian Lee | 98 | 305 | 45 | 448 |
 | 🥈 2 | 793 | mj3061 | Michael Jiang | 111 | 275 | 44 | 430 |
-| 🥉 3 | 788 | ashwin_a_kumar | Ashwin Kumar | 179 | 273 | 21 | 473 |
+| 🥉 3 | 790 | ashwin_a_kumar | Ashwin Kumar | 179 | 274 | 21 | 474 |
 | 4 | 720 | Vonais | John Xie | 121 | 247 | 35 | 403 |
 | 5 | 709 | arnsh | Arnav Shah | 82 | 231 | 55 | 368 |
 | 6 | 573 | shreypatel703 | Shrey Patel | 69 | 216 | 24 | 309 |
@@ -30,7 +30,7 @@
 | 21 | 205 | nishtothekish | Nikhil Vaidyanathan | 38 | 40 | 29 | 107 |
 | 22 | 192 | wolinskij | Jonathan Wolinski | 43 | 70 | 3 | 116 |
 | 23 | 188 | justinbabe019 | Angie Leong | 57 | 61 | 3 | 121 |
-| 24 | 92 | KaelWu | Kael Wu | 20 | 36 | 0 | 56 |
+| 24 | 94 | KaelWu | Kael Wu | 20 | 37 | 0 | 57 |
 | 25 | 74 | zyoonkim | Zach Yoon-Kim | 35 | 18 | 1 | 54 |
 | 26 | 17 | alexdnl | Alex Lee | 1 | 8 | 0 | 9 |
 | 27 | 16 | rayankdm | Rayan Kamdem | 10 | 3 | 0 | 13 |
