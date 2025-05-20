@@ -20,9 +20,9 @@
 | 11 | 452 | wlvrd | Nick Walvoord | 67 | 170 | 15 | 252 |
 | 12 | 406 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 17 | 230 |
 | 13 | 346 | RGBmarya | Mihir Arya | 56 | 112 | 22 | 190 |
-| 14 | 338 | ericzhao16 | Eric Zhao | 58 | 125 | 10 | 193 |
+| 14 | 342 | ericzhao16 | Eric Zhao | 58 | 127 | 10 | 195 |
 | 15 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
-| 16 | 327 | QuantumMechanics123 | Aadit Jain | 50 | 119 | 13 | 182 |
+| 16 | 329 | QuantumMechanics123 | Aadit Jain | 50 | 120 | 13 | 183 |
 | 17 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
 | 18 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 19 | 310 | enumerative | Peter Wu | 51 | 110 | 13 | 174 |
