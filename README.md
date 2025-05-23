@@ -12,7 +12,7 @@
 | 🥉 3 | 790 | ashwin_a_kumar | Ashwin Kumar | 179 | 274 | 21 | 474 |
 | 4 | 720 | Vonais | John Xie | 121 | 247 | 35 | 403 |
 | 5 | 709 | arnsh | Arnav Shah | 82 | 231 | 55 | 368 |
-| 6 | 575 | shreypatel703 | Shrey Patel | 69 | 217 | 24 | 310 |
+| 6 | 579 | shreypatel703 | Shrey Patel | 69 | 219 | 24 | 312 |
 | 7 | 511 | shadowion | Ihsaan Yasin | 104 | 172 | 21 | 297 |
 | 8 | 477 | Flytre | Aaron Rahman | 48 | 153 | 41 | 242 |
 | 9 | 472 | adavidwu | David Wu | 74 | 157 | 28 | 259 |
@@ -30,7 +30,7 @@
 | 21 | 205 | nishtothekish | Nikhil Vaidyanathan | 38 | 40 | 29 | 107 |
 | 22 | 192 | wolinskij | Jonathan Wolinski | 43 | 70 | 3 | 116 |
 | 23 | 188 | justinbabe019 | Angie Leong | 57 | 61 | 3 | 121 |
-| 24 | 96 | KaelWu | Kael Wu | 20 | 38 | 0 | 58 |
+| 24 | 104 | KaelWu | Kael Wu | 20 | 42 | 0 | 62 |
 | 25 | 74 | zyoonkim | Zach Yoon-Kim | 35 | 18 | 1 | 54 |
 | 26 | 18 | rayankdm | Rayan Kamdem | 12 | 3 | 0 | 15 |
 | 27 | 17 | alexdnl | Alex Lee | 1 | 8 | 0 | 9 |
