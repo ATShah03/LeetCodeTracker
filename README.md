@@ -30,7 +30,7 @@
 | 21 | 205 | nishtothekish | Nikhil Vaidyanathan | 38 | 40 | 29 | 107 |
 | 22 | 192 | wolinskij | Jonathan Wolinski | 43 | 70 | 3 | 116 |
 | 23 | 188 | justinbabe019 | Angie Leong | 57 | 61 | 3 | 121 |
-| 24 | 106 | KaelWu | Kael Wu | 20 | 43 | 0 | 63 |
+| 24 | 108 | KaelWu | Kael Wu | 20 | 44 | 0 | 64 |
 | 25 | 74 | zyoonkim | Zach Yoon-Kim | 35 | 18 | 1 | 54 |
 | 26 | 24 | rayankdm | Rayan Kamdem | 14 | 5 | 0 | 19 |
 | 27 | 17 | alexdnl | Alex Lee | 1 | 8 | 0 | 9 |
