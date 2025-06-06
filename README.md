@@ -24,8 +24,8 @@
 | 15 | 342 | ericzhao16 | Eric Zhao | 58 | 127 | 10 | 195 |
 | 16 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
 | 17 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
-| 18 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
-| 19 | 310 | enumerative | Peter Wu | 51 | 110 | 13 | 174 |
+| 18 | 311 | enumerative | Peter Wu | 52 | 110 | 13 | 175 |
+| 19 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 20 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 21 | 205 | nishtothekish | Nikhil Vaidyanathan | 38 | 40 | 29 | 107 |
 | 22 | 192 | wolinskij | Jonathan Wolinski | 43 | 70 | 3 | 116 |
