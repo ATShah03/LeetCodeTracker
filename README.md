@@ -12,14 +12,14 @@
 | 🥉 3 | 795 | mj3061 | Michael Jiang | 111 | 276 | 44 | 431 |
 | 4 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 5 | 709 | arnsh | Arnav Shah | 82 | 231 | 55 | 368 |
-| 6 | 611 | shreypatel703 | Shrey Patel | 72 | 226 | 29 | 327 |
+| 6 | 612 | shreypatel703 | Shrey Patel | 73 | 226 | 29 | 328 |
 | 7 | 513 | shadowion | Ihsaan Yasin | 104 | 173 | 21 | 298 |
 | 8 | 477 | Flytre | Aaron Rahman | 48 | 153 | 41 | 242 |
 | 9 | 472 | adavidwu | David Wu | 74 | 157 | 28 | 259 |
 | 10 | 470 | devk03 | Dev Kunjadia | 86 | 177 | 10 | 273 |
 | 11 | 452 | wlvrd | Nick Walvoord | 67 | 170 | 15 | 252 |
 | 12 | 406 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 17 | 230 |
-| 13 | 359 | QuantumMechanics123 | Aadit Jain | 53 | 129 | 16 | 198 |
+| 13 | 366 | QuantumMechanics123 | Aadit Jain | 55 | 130 | 17 | 202 |
 | 14 | 348 | RGBmarya | Mihir Arya | 56 | 113 | 22 | 191 |
 | 15 | 342 | ericzhao16 | Eric Zhao | 58 | 127 | 10 | 195 |
 | 16 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
@@ -29,8 +29,8 @@
 | 20 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 21 | 205 | nishtothekish | Nikhil Vaidyanathan | 38 | 40 | 29 | 107 |
 | 22 | 192 | wolinskij | Jonathan Wolinski | 43 | 70 | 3 | 116 |
-| 23 | 188 | justinbabe019 | Angie Leong | 57 | 61 | 3 | 121 |
-| 24 | 141 | KaelWu | Kael Wu | 20 | 56 | 3 | 79 |
+| 23 | 189 | justinbabe019 | Angie Leong | 58 | 61 | 3 | 122 |
+| 24 | 144 | KaelWu | Kael Wu | 20 | 56 | 4 | 80 |
 | 25 | 74 | zyoonkim | Zach Yoon-Kim | 35 | 18 | 1 | 54 |
 | 26 | 42 | rayankdm | Rayan Kamdem | 17 | 11 | 1 | 29 |
 | 27 | 17 | alexdnl | Alex Lee | 1 | 8 | 0 | 9 |
