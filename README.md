@@ -29,9 +29,9 @@
 | 20 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 21 | 205 | nishtothekish | Nikhil Vaidyanathan | 38 | 40 | 29 | 107 |
 | 22 | 192 | wolinskij | Jonathan Wolinski | 43 | 70 | 3 | 116 |
-| 23 | 189 | justinbabe019 | Angie Leong | 58 | 61 | 3 | 122 |
+| 23 | 191 | justinbabe019 | Angie Leong | 58 | 62 | 3 | 123 |
 | 24 | 153 | KaelWu | Kael Wu | 20 | 59 | 5 | 84 |
 | 25 | 80 | zyoonkim | Zach Yoon-Kim | 35 | 21 | 1 | 57 |
-| 26 | 52 | rayankdm | Rayan Kamdem | 19 | 15 | 1 | 35 |
+| 26 | 54 | rayankdm | Rayan Kamdem | 21 | 15 | 1 | 37 |
 | 27 | 17 | alexdnl | Alex Lee | 1 | 8 | 0 | 9 |
 ---
