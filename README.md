@@ -32,6 +32,6 @@
 | 23 | 192 | wolinskij | Jonathan Wolinski | 43 | 70 | 3 | 116 |
 | 24 | 158 | KaelWu | Kael Wu | 20 | 60 | 6 | 86 |
 | 25 | 91 | zyoonkim | Zach Yoon-Kim | 35 | 25 | 2 | 62 |
-| 26 | 56 | rayankdm | Rayan Kamdem | 23 | 15 | 1 | 39 |
+| 26 | 58 | rayankdm | Rayan Kamdem | 23 | 16 | 1 | 40 |
 | 27 | 17 | alexdnl | Alex Lee | 1 | 8 | 0 | 9 |
 ---
