@@ -19,7 +19,7 @@
 | 10 | 470 | devk03 | Dev Kunjadia | 86 | 177 | 10 | 273 |
 | 11 | 452 | wlvrd | Nick Walvoord | 67 | 170 | 15 | 252 |
 | 12 | 406 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 17 | 230 |
-| 13 | 368 | QuantumMechanics123 | Aadit Jain | 55 | 131 | 17 | 203 |
+| 13 | 370 | QuantumMechanics123 | Aadit Jain | 55 | 132 | 17 | 204 |
 | 14 | 348 | RGBmarya | Mihir Arya | 56 | 113 | 22 | 191 |
 | 15 | 342 | ericzhao16 | Eric Zhao | 58 | 127 | 10 | 195 |
 | 16 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
@@ -30,7 +30,7 @@
 | 21 | 214 | nishtothekish | Nikhil Vaidyanathan | 38 | 40 | 32 | 110 |
 | 22 | 192 | justinbabe019 | Angie Leong | 59 | 62 | 3 | 124 |
 | 23 | 192 | wolinskij | Jonathan Wolinski | 43 | 70 | 3 | 116 |
-| 24 | 184 | KaelWu | Kael Wu | 20 | 67 | 10 | 97 |
+| 24 | 189 | KaelWu | Kael Wu | 20 | 68 | 11 | 99 |
 | 25 | 134 | zyoonkim | Zach Yoon-Kim | 45 | 37 | 5 | 87 |
 | 26 | 67 | rayankdm | Rayan Kamdem | 24 | 20 | 1 | 45 |
 | 27 | 17 | alexdnl | Alex Lee | 1 | 8 | 0 | 9 |
