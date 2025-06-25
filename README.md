@@ -28,8 +28,8 @@
 | 19 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 20 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 21 | 214 | nishtothekish | Nikhil Vaidyanathan | 38 | 40 | 32 | 110 |
-| 22 | 192 | justinbabe019 | Angie Leong | 59 | 62 | 3 | 124 |
-| 23 | 192 | wolinskij | Jonathan Wolinski | 43 | 70 | 3 | 116 |
+| 22 | 194 | wolinskij | Jonathan Wolinski | 43 | 71 | 3 | 117 |
+| 23 | 192 | justinbabe019 | Angie Leong | 59 | 62 | 3 | 124 |
 | 24 | 189 | KaelWu | Kael Wu | 20 | 68 | 11 | 99 |
 | 25 | 134 | zyoonkim | Zach Yoon-Kim | 45 | 37 | 5 | 87 |
 | 26 | 67 | rayankdm | Rayan Kamdem | 24 | 20 | 1 | 45 |
