@@ -9,7 +9,7 @@
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 843 | brinco | Brian Lee | 98 | 305 | 45 | 448 |
 | 🥈 2 | 825 | ashwin_a_kumar | Ashwin Kumar | 180 | 288 | 23 | 491 |
-| 🥉 3 | 795 | mj3061 | Michael Jiang | 111 | 276 | 44 | 431 |
+| 🥉 3 | 797 | mj3061 | Michael Jiang | 111 | 277 | 44 | 432 |
 | 4 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 5 | 709 | arnsh | Arnav Shah | 82 | 231 | 55 | 368 |
 | 6 | 626 | shreypatel703 | Shrey Patel | 75 | 232 | 29 | 336 |
@@ -28,8 +28,8 @@
 | 19 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 20 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 21 | 214 | nishtothekish | Nikhil Vaidyanathan | 38 | 40 | 32 | 110 |
-| 22 | 197 | KaelWu | Kael Wu | 20 | 69 | 13 | 102 |
-| 23 | 196 | wolinskij | Jonathan Wolinski | 43 | 72 | 3 | 118 |
+| 22 | 198 | wolinskij | Jonathan Wolinski | 43 | 73 | 3 | 119 |
+| 23 | 197 | KaelWu | Kael Wu | 20 | 69 | 13 | 102 |
 | 24 | 192 | justinbabe019 | Angie Leong | 59 | 62 | 3 | 124 |
 | 25 | 137 | zyoonkim | Zach Yoon-Kim | 45 | 37 | 6 | 88 |
 | 26 | 68 | rayankdm | Rayan Kamdem | 25 | 20 | 1 | 46 |
