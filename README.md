@@ -28,8 +28,8 @@
 | 19 | 311 | enumerative | Peter Wu | 52 | 110 | 13 | 175 |
 | 20 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 21 | 309 | lfuchia | Lance Fuchia | 30 | 129 | 7 | 166 |
-| 22 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
-| 23 | 241 | nishtothekish | Nikhil Vaidyanathan | 38 | 40 | 41 | 119 |
+| 22 | 244 | nishtothekish | Nikhil Vaidyanathan | 38 | 40 | 42 | 120 |
+| 23 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 24 | 201 | KaelWu | Kael Wu | 20 | 71 | 13 | 104 |
 | 25 | 198 | wolinskij | Jonathan Wolinski | 43 | 73 | 3 | 119 |
 | 26 | 193 | justinbabe019 | Angie Leong | 60 | 62 | 3 | 125 |
