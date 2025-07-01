@@ -8,7 +8,7 @@
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 843 | brinco | Brian Lee | 98 | 305 | 45 | 448 |
-| 🥈 2 | 826 | ashwin_a_kumar | Ashwin Kumar | 181 | 288 | 23 | 492 |
+| 🥈 2 | 827 | ashwin_a_kumar | Ashwin Kumar | 182 | 288 | 23 | 493 |
 | 🥉 3 | 801 | AB1015 | Aditya Bodanapu | 85 | 262 | 64 | 411 |
 | 4 | 800 | mj3061 | Michael Jiang | 112 | 278 | 44 | 434 |
 | 5 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
