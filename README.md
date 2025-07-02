@@ -9,8 +9,8 @@
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 843 | brinco | Brian Lee | 98 | 305 | 45 | 448 |
 | 🥈 2 | 827 | ashwin_a_kumar | Ashwin Kumar | 182 | 288 | 23 | 493 |
-| 🥉 3 | 801 | AB1015 | Aditya Bodanapu | 85 | 262 | 64 | 411 |
-| 4 | 800 | mj3061 | Michael Jiang | 112 | 278 | 44 | 434 |
+| 🥉 3 | 801 | mj3061 | Michael Jiang | 113 | 278 | 44 | 435 |
+| 4 | 801 | AB1015 | Aditya Bodanapu | 85 | 262 | 64 | 411 |
 | 5 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 6 | 709 | arnsh | Arnav Shah | 82 | 231 | 55 | 368 |
 | 7 | 629 | shreypatel703 | Shrey Patel | 78 | 232 | 29 | 339 |
@@ -35,6 +35,6 @@
 | 26 | 194 | justinbabe019 | Angie Leong | 61 | 62 | 3 | 126 |
 | 27 | 141 | zyoonkim | Zach Yoon-Kim | 45 | 39 | 6 | 90 |
 | 28 | 93 | zhangliangmalatang | Leo Liu | 13 | 37 | 2 | 52 |
-| 29 | 77 | rayankdm | Rayan Kamdem | 26 | 24 | 1 | 51 |
+| 29 | 79 | rayankdm | Rayan Kamdem | 26 | 25 | 1 | 52 |
 | 30 | 24 | alexdnl | Alex Lee | 4 | 10 | 0 | 14 |
 ---
