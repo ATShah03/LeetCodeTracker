@@ -9,7 +9,7 @@
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 843 | brinco | Brian Lee | 98 | 305 | 45 | 448 |
 | 🥈 2 | 827 | ashwin_a_kumar | Ashwin Kumar | 182 | 288 | 23 | 493 |
-| 🥉 3 | 801 | mj3061 | Michael Jiang | 113 | 278 | 44 | 435 |
+| 🥉 3 | 804 | mj3061 | Michael Jiang | 113 | 278 | 45 | 436 |
 | 4 | 801 | AB1015 | Aditya Bodanapu | 85 | 262 | 64 | 411 |
 | 5 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 6 | 709 | arnsh | Arnav Shah | 82 | 231 | 55 | 368 |
@@ -18,7 +18,7 @@
 | 9 | 477 | Flytre | Aaron Rahman | 48 | 153 | 41 | 242 |
 | 10 | 473 | devk03 | Dev Kunjadia | 86 | 177 | 11 | 274 |
 | 11 | 472 | adavidwu | David Wu | 74 | 157 | 28 | 259 |
-| 12 | 452 | wlvrd | Nick Walvoord | 67 | 170 | 15 | 252 |
+| 12 | 453 | wlvrd | Nick Walvoord | 68 | 170 | 15 | 253 |
 | 13 | 406 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 17 | 230 |
 | 14 | 374 | QuantumMechanics123 | Aadit Jain | 55 | 134 | 17 | 206 |
 | 15 | 348 | RGBmarya | Mihir Arya | 56 | 113 | 22 | 191 |
@@ -32,9 +32,9 @@
 | 23 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 24 | 203 | KaelWu | Kael Wu | 20 | 72 | 13 | 105 |
 | 25 | 198 | wolinskij | Jonathan Wolinski | 43 | 73 | 3 | 119 |
-| 26 | 194 | justinbabe019 | Angie Leong | 61 | 62 | 3 | 126 |
+| 26 | 195 | justinbabe019 | Angie Leong | 62 | 62 | 3 | 127 |
 | 27 | 143 | zyoonkim | Zach Yoon-Kim | 45 | 40 | 6 | 91 |
 | 28 | 93 | zhangliangmalatang | Leo Liu | 13 | 37 | 2 | 52 |
 | 29 | 79 | rayankdm | Rayan Kamdem | 26 | 25 | 1 | 52 |
-| 30 | 24 | alexdnl | Alex Lee | 4 | 10 | 0 | 14 |
+| 30 | 28 | alexdnl | Alex Lee | 4 | 12 | 0 | 16 |
 ---
