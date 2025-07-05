@@ -28,7 +28,7 @@
 | 19 | 311 | enumerative | Peter Wu | 52 | 110 | 13 | 175 |
 | 20 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 21 | 309 | lfuchia | Lance Fuchia | 30 | 129 | 7 | 166 |
-| 22 | 257 | nishtothekish | Nikhil Vaidyanathan | 39 | 40 | 46 | 125 |
+| 22 | 260 | nishtothekish | Nikhil Vaidyanathan | 39 | 40 | 47 | 126 |
 | 23 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 24 | 209 | KaelWu | Kael Wu | 20 | 75 | 13 | 108 |
 | 25 | 198 | wolinskij | Jonathan Wolinski | 43 | 73 | 3 | 119 |
