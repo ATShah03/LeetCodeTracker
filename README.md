@@ -33,7 +33,7 @@
 | 24 | 209 | KaelWu | Kael Wu | 20 | 75 | 13 | 108 |
 | 25 | 198 | wolinskij | Jonathan Wolinski | 43 | 73 | 3 | 119 |
 | 26 | 195 | justinbabe019 | Angie Leong | 62 | 62 | 3 | 127 |
-| 27 | 147 | zyoonkim | Zach Yoon-Kim | 45 | 42 | 6 | 93 |
+| 27 | 148 | zyoonkim | Zach Yoon-Kim | 46 | 42 | 6 | 94 |
 | 28 | 93 | zhangliangmalatang | Leo Liu | 13 | 37 | 2 | 52 |
 | 29 | 88 | rayankdm | Rayan Kamdem | 28 | 27 | 2 | 57 |
 | 30 | 28 | alexdnl | Alex Lee | 4 | 12 | 0 | 16 |
