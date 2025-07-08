@@ -20,7 +20,7 @@
 | 11 | 473 | devk03 | Dev Kunjadia | 86 | 177 | 11 | 274 |
 | 12 | 453 | wlvrd | Nick Walvoord | 68 | 170 | 15 | 253 |
 | 13 | 406 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 17 | 230 |
-| 14 | 381 | QuantumMechanics123 | Aadit Jain | 56 | 137 | 17 | 210 |
+| 14 | 385 | QuantumMechanics123 | Aadit Jain | 60 | 137 | 17 | 214 |
 | 15 | 352 | RGBmarya | Mihir Arya | 56 | 115 | 22 | 193 |
 | 16 | 342 | ericzhao16 | Eric Zhao | 58 | 127 | 10 | 195 |
 | 17 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
