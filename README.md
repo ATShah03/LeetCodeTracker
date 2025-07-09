@@ -9,13 +9,13 @@
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 843 | brinco | Brian Lee | 98 | 305 | 45 | 448 |
 | 🥈 2 | 827 | ashwin_a_kumar | Ashwin Kumar | 182 | 288 | 23 | 493 |
-| 🥉 3 | 804 | mj3061 | Michael Jiang | 113 | 278 | 45 | 436 |
+| 🥉 3 | 808 | mj3061 | Michael Jiang | 113 | 280 | 45 | 438 |
 | 4 | 801 | AB1015 | Aditya Bodanapu | 85 | 262 | 64 | 411 |
 | 5 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
-| 6 | 714 | arnsh | Arnav Shah | 82 | 232 | 56 | 370 |
+| 6 | 716 | arnsh | Arnav Shah | 82 | 233 | 56 | 371 |
 | 7 | 629 | shreypatel703 | Shrey Patel | 78 | 232 | 29 | 339 |
 | 8 | 513 | shadowion | Ihsaan Yasin | 104 | 173 | 21 | 298 |
-| 9 | 483 | adavidwu | David Wu | 75 | 159 | 30 | 264 |
+| 9 | 485 | adavidwu | David Wu | 75 | 160 | 30 | 265 |
 | 10 | 477 | Flytre | Aaron Rahman | 48 | 153 | 41 | 242 |
 | 11 | 473 | devk03 | Dev Kunjadia | 86 | 177 | 11 | 274 |
 | 12 | 453 | wlvrd | Nick Walvoord | 68 | 170 | 15 | 253 |
@@ -31,10 +31,10 @@
 | 22 | 284 | nishtothekish | Nikhil Vaidyanathan | 39 | 40 | 55 | 134 |
 | 23 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 24 | 209 | KaelWu | Kael Wu | 20 | 75 | 13 | 108 |
-| 25 | 199 | justinbabe019 | Angie Leong | 63 | 62 | 4 | 129 |
+| 25 | 201 | justinbabe019 | Angie Leong | 63 | 63 | 4 | 130 |
 | 26 | 198 | wolinskij | Jonathan Wolinski | 43 | 73 | 3 | 119 |
 | 27 | 152 | zyoonkim | Zach Yoon-Kim | 46 | 44 | 6 | 96 |
 | 28 | 93 | zhangliangmalatang | Leo Liu | 13 | 37 | 2 | 52 |
-| 29 | 91 | rayankdm | Rayan Kamdem | 31 | 27 | 2 | 60 |
-| 30 | 33 | alexdnl | Alex Lee | 5 | 14 | 0 | 19 |
+| 29 | 92 | rayankdm | Rayan Kamdem | 32 | 27 | 2 | 61 |
+| 30 | 35 | alexdnl | Alex Lee | 5 | 15 | 0 | 20 |
 ---
