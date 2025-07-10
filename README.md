@@ -12,7 +12,7 @@
 | 🥉 3 | 808 | mj3061 | Michael Jiang | 113 | 280 | 45 | 438 |
 | 4 | 801 | AB1015 | Aditya Bodanapu | 85 | 262 | 64 | 411 |
 | 5 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
-| 6 | 716 | arnsh | Arnav Shah | 82 | 233 | 56 | 371 |
+| 6 | 718 | arnsh | Arnav Shah | 82 | 234 | 56 | 372 |
 | 7 | 629 | shreypatel703 | Shrey Patel | 78 | 232 | 29 | 339 |
 | 8 | 513 | shadowion | Ihsaan Yasin | 104 | 173 | 21 | 298 |
 | 9 | 485 | adavidwu | David Wu | 75 | 160 | 30 | 265 |
@@ -36,5 +36,5 @@
 | 27 | 152 | zyoonkim | Zach Yoon-Kim | 46 | 44 | 6 | 96 |
 | 28 | 94 | rayankdm | Rayan Kamdem | 32 | 28 | 2 | 62 |
 | 29 | 93 | zhangliangmalatang | Leo Liu | 13 | 37 | 2 | 52 |
-| 30 | 35 | alexdnl | Alex Lee | 5 | 15 | 0 | 20 |
+| 30 | 37 | alexdnl | Alex Lee | 7 | 15 | 0 | 22 |
 ---
