@@ -30,11 +30,11 @@
 | 21 | 309 | lfuchia | Lance Fuchia | 30 | 129 | 7 | 166 |
 | 22 | 284 | nishtothekish | Nikhil Vaidyanathan | 39 | 40 | 55 | 134 |
 | 23 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
-| 24 | 211 | KaelWu | Kael Wu | 20 | 76 | 13 | 109 |
+| 24 | 213 | KaelWu | Kael Wu | 20 | 77 | 13 | 110 |
 | 25 | 201 | justinbabe019 | Angie Leong | 63 | 63 | 4 | 130 |
 | 26 | 198 | wolinskij | Jonathan Wolinski | 43 | 73 | 3 | 119 |
 | 27 | 152 | zyoonkim | Zach Yoon-Kim | 46 | 44 | 6 | 96 |
-| 28 | 94 | rayankdm | Rayan Kamdem | 32 | 28 | 2 | 62 |
+| 28 | 96 | rayankdm | Rayan Kamdem | 32 | 29 | 2 | 63 |
 | 29 | 93 | zhangliangmalatang | Leo Liu | 13 | 37 | 2 | 52 |
 | 30 | 37 | alexdnl | Alex Lee | 7 | 15 | 0 | 22 |
 ---
