@@ -34,7 +34,7 @@
 | 25 | 201 | justinbabe019 | Angie Leong | 63 | 63 | 4 | 130 |
 | 26 | 198 | wolinskij | Jonathan Wolinski | 43 | 73 | 3 | 119 |
 | 27 | 152 | zyoonkim | Zach Yoon-Kim | 46 | 44 | 6 | 96 |
-| 28 | 100 | rayankdm | Rayan Kamdem | 32 | 31 | 2 | 65 |
+| 28 | 102 | rayankdm | Rayan Kamdem | 32 | 32 | 2 | 66 |
 | 29 | 93 | zhangliangmalatang | Leo Liu | 13 | 37 | 2 | 52 |
 | 30 | 37 | alexdnl | Alex Lee | 7 | 15 | 0 | 22 |
 ---
