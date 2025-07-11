@@ -9,18 +9,18 @@
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 843 | brinco | Brian Lee | 98 | 305 | 45 | 448 |
 | 🥈 2 | 827 | ashwin_a_kumar | Ashwin Kumar | 182 | 288 | 23 | 493 |
-| 🥉 3 | 808 | mj3061 | Michael Jiang | 113 | 280 | 45 | 438 |
+| 🥉 3 | 811 | mj3061 | Michael Jiang | 113 | 280 | 46 | 439 |
 | 4 | 801 | AB1015 | Aditya Bodanapu | 85 | 262 | 64 | 411 |
 | 5 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 6 | 718 | arnsh | Arnav Shah | 82 | 234 | 56 | 372 |
 | 7 | 629 | shreypatel703 | Shrey Patel | 78 | 232 | 29 | 339 |
 | 8 | 513 | shadowion | Ihsaan Yasin | 104 | 173 | 21 | 298 |
-| 9 | 485 | adavidwu | David Wu | 75 | 160 | 30 | 265 |
+| 9 | 488 | adavidwu | David Wu | 75 | 160 | 31 | 266 |
 | 10 | 477 | Flytre | Aaron Rahman | 48 | 153 | 41 | 242 |
 | 11 | 473 | devk03 | Dev Kunjadia | 86 | 177 | 11 | 274 |
 | 12 | 453 | wlvrd | Nick Walvoord | 68 | 170 | 15 | 253 |
 | 13 | 406 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 17 | 230 |
-| 14 | 385 | QuantumMechanics123 | Aadit Jain | 60 | 137 | 17 | 214 |
+| 14 | 387 | QuantumMechanics123 | Aadit Jain | 60 | 138 | 17 | 215 |
 | 15 | 352 | RGBmarya | Mihir Arya | 56 | 115 | 22 | 193 |
 | 16 | 342 | ericzhao16 | Eric Zhao | 58 | 127 | 10 | 195 |
 | 17 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
@@ -28,13 +28,13 @@
 | 19 | 311 | enumerative | Peter Wu | 52 | 110 | 13 | 175 |
 | 20 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 21 | 309 | lfuchia | Lance Fuchia | 30 | 129 | 7 | 166 |
-| 22 | 284 | nishtothekish | Nikhil Vaidyanathan | 39 | 40 | 55 | 134 |
+| 22 | 287 | nishtothekish | Nikhil Vaidyanathan | 39 | 40 | 56 | 135 |
 | 23 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 24 | 213 | KaelWu | Kael Wu | 20 | 77 | 13 | 110 |
 | 25 | 201 | justinbabe019 | Angie Leong | 63 | 63 | 4 | 130 |
 | 26 | 198 | wolinskij | Jonathan Wolinski | 43 | 73 | 3 | 119 |
 | 27 | 152 | zyoonkim | Zach Yoon-Kim | 46 | 44 | 6 | 96 |
-| 28 | 96 | rayankdm | Rayan Kamdem | 32 | 29 | 2 | 63 |
+| 28 | 98 | rayankdm | Rayan Kamdem | 32 | 30 | 2 | 64 |
 | 29 | 93 | zhangliangmalatang | Leo Liu | 13 | 37 | 2 | 52 |
 | 30 | 37 | alexdnl | Alex Lee | 7 | 15 | 0 | 22 |
 ---
