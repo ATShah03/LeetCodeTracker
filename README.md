@@ -28,13 +28,13 @@
 | 19 | 311 | enumerative | Peter Wu | 52 | 110 | 13 | 175 |
 | 20 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 21 | 309 | lfuchia | Lance Fuchia | 30 | 129 | 7 | 166 |
-| 22 | 287 | nishtothekish | Nikhil Vaidyanathan | 39 | 40 | 56 | 135 |
+| 22 | 290 | nishtothekish | Nikhil Vaidyanathan | 39 | 40 | 57 | 136 |
 | 23 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 24 | 213 | KaelWu | Kael Wu | 20 | 77 | 13 | 110 |
 | 25 | 201 | justinbabe019 | Angie Leong | 63 | 63 | 4 | 130 |
 | 26 | 198 | wolinskij | Jonathan Wolinski | 43 | 73 | 3 | 119 |
 | 27 | 152 | zyoonkim | Zach Yoon-Kim | 46 | 44 | 6 | 96 |
-| 28 | 98 | rayankdm | Rayan Kamdem | 32 | 30 | 2 | 64 |
+| 28 | 100 | rayankdm | Rayan Kamdem | 32 | 31 | 2 | 65 |
 | 29 | 93 | zhangliangmalatang | Leo Liu | 13 | 37 | 2 | 52 |
 | 30 | 37 | alexdnl | Alex Lee | 7 | 15 | 0 | 22 |
 ---
