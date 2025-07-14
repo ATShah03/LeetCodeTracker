@@ -9,7 +9,7 @@
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 843 | brinco | Brian Lee | 98 | 305 | 45 | 448 |
 | 🥈 2 | 829 | ashwin_a_kumar | Ashwin Kumar | 182 | 289 | 23 | 494 |
-| 🥉 3 | 813 | mj3061 | Michael Jiang | 113 | 281 | 46 | 440 |
+| 🥉 3 | 814 | mj3061 | Michael Jiang | 114 | 281 | 46 | 441 |
 | 4 | 801 | AB1015 | Aditya Bodanapu | 85 | 262 | 64 | 411 |
 | 5 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 6 | 718 | arnsh | Arnav Shah | 82 | 234 | 56 | 372 |
@@ -25,7 +25,7 @@
 | 16 | 342 | ericzhao16 | Eric Zhao | 58 | 127 | 10 | 195 |
 | 17 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
 | 18 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
-| 19 | 311 | enumerative | Peter Wu | 52 | 110 | 13 | 175 |
+| 19 | 313 | enumerative | Peter Wu | 52 | 111 | 13 | 176 |
 | 20 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 21 | 310 | nishtothekish | Nikhil Vaidyanathan | 39 | 41 | 63 | 143 |
 | 22 | 309 | lfuchia | Lance Fuchia | 30 | 129 | 7 | 166 |
