@@ -18,16 +18,16 @@
 | 9 | 488 | adavidwu | David Wu | 75 | 160 | 31 | 266 |
 | 10 | 482 | Flytre | Aaron Rahman | 51 | 154 | 41 | 246 |
 | 11 | 473 | devk03 | Dev Kunjadia | 86 | 177 | 11 | 274 |
-| 12 | 453 | wlvrd | Nick Walvoord | 68 | 170 | 15 | 253 |
+| 12 | 456 | wlvrd | Nick Walvoord | 68 | 170 | 16 | 254 |
 | 13 | 406 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 17 | 230 |
 | 14 | 387 | QuantumMechanics123 | Aadit Jain | 60 | 138 | 17 | 215 |
-| 15 | 352 | RGBmarya | Mihir Arya | 56 | 115 | 22 | 193 |
+| 15 | 356 | RGBmarya | Mihir Arya | 56 | 117 | 22 | 195 |
 | 16 | 342 | ericzhao16 | Eric Zhao | 58 | 127 | 10 | 195 |
 | 17 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
 | 18 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
 | 19 | 313 | enumerative | Peter Wu | 52 | 111 | 13 | 176 |
-| 20 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
-| 21 | 310 | nishtothekish | Nikhil Vaidyanathan | 39 | 41 | 63 | 143 |
+| 20 | 313 | nishtothekish | Nikhil Vaidyanathan | 39 | 41 | 64 | 144 |
+| 21 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 22 | 309 | lfuchia | Lance Fuchia | 30 | 129 | 7 | 166 |
 | 23 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 24 | 213 | KaelWu | Kael Wu | 20 | 77 | 13 | 110 |
@@ -35,7 +35,7 @@
 | 26 | 198 | wolinskij | Jonathan Wolinski | 43 | 73 | 3 | 119 |
 | 27 | 158 | zyoonkim | Zach Yoon-Kim | 46 | 47 | 6 | 99 |
 | 28 | 113 | DmytroCrawford | Dmytro Crawford | 40 | 35 | 1 | 76 |
-| 29 | 102 | rayankdm | Rayan Kamdem | 32 | 32 | 2 | 66 |
+| 29 | 103 | rayankdm | Rayan Kamdem | 33 | 32 | 2 | 67 |
 | 30 | 93 | zhangliangmalatang | Leo Liu | 13 | 37 | 2 | 52 |
-| 31 | 39 | alexdnl | Alex Lee | 7 | 16 | 0 | 23 |
+| 31 | 41 | alexdnl | Alex Lee | 7 | 17 | 0 | 24 |
 ---
