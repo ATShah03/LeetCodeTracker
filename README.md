@@ -9,13 +9,13 @@
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 843 | brinco | Brian Lee | 98 | 305 | 45 | 448 |
 | 🥈 2 | 829 | ashwin_a_kumar | Ashwin Kumar | 182 | 289 | 23 | 494 |
-| 🥉 3 | 814 | mj3061 | Michael Jiang | 114 | 281 | 46 | 441 |
+| 🥉 3 | 816 | mj3061 | Michael Jiang | 114 | 282 | 46 | 442 |
 | 4 | 801 | AB1015 | Aditya Bodanapu | 85 | 262 | 64 | 411 |
 | 5 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 6 | 718 | arnsh | Arnav Shah | 82 | 234 | 56 | 372 |
 | 7 | 629 | shreypatel703 | Shrey Patel | 78 | 232 | 29 | 339 |
 | 8 | 513 | shadowion | Ihsaan Yasin | 104 | 173 | 21 | 298 |
-| 9 | 488 | adavidwu | David Wu | 75 | 160 | 31 | 266 |
+| 9 | 495 | adavidwu | David Wu | 76 | 163 | 31 | 270 |
 | 10 | 482 | Flytre | Aaron Rahman | 51 | 154 | 41 | 246 |
 | 11 | 473 | devk03 | Dev Kunjadia | 86 | 177 | 11 | 274 |
 | 12 | 456 | wlvrd | Nick Walvoord | 68 | 170 | 16 | 254 |
@@ -33,9 +33,9 @@
 | 24 | 213 | KaelWu | Kael Wu | 20 | 77 | 13 | 110 |
 | 25 | 201 | justinbabe019 | Angie Leong | 63 | 63 | 4 | 130 |
 | 26 | 198 | wolinskij | Jonathan Wolinski | 43 | 73 | 3 | 119 |
-| 27 | 158 | zyoonkim | Zach Yoon-Kim | 46 | 47 | 6 | 99 |
+| 27 | 160 | zyoonkim | Zach Yoon-Kim | 46 | 48 | 6 | 100 |
 | 28 | 113 | DmytroCrawford | Dmytro Crawford | 40 | 35 | 1 | 76 |
-| 29 | 103 | rayankdm | Rayan Kamdem | 33 | 32 | 2 | 67 |
+| 29 | 109 | rayankdm | Rayan Kamdem | 33 | 35 | 2 | 70 |
 | 30 | 93 | zhangliangmalatang | Leo Liu | 13 | 37 | 2 | 52 |
-| 31 | 41 | alexdnl | Alex Lee | 7 | 17 | 0 | 24 |
+| 31 | 47 | alexdnl | Alex Lee | 9 | 19 | 0 | 28 |
 ---
