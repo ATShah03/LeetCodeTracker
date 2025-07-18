@@ -13,7 +13,7 @@
 | 4 | 801 | AB1015 | Aditya Bodanapu | 85 | 262 | 64 | 411 |
 | 5 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 6 | 718 | arnsh | Arnav Shah | 82 | 234 | 56 | 372 |
-| 7 | 629 | shreypatel703 | Shrey Patel | 78 | 232 | 29 | 339 |
+| 7 | 633 | shreypatel703 | Shrey Patel | 80 | 233 | 29 | 342 |
 | 8 | 513 | shadowion | Ihsaan Yasin | 104 | 173 | 21 | 298 |
 | 9 | 495 | adavidwu | David Wu | 76 | 163 | 31 | 270 |
 | 10 | 483 | Flytre | Aaron Rahman | 52 | 154 | 41 | 247 |
