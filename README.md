@@ -8,14 +8,14 @@
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 843 | brinco | Brian Lee | 98 | 305 | 45 | 448 |
-| 🥈 2 | 831 | ashwin_a_kumar | Ashwin Kumar | 182 | 290 | 23 | 495 |
-| 🥉 3 | 816 | mj3061 | Michael Jiang | 114 | 282 | 46 | 442 |
+| 🥈 2 | 833 | ashwin_a_kumar | Ashwin Kumar | 182 | 291 | 23 | 496 |
+| 🥉 3 | 818 | mj3061 | Michael Jiang | 114 | 283 | 46 | 443 |
 | 4 | 801 | AB1015 | Aditya Bodanapu | 85 | 262 | 64 | 411 |
 | 5 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 6 | 718 | arnsh | Arnav Shah | 82 | 234 | 56 | 372 |
 | 7 | 636 | shreypatel703 | Shrey Patel | 81 | 234 | 29 | 344 |
-| 8 | 513 | shadowion | Ihsaan Yasin | 104 | 173 | 21 | 298 |
-| 9 | 506 | adavidwu | David Wu | 79 | 164 | 33 | 276 |
+| 8 | 516 | adavidwu | David Wu | 79 | 166 | 35 | 280 |
+| 9 | 513 | shadowion | Ihsaan Yasin | 104 | 173 | 21 | 298 |
 | 10 | 483 | Flytre | Aaron Rahman | 52 | 154 | 41 | 247 |
 | 11 | 473 | devk03 | Dev Kunjadia | 86 | 177 | 11 | 274 |
 | 12 | 456 | wlvrd | Nick Walvoord | 68 | 170 | 16 | 254 |
