@@ -18,7 +18,7 @@
 | 9 | 513 | shadowion | Ihsaan Yasin | 104 | 173 | 21 | 298 |
 | 10 | 483 | Flytre | Aaron Rahman | 52 | 154 | 41 | 247 |
 | 11 | 473 | devk03 | Dev Kunjadia | 86 | 177 | 11 | 274 |
-| 12 | 456 | wlvrd | Nick Walvoord | 68 | 170 | 16 | 254 |
+| 12 | 458 | wlvrd | Nick Walvoord | 68 | 171 | 16 | 255 |
 | 13 | 406 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 17 | 230 |
 | 14 | 387 | QuantumMechanics123 | Aadit Jain | 60 | 138 | 17 | 215 |
 | 15 | 356 | RGBmarya | Mihir Arya | 56 | 117 | 22 | 195 |
@@ -34,7 +34,7 @@
 | 25 | 207 | justinbabe019 | Angie Leong | 63 | 66 | 4 | 133 |
 | 26 | 198 | wolinskij | Jonathan Wolinski | 43 | 73 | 3 | 119 |
 | 27 | 162 | zyoonkim | Zach Yoon-Kim | 46 | 49 | 6 | 101 |
-| 28 | 120 | rayankdm | Rayan Kamdem | 38 | 38 | 2 | 78 |
+| 28 | 123 | rayankdm | Rayan Kamdem | 39 | 39 | 2 | 80 |
 | 29 | 113 | DmytroCrawford | Dmytro Crawford | 40 | 35 | 1 | 76 |
 | 30 | 93 | zhangliangmalatang | Leo Liu | 13 | 37 | 2 | 52 |
 | 31 | 54 | alexdnl | Alex Lee | 10 | 22 | 0 | 32 |
