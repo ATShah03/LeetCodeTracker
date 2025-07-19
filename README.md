@@ -31,7 +31,7 @@
 | 22 | 309 | lfuchia | Lance Fuchia | 30 | 129 | 7 | 166 |
 | 23 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 24 | 213 | KaelWu | Kael Wu | 20 | 77 | 13 | 110 |
-| 25 | 205 | justinbabe019 | Angie Leong | 63 | 65 | 4 | 132 |
+| 25 | 207 | justinbabe019 | Angie Leong | 63 | 66 | 4 | 133 |
 | 26 | 198 | wolinskij | Jonathan Wolinski | 43 | 73 | 3 | 119 |
 | 27 | 162 | zyoonkim | Zach Yoon-Kim | 46 | 49 | 6 | 101 |
 | 28 | 120 | rayankdm | Rayan Kamdem | 38 | 38 | 2 | 78 |
