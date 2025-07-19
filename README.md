@@ -15,7 +15,7 @@
 | 6 | 718 | arnsh | Arnav Shah | 82 | 234 | 56 | 372 |
 | 7 | 636 | shreypatel703 | Shrey Patel | 81 | 234 | 29 | 344 |
 | 8 | 513 | shadowion | Ihsaan Yasin | 104 | 173 | 21 | 298 |
-| 9 | 497 | adavidwu | David Wu | 78 | 163 | 31 | 272 |
+| 9 | 506 | adavidwu | David Wu | 79 | 164 | 33 | 276 |
 | 10 | 483 | Flytre | Aaron Rahman | 52 | 154 | 41 | 247 |
 | 11 | 473 | devk03 | Dev Kunjadia | 86 | 177 | 11 | 274 |
 | 12 | 456 | wlvrd | Nick Walvoord | 68 | 170 | 16 | 254 |
@@ -34,7 +34,7 @@
 | 25 | 205 | justinbabe019 | Angie Leong | 63 | 65 | 4 | 132 |
 | 26 | 198 | wolinskij | Jonathan Wolinski | 43 | 73 | 3 | 119 |
 | 27 | 162 | zyoonkim | Zach Yoon-Kim | 46 | 49 | 6 | 101 |
-| 28 | 118 | rayankdm | Rayan Kamdem | 38 | 37 | 2 | 77 |
+| 28 | 120 | rayankdm | Rayan Kamdem | 38 | 38 | 2 | 78 |
 | 29 | 113 | DmytroCrawford | Dmytro Crawford | 40 | 35 | 1 | 76 |
 | 30 | 93 | zhangliangmalatang | Leo Liu | 13 | 37 | 2 | 52 |
 | 31 | 54 | alexdnl | Alex Lee | 10 | 22 | 0 | 32 |
