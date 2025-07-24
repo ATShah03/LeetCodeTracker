@@ -14,7 +14,7 @@
 | 5 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 6 | 719 | arnsh | Arnav Shah | 83 | 234 | 56 | 373 |
 | 7 | 638 | shreypatel703 | Shrey Patel | 81 | 235 | 29 | 345 |
-| 8 | 525 | adavidwu | David Wu | 80 | 167 | 37 | 284 |
+| 8 | 534 | adavidwu | David Wu | 82 | 169 | 38 | 289 |
 | 9 | 513 | shadowion | Ihsaan Yasin | 104 | 173 | 21 | 298 |
 | 10 | 483 | Flytre | Aaron Rahman | 52 | 154 | 41 | 247 |
 | 11 | 473 | devk03 | Dev Kunjadia | 86 | 177 | 11 | 274 |
@@ -25,17 +25,17 @@
 | 16 | 342 | ericzhao16 | Eric Zhao | 58 | 127 | 10 | 195 |
 | 17 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
 | 18 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
-| 19 | 316 | nishtothekish | Nikhil Vaidyanathan | 39 | 41 | 65 | 145 |
+| 19 | 319 | nishtothekish | Nikhil Vaidyanathan | 39 | 41 | 66 | 146 |
 | 20 | 313 | enumerative | Peter Wu | 52 | 111 | 13 | 176 |
 | 21 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 22 | 309 | lfuchia | Lance Fuchia | 30 | 129 | 7 | 166 |
 | 23 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 24 | 218 | KaelWu | Kael Wu | 20 | 78 | 14 | 112 |
-| 25 | 209 | justinbabe019 | Angie Leong | 63 | 67 | 4 | 134 |
+| 25 | 212 | justinbabe019 | Angie Leong | 64 | 68 | 4 | 136 |
 | 26 | 198 | wolinskij | Jonathan Wolinski | 43 | 73 | 3 | 119 |
 | 27 | 162 | zyoonkim | Zach Yoon-Kim | 46 | 49 | 6 | 101 |
-| 28 | 133 | rayankdm | Rayan Kamdem | 43 | 42 | 2 | 87 |
+| 28 | 137 | rayankdm | Rayan Kamdem | 43 | 44 | 2 | 89 |
 | 29 | 113 | DmytroCrawford | Dmytro Crawford | 40 | 35 | 1 | 76 |
 | 30 | 93 | zhangliangmalatang | Leo Liu | 13 | 37 | 2 | 52 |
-| 31 | 65 | alexdnl | Alex Lee | 11 | 24 | 2 | 37 |
+| 31 | 67 | alexdnl | Alex Lee | 11 | 25 | 2 | 38 |
 ---
