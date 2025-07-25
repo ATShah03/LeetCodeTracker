@@ -13,7 +13,7 @@
 | 4 | 805 | AB1015 | Aditya Bodanapu | 85 | 264 | 64 | 413 |
 | 5 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 6 | 719 | arnsh | Arnav Shah | 83 | 234 | 56 | 373 |
-| 7 | 638 | shreypatel703 | Shrey Patel | 81 | 235 | 29 | 345 |
+| 7 | 639 | shreypatel703 | Shrey Patel | 82 | 235 | 29 | 346 |
 | 8 | 534 | adavidwu | David Wu | 82 | 169 | 38 | 289 |
 | 9 | 513 | shadowion | Ihsaan Yasin | 104 | 173 | 21 | 298 |
 | 10 | 483 | Flytre | Aaron Rahman | 52 | 154 | 41 | 247 |
@@ -23,7 +23,7 @@
 | 14 | 396 | QuantumMechanics123 | Aadit Jain | 61 | 142 | 17 | 220 |
 | 15 | 356 | RGBmarya | Mihir Arya | 56 | 117 | 22 | 195 |
 | 16 | 342 | ericzhao16 | Eric Zhao | 58 | 127 | 10 | 195 |
-| 17 | 335 | ohmp7 | Ohm Patel | 56 | 123 | 11 | 190 |
+| 17 | 338 | ohmp7 | Ohm Patel | 56 | 123 | 12 | 191 |
 | 18 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
 | 19 | 319 | nishtothekish | Nikhil Vaidyanathan | 39 | 41 | 66 | 146 |
 | 20 | 313 | enumerative | Peter Wu | 52 | 111 | 13 | 176 |
@@ -31,11 +31,11 @@
 | 22 | 309 | lfuchia | Lance Fuchia | 30 | 129 | 7 | 166 |
 | 23 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 24 | 220 | KaelWu | Kael Wu | 20 | 79 | 14 | 113 |
-| 25 | 212 | justinbabe019 | Angie Leong | 64 | 68 | 4 | 136 |
+| 25 | 213 | justinbabe019 | Angie Leong | 65 | 68 | 4 | 137 |
 | 26 | 198 | wolinskij | Jonathan Wolinski | 43 | 73 | 3 | 119 |
 | 27 | 162 | zyoonkim | Zach Yoon-Kim | 46 | 49 | 6 | 101 |
 | 28 | 141 | rayankdm | Rayan Kamdem | 43 | 46 | 2 | 91 |
 | 29 | 113 | DmytroCrawford | Dmytro Crawford | 40 | 35 | 1 | 76 |
 | 30 | 93 | zhangliangmalatang | Leo Liu | 13 | 37 | 2 | 52 |
-| 31 | 67 | alexdnl | Alex Lee | 11 | 25 | 2 | 38 |
+| 31 | 74 | alexdnl | Alex Lee | 13 | 26 | 3 | 42 |
 ---
