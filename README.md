@@ -25,13 +25,13 @@
 | 16 | 342 | ericzhao16 | Eric Zhao | 58 | 127 | 10 | 195 |
 | 17 | 338 | ohmp7 | Ohm Patel | 56 | 123 | 12 | 191 |
 | 18 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
-| 19 | 319 | nishtothekish | Nikhil Vaidyanathan | 39 | 41 | 66 | 146 |
+| 19 | 322 | nishtothekish | Nikhil Vaidyanathan | 39 | 41 | 67 | 147 |
 | 20 | 313 | enumerative | Peter Wu | 52 | 111 | 13 | 176 |
 | 21 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 22 | 309 | lfuchia | Lance Fuchia | 30 | 129 | 7 | 166 |
 | 23 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 24 | 220 | KaelWu | Kael Wu | 20 | 79 | 14 | 113 |
-| 25 | 213 | justinbabe019 | Angie Leong | 65 | 68 | 4 | 137 |
+| 25 | 215 | justinbabe019 | Angie Leong | 65 | 69 | 4 | 138 |
 | 26 | 198 | wolinskij | Jonathan Wolinski | 43 | 73 | 3 | 119 |
 | 27 | 162 | zyoonkim | Zach Yoon-Kim | 46 | 49 | 6 | 101 |
 | 28 | 145 | rayankdm | Rayan Kamdem | 43 | 48 | 2 | 93 |
