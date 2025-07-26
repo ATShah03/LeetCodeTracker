@@ -9,7 +9,7 @@
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 843 | brinco | Brian Lee | 98 | 305 | 45 | 448 |
 | 🥈 2 | 833 | ashwin_a_kumar | Ashwin Kumar | 182 | 291 | 23 | 496 |
-| 🥉 3 | 820 | mj3061 | Michael Jiang | 114 | 284 | 46 | 444 |
+| 🥉 3 | 822 | mj3061 | Michael Jiang | 114 | 285 | 46 | 445 |
 | 4 | 805 | AB1015 | Aditya Bodanapu | 85 | 264 | 64 | 413 |
 | 5 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 6 | 719 | arnsh | Arnav Shah | 83 | 234 | 56 | 373 |
@@ -18,7 +18,7 @@
 | 9 | 513 | shadowion | Ihsaan Yasin | 104 | 173 | 21 | 298 |
 | 10 | 483 | Flytre | Aaron Rahman | 52 | 154 | 41 | 247 |
 | 11 | 473 | devk03 | Dev Kunjadia | 86 | 177 | 11 | 274 |
-| 12 | 458 | wlvrd | Nick Walvoord | 68 | 171 | 16 | 255 |
+| 12 | 460 | wlvrd | Nick Walvoord | 68 | 172 | 16 | 256 |
 | 13 | 406 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 17 | 230 |
 | 14 | 396 | QuantumMechanics123 | Aadit Jain | 61 | 142 | 17 | 220 |
 | 15 | 356 | RGBmarya | Mihir Arya | 56 | 117 | 22 | 195 |
