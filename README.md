@@ -16,7 +16,7 @@
 | 7 | 639 | shreypatel703 | Shrey Patel | 82 | 235 | 29 | 346 |
 | 8 | 534 | adavidwu | David Wu | 82 | 169 | 38 | 289 |
 | 9 | 513 | shadowion | Ihsaan Yasin | 104 | 173 | 21 | 298 |
-| 10 | 483 | Flytre | Aaron Rahman | 52 | 154 | 41 | 247 |
+| 10 | 484 | Flytre | Aaron Rahman | 53 | 154 | 41 | 248 |
 | 11 | 473 | devk03 | Dev Kunjadia | 86 | 177 | 11 | 274 |
 | 12 | 460 | wlvrd | Nick Walvoord | 68 | 172 | 16 | 256 |
 | 13 | 406 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 17 | 230 |
@@ -30,12 +30,12 @@
 | 21 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 22 | 309 | lfuchia | Lance Fuchia | 30 | 129 | 7 | 166 |
 | 23 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
-| 24 | 220 | KaelWu | Kael Wu | 20 | 79 | 14 | 113 |
-| 25 | 215 | justinbabe019 | Angie Leong | 65 | 69 | 4 | 138 |
+| 24 | 220 | justinbabe019 | Angie Leong | 66 | 71 | 4 | 141 |
+| 25 | 220 | KaelWu | Kael Wu | 20 | 79 | 14 | 113 |
 | 26 | 198 | wolinskij | Jonathan Wolinski | 43 | 73 | 3 | 119 |
 | 27 | 162 | zyoonkim | Zach Yoon-Kim | 46 | 49 | 6 | 101 |
 | 28 | 145 | rayankdm | Rayan Kamdem | 43 | 48 | 2 | 93 |
 | 29 | 113 | DmytroCrawford | Dmytro Crawford | 40 | 35 | 1 | 76 |
 | 30 | 93 | zhangliangmalatang | Leo Liu | 13 | 37 | 2 | 52 |
-| 31 | 74 | alexdnl | Alex Lee | 13 | 26 | 3 | 42 |
+| 31 | 79 | alexdnl | Alex Lee | 14 | 28 | 3 | 45 |
 ---
