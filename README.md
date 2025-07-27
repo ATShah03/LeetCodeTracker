@@ -25,7 +25,7 @@
 | 16 | 342 | ericzhao16 | Eric Zhao | 58 | 127 | 10 | 195 |
 | 17 | 338 | ohmp7 | Ohm Patel | 56 | 123 | 12 | 191 |
 | 18 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
-| 19 | 322 | nishtothekish | Nikhil Vaidyanathan | 39 | 41 | 67 | 147 |
+| 19 | 325 | nishtothekish | Nikhil Vaidyanathan | 39 | 41 | 68 | 148 |
 | 20 | 313 | enumerative | Peter Wu | 52 | 111 | 13 | 176 |
 | 21 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 22 | 309 | lfuchia | Lance Fuchia | 30 | 129 | 7 | 166 |
