@@ -34,7 +34,7 @@
 | 25 | 222 | KaelWu | Kael Wu | 20 | 80 | 14 | 114 |
 | 26 | 198 | wolinskij | Jonathan Wolinski | 43 | 73 | 3 | 119 |
 | 27 | 164 | zyoonkim | Zach Yoon-Kim | 46 | 50 | 6 | 102 |
-| 28 | 151 | rayankdm | Rayan Kamdem | 43 | 51 | 2 | 96 |
+| 28 | 155 | rayankdm | Rayan Kamdem | 43 | 53 | 2 | 98 |
 | 29 | 113 | DmytroCrawford | Dmytro Crawford | 40 | 35 | 1 | 76 |
 | 30 | 93 | zhangliangmalatang | Leo Liu | 13 | 37 | 2 | 52 |
 | 31 | 88 | alexdnl | Alex Lee | 15 | 32 | 3 | 50 |
