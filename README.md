@@ -37,5 +37,5 @@
 | 28 | 151 | rayankdm | Rayan Kamdem | 43 | 51 | 2 | 96 |
 | 29 | 113 | DmytroCrawford | Dmytro Crawford | 40 | 35 | 1 | 76 |
 | 30 | 93 | zhangliangmalatang | Leo Liu | 13 | 37 | 2 | 52 |
-| 31 | 86 | alexdnl | Alex Lee | 15 | 31 | 3 | 49 |
+| 31 | 88 | alexdnl | Alex Lee | 15 | 32 | 3 | 50 |
 ---
