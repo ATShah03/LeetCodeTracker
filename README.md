@@ -26,7 +26,7 @@
 | 17 | 338 | ohmp7 | Ohm Patel | 56 | 123 | 12 | 191 |
 | 18 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
 | 19 | 325 | nishtothekish | Nikhil Vaidyanathan | 39 | 41 | 68 | 148 |
-| 20 | 313 | enumerative | Peter Wu | 52 | 111 | 13 | 176 |
+| 20 | 315 | enumerative | Peter Wu | 52 | 112 | 13 | 177 |
 | 21 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 22 | 309 | lfuchia | Lance Fuchia | 30 | 129 | 7 | 166 |
 | 23 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
@@ -37,5 +37,5 @@
 | 28 | 155 | rayankdm | Rayan Kamdem | 43 | 53 | 2 | 98 |
 | 29 | 113 | DmytroCrawford | Dmytro Crawford | 40 | 35 | 1 | 76 |
 | 30 | 93 | zhangliangmalatang | Leo Liu | 13 | 37 | 2 | 52 |
-| 31 | 88 | alexdnl | Alex Lee | 15 | 32 | 3 | 50 |
+| 31 | 92 | alexdnl | Alex Lee | 15 | 34 | 3 | 52 |
 ---
