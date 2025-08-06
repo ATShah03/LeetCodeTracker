@@ -13,7 +13,7 @@
 | 4 | 825 | mj3061 | Michael Jiang | 114 | 285 | 47 | 446 |
 | 5 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 6 | 719 | arnsh | Arnav Shah | 83 | 234 | 56 | 373 |
-| 7 | 644 | shreypatel703 | Shrey Patel | 85 | 236 | 29 | 350 |
+| 7 | 646 | shreypatel703 | Shrey Patel | 85 | 237 | 29 | 351 |
 | 8 | 534 | adavidwu | David Wu | 82 | 169 | 38 | 289 |
 | 9 | 515 | shadowion | Ihsaan Yasin | 104 | 174 | 21 | 299 |
 | 10 | 487 | Flytre | Aaron Rahman | 54 | 155 | 41 | 250 |
