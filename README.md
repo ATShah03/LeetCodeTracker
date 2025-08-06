@@ -33,9 +33,9 @@
 | 24 | 233 | KaelWu | Kael Wu | 20 | 84 | 15 | 119 |
 | 25 | 226 | justinbabe019 | Angie Leong | 68 | 73 | 4 | 145 |
 | 26 | 198 | wolinskij | Jonathan Wolinski | 43 | 73 | 3 | 119 |
-| 27 | 164 | zyoonkim | Zach Yoon-Kim | 46 | 50 | 6 | 102 |
+| 27 | 166 | zyoonkim | Zach Yoon-Kim | 46 | 51 | 6 | 103 |
 | 28 | 164 | rayankdm | Rayan Kamdem | 44 | 57 | 2 | 103 |
 | 29 | 113 | DmytroCrawford | Dmytro Crawford | 40 | 35 | 1 | 76 |
-| 30 | 101 | alexdnl | Alex Lee | 16 | 35 | 5 | 56 |
+| 30 | 105 | alexdnl | Alex Lee | 16 | 37 | 5 | 58 |
 | 31 | 93 | zhangliangmalatang | Leo Liu | 13 | 37 | 2 | 52 |
 ---
