@@ -24,8 +24,8 @@
 | 15 | 356 | RGBmarya | Mihir Arya | 56 | 117 | 22 | 195 |
 | 16 | 343 | ericzhao16 | Eric Zhao | 59 | 127 | 10 | 196 |
 | 17 | 338 | ohmp7 | Ohm Patel | 56 | 123 | 12 | 191 |
-| 18 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
-| 19 | 325 | nishtothekish | Nikhil Vaidyanathan | 39 | 41 | 68 | 148 |
+| 18 | 329 | nishtothekish | Nikhil Vaidyanathan | 40 | 41 | 69 | 150 |
+| 19 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
 | 20 | 318 | enumerative | Peter Wu | 52 | 112 | 14 | 178 |
 | 21 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 22 | 309 | lfuchia | Lance Fuchia | 30 | 129 | 7 | 166 |
@@ -33,9 +33,9 @@
 | 24 | 238 | KaelWu | Kael Wu | 20 | 85 | 16 | 121 |
 | 25 | 226 | justinbabe019 | Angie Leong | 68 | 73 | 4 | 145 |
 | 26 | 200 | wolinskij | Jonathan Wolinski | 43 | 74 | 3 | 120 |
-| 27 | 175 | zyoonkim | Zach Yoon-Kim | 48 | 53 | 7 | 108 |
+| 27 | 181 | zyoonkim | Zach Yoon-Kim | 50 | 55 | 7 | 112 |
 | 28 | 173 | rayankdm | Rayan Kamdem | 45 | 61 | 2 | 108 |
 | 29 | 113 | DmytroCrawford | Dmytro Crawford | 40 | 35 | 1 | 76 |
-| 30 | 110 | alexdnl | Alex Lee | 17 | 39 | 5 | 61 |
+| 30 | 112 | alexdnl | Alex Lee | 17 | 40 | 5 | 62 |
 | 31 | 93 | zhangliangmalatang | Leo Liu | 13 | 37 | 2 | 52 |
 ---
