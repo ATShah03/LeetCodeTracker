@@ -16,7 +16,7 @@
 | 7 | 646 | shreypatel703 | Shrey Patel | 85 | 237 | 29 | 351 |
 | 8 | 534 | adavidwu | David Wu | 82 | 169 | 38 | 289 |
 | 9 | 515 | shadowion | Ihsaan Yasin | 104 | 174 | 21 | 299 |
-| 10 | 487 | Flytre | Aaron Rahman | 54 | 155 | 41 | 250 |
+| 10 | 488 | Flytre | Aaron Rahman | 55 | 155 | 41 | 251 |
 | 11 | 479 | devk03 | Dev Kunjadia | 86 | 180 | 11 | 277 |
 | 12 | 461 | wlvrd | Nick Walvoord | 69 | 172 | 16 | 257 |
 | 13 | 406 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 17 | 230 |
