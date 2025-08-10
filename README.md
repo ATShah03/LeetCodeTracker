@@ -13,12 +13,12 @@
 | 4 | 825 | mj3061 | Michael Jiang | 114 | 285 | 47 | 446 |
 | 5 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 6 | 719 | arnsh | Arnav Shah | 83 | 234 | 56 | 373 |
-| 7 | 646 | shreypatel703 | Shrey Patel | 85 | 237 | 29 | 351 |
+| 7 | 648 | shreypatel703 | Shrey Patel | 85 | 238 | 29 | 352 |
 | 8 | 534 | adavidwu | David Wu | 82 | 169 | 38 | 289 |
 | 9 | 515 | shadowion | Ihsaan Yasin | 104 | 174 | 21 | 299 |
 | 10 | 488 | Flytre | Aaron Rahman | 55 | 155 | 41 | 251 |
 | 11 | 479 | devk03 | Dev Kunjadia | 86 | 180 | 11 | 277 |
-| 12 | 461 | wlvrd | Nick Walvoord | 69 | 172 | 16 | 257 |
+| 12 | 467 | wlvrd | Nick Walvoord | 69 | 172 | 18 | 259 |
 | 13 | 406 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 17 | 230 |
 | 14 | 396 | QuantumMechanics123 | Aadit Jain | 61 | 142 | 17 | 220 |
 | 15 | 356 | RGBmarya | Mihir Arya | 56 | 117 | 22 | 195 |
