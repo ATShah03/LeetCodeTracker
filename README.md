@@ -35,7 +35,7 @@
 | 26 | 200 | wolinskij | Jonathan Wolinski | 43 | 74 | 3 | 120 |
 | 27 | 194 | zyoonkim | Zach Yoon-Kim | 59 | 57 | 7 | 123 |
 | 28 | 175 | rayankdm | Rayan Kamdem | 45 | 62 | 2 | 109 |
-| 29 | 113 | DmytroCrawford | Dmytro Crawford | 40 | 35 | 1 | 76 |
-| 30 | 112 | alexdnl | Alex Lee | 17 | 40 | 5 | 62 |
+| 29 | 117 | alexdnl | Alex Lee | 18 | 42 | 5 | 65 |
+| 30 | 113 | DmytroCrawford | Dmytro Crawford | 40 | 35 | 1 | 76 |
 | 31 | 93 | zhangliangmalatang | Leo Liu | 13 | 37 | 2 | 52 |
 ---
