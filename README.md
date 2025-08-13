@@ -36,6 +36,6 @@
 | 27 | 194 | zyoonkim | Zach Yoon-Kim | 59 | 57 | 7 | 123 |
 | 28 | 182 | rayankdm | Rayan Kamdem | 46 | 65 | 2 | 113 |
 | 29 | 117 | alexdnl | Alex Lee | 18 | 42 | 5 | 65 |
-| 30 | 113 | DmytroCrawford | Dmytro Crawford | 40 | 35 | 1 | 76 |
+| 30 | 114 | DmytroCrawford | Dmytro Crawford | 41 | 35 | 1 | 77 |
 | 31 | 93 | zhangliangmalatang | Leo Liu | 13 | 37 | 2 | 52 |
 ---
