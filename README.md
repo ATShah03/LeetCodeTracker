@@ -32,9 +32,9 @@
 | 23 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 24 | 240 | KaelWu | Kael Wu | 20 | 86 | 16 | 122 |
 | 25 | 226 | justinbabe019 | Angie Leong | 68 | 73 | 4 | 145 |
-| 26 | 203 | zyoonkim | Zach Yoon-Kim | 60 | 58 | 9 | 127 |
+| 26 | 205 | zyoonkim | Zach Yoon-Kim | 60 | 59 | 9 | 128 |
 | 27 | 200 | wolinskij | Jonathan Wolinski | 43 | 74 | 3 | 120 |
-| 28 | 182 | rayankdm | Rayan Kamdem | 46 | 65 | 2 | 113 |
+| 28 | 186 | rayankdm | Rayan Kamdem | 46 | 67 | 2 | 115 |
 | 29 | 119 | alexdnl | Alex Lee | 18 | 43 | 5 | 66 |
 | 30 | 114 | DmytroCrawford | Dmytro Crawford | 41 | 35 | 1 | 77 |
 | 31 | 93 | zhangliangmalatang | Leo Liu | 13 | 37 | 2 | 52 |
