@@ -29,7 +29,7 @@
 | 20 | 318 | enumerative | Peter Wu | 52 | 112 | 14 | 178 |
 | 21 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 22 | 309 | lfuchia | Lance Fuchia | 30 | 129 | 7 | 166 |
-| 23 | 245 | KaelWu | Kael Wu | 20 | 87 | 17 | 124 |
+| 23 | 248 | KaelWu | Kael Wu | 20 | 87 | 18 | 125 |
 | 24 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 25 | 240 | zyoonkim | Zach Yoon-Kim | 71 | 68 | 11 | 150 |
 | 26 | 226 | justinbabe019 | Angie Leong | 68 | 73 | 4 | 145 |
