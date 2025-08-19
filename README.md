@@ -8,8 +8,8 @@
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 843 | brinco | Brian Lee | 98 | 305 | 45 | 448 |
-| 🥈 2 | 833 | ashwin_a_kumar | Ashwin Kumar | 182 | 291 | 23 | 496 |
-| 🥉 3 | 832 | AB1015 | Aditya Bodanapu | 85 | 273 | 67 | 425 |
+| 🥈 2 | 836 | AB1015 | Aditya Bodanapu | 86 | 273 | 68 | 427 |
+| 🥉 3 | 833 | ashwin_a_kumar | Ashwin Kumar | 182 | 291 | 23 | 496 |
 | 4 | 825 | mj3061 | Michael Jiang | 114 | 285 | 47 | 446 |
 | 5 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 6 | 719 | arnsh | Arnav Shah | 83 | 234 | 56 | 373 |
@@ -31,11 +31,11 @@
 | 22 | 309 | lfuchia | Lance Fuchia | 30 | 129 | 7 | 166 |
 | 23 | 250 | KaelWu | Kael Wu | 20 | 88 | 18 | 126 |
 | 24 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
-| 25 | 240 | zyoonkim | Zach Yoon-Kim | 71 | 68 | 11 | 150 |
+| 25 | 242 | zyoonkim | Zach Yoon-Kim | 71 | 69 | 11 | 151 |
 | 26 | 226 | justinbabe019 | Angie Leong | 68 | 73 | 4 | 145 |
 | 27 | 200 | wolinskij | Jonathan Wolinski | 43 | 74 | 3 | 120 |
-| 28 | 186 | rayankdm | Rayan Kamdem | 46 | 67 | 2 | 115 |
-| 29 | 124 | alexdnl | Alex Lee | 21 | 44 | 5 | 70 |
+| 28 | 187 | rayankdm | Rayan Kamdem | 47 | 67 | 2 | 116 |
+| 29 | 126 | alexdnl | Alex Lee | 23 | 44 | 5 | 72 |
 | 30 | 114 | DmytroCrawford | Dmytro Crawford | 41 | 35 | 1 | 77 |
 | 31 | 93 | zhangliangmalatang | Leo Liu | 13 | 37 | 2 | 52 |
 ---
