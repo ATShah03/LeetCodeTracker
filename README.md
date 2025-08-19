@@ -7,8 +7,8 @@
 
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
-| 🥇 1 | 843 | brinco | Brian Lee | 98 | 305 | 45 | 448 |
-| 🥈 2 | 838 | AB1015 | Aditya Bodanapu | 86 | 274 | 68 | 428 |
+| 🥇 1 | 844 | AB1015 | Aditya Bodanapu | 86 | 274 | 70 | 430 |
+| 🥈 2 | 843 | brinco | Brian Lee | 98 | 305 | 45 | 448 |
 | 🥉 3 | 833 | ashwin_a_kumar | Ashwin Kumar | 182 | 291 | 23 | 496 |
 | 4 | 825 | mj3061 | Michael Jiang | 114 | 285 | 47 | 446 |
 | 5 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
@@ -20,7 +20,7 @@
 | 11 | 479 | devk03 | Dev Kunjadia | 86 | 180 | 11 | 277 |
 | 12 | 470 | wlvrd | Nick Walvoord | 69 | 172 | 19 | 260 |
 | 13 | 406 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 17 | 230 |
-| 14 | 398 | QuantumMechanics123 | Aadit Jain | 61 | 143 | 17 | 221 |
+| 14 | 400 | QuantumMechanics123 | Aadit Jain | 61 | 144 | 17 | 222 |
 | 15 | 356 | RGBmarya | Mihir Arya | 56 | 117 | 22 | 195 |
 | 16 | 349 | ericzhao16 | Eric Zhao | 59 | 130 | 10 | 199 |
 | 17 | 343 | nishtothekish | Nikhil Vaidyanathan | 40 | 42 | 73 | 155 |
@@ -29,9 +29,9 @@
 | 20 | 318 | enumerative | Peter Wu | 52 | 112 | 14 | 178 |
 | 21 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 22 | 309 | lfuchia | Lance Fuchia | 30 | 129 | 7 | 166 |
-| 23 | 250 | KaelWu | Kael Wu | 20 | 88 | 18 | 126 |
-| 24 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
-| 25 | 242 | zyoonkim | Zach Yoon-Kim | 71 | 69 | 11 | 151 |
+| 23 | 253 | KaelWu | Kael Wu | 20 | 88 | 19 | 127 |
+| 24 | 246 | zyoonkim | Zach Yoon-Kim | 71 | 71 | 11 | 153 |
+| 25 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 26 | 226 | justinbabe019 | Angie Leong | 68 | 73 | 4 | 145 |
 | 27 | 200 | wolinskij | Jonathan Wolinski | 43 | 74 | 3 | 120 |
 | 28 | 187 | rayankdm | Rayan Kamdem | 47 | 67 | 2 | 116 |
