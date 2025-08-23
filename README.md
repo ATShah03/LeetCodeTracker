@@ -19,7 +19,7 @@
 | 10 | 490 | Flytre | Aaron Rahman | 57 | 155 | 41 | 253 |
 | 11 | 479 | devk03 | Dev Kunjadia | 86 | 180 | 11 | 277 |
 | 12 | 470 | wlvrd | Nick Walvoord | 69 | 172 | 19 | 260 |
-| 13 | 414 | QuantumMechanics123 | Aadit Jain | 63 | 150 | 17 | 230 |
+| 13 | 421 | QuantumMechanics123 | Aadit Jain | 63 | 152 | 18 | 233 |
 | 14 | 406 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 17 | 230 |
 | 15 | 356 | RGBmarya | Mihir Arya | 56 | 117 | 22 | 195 |
 | 16 | 349 | ericzhao16 | Eric Zhao | 59 | 130 | 10 | 199 |
@@ -29,7 +29,7 @@
 | 20 | 319 | enumerative | Peter Wu | 53 | 112 | 14 | 179 |
 | 21 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 22 | 309 | lfuchia | Lance Fuchia | 30 | 129 | 7 | 166 |
-| 23 | 258 | zyoonkim | Zach Yoon-Kim | 73 | 76 | 11 | 160 |
+| 23 | 259 | zyoonkim | Zach Yoon-Kim | 74 | 76 | 11 | 161 |
 | 24 | 253 | KaelWu | Kael Wu | 20 | 88 | 19 | 127 |
 | 25 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 26 | 226 | justinbabe019 | Angie Leong | 68 | 73 | 4 | 145 |
