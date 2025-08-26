@@ -11,8 +11,8 @@
 | 🥈 2 | 843 | brinco | Brian Lee | 98 | 305 | 45 | 448 |
 | 🥉 3 | 833 | ashwin_a_kumar | Ashwin Kumar | 182 | 291 | 23 | 496 |
 | 4 | 825 | mj3061 | Michael Jiang | 114 | 285 | 47 | 446 |
-| 5 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
-| 6 | 719 | arnsh | Arnav Shah | 83 | 234 | 56 | 373 |
+| 5 | 724 | arnsh | Arnav Shah | 84 | 236 | 56 | 376 |
+| 6 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 7 | 652 | shreypatel703 | Shrey Patel | 85 | 240 | 29 | 354 |
 | 8 | 534 | adavidwu | David Wu | 82 | 169 | 38 | 289 |
 | 9 | 515 | shadowion | Ihsaan Yasin | 104 | 174 | 21 | 299 |
@@ -35,7 +35,7 @@
 | 26 | 226 | justinbabe019 | Angie Leong | 68 | 73 | 4 | 145 |
 | 27 | 200 | wolinskij | Jonathan Wolinski | 43 | 74 | 3 | 120 |
 | 28 | 187 | rayankdm | Rayan Kamdem | 47 | 67 | 2 | 116 |
-| 29 | 126 | alexdnl | Alex Lee | 23 | 44 | 5 | 72 |
+| 29 | 127 | alexdnl | Alex Lee | 24 | 44 | 5 | 73 |
 | 30 | 114 | DmytroCrawford | Dmytro Crawford | 41 | 35 | 1 | 77 |
 | 31 | 93 | zhangliangmalatang | Leo Liu | 13 | 37 | 2 | 52 |
 ---
