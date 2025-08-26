@@ -11,7 +11,7 @@
 | 🥈 2 | 843 | brinco | Brian Lee | 98 | 305 | 45 | 448 |
 | 🥉 3 | 833 | ashwin_a_kumar | Ashwin Kumar | 182 | 291 | 23 | 496 |
 | 4 | 825 | mj3061 | Michael Jiang | 114 | 285 | 47 | 446 |
-| 5 | 724 | arnsh | Arnav Shah | 84 | 236 | 56 | 376 |
+| 5 | 725 | arnsh | Arnav Shah | 85 | 236 | 56 | 377 |
 | 6 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 7 | 652 | shreypatel703 | Shrey Patel | 85 | 240 | 29 | 354 |
 | 8 | 534 | adavidwu | David Wu | 82 | 169 | 38 | 289 |
@@ -19,7 +19,7 @@
 | 10 | 492 | Flytre | Aaron Rahman | 57 | 156 | 41 | 254 |
 | 11 | 479 | devk03 | Dev Kunjadia | 86 | 180 | 11 | 277 |
 | 12 | 470 | wlvrd | Nick Walvoord | 69 | 172 | 19 | 260 |
-| 13 | 441 | QuantumMechanics123 | Aadit Jain | 66 | 159 | 19 | 244 |
+| 13 | 445 | QuantumMechanics123 | Aadit Jain | 66 | 161 | 19 | 246 |
 | 14 | 406 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 17 | 230 |
 | 15 | 356 | RGBmarya | Mihir Arya | 56 | 117 | 22 | 195 |
 | 16 | 349 | ericzhao16 | Eric Zhao | 59 | 130 | 10 | 199 |
