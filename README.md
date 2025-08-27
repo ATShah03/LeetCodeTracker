@@ -22,7 +22,7 @@
 | 13 | 455 | QuantumMechanics123 | Aadit Jain | 66 | 166 | 19 | 251 |
 | 14 | 406 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 17 | 230 |
 | 15 | 356 | RGBmarya | Mihir Arya | 56 | 117 | 22 | 195 |
-| 16 | 349 | ericzhao16 | Eric Zhao | 59 | 130 | 10 | 199 |
+| 16 | 351 | ericzhao16 | Eric Zhao | 59 | 131 | 10 | 200 |
 | 17 | 343 | nishtothekish | Nikhil Vaidyanathan | 40 | 42 | 73 | 155 |
 | 18 | 338 | ohmp7 | Ohm Patel | 56 | 123 | 12 | 191 |
 | 19 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
@@ -35,7 +35,7 @@
 | 26 | 226 | justinbabe019 | Angie Leong | 68 | 73 | 4 | 145 |
 | 27 | 200 | wolinskij | Jonathan Wolinski | 43 | 74 | 3 | 120 |
 | 28 | 187 | rayankdm | Rayan Kamdem | 47 | 67 | 2 | 116 |
-| 29 | 133 | alexdnl | Alex Lee | 24 | 47 | 5 | 76 |
+| 29 | 135 | alexdnl | Alex Lee | 24 | 48 | 5 | 77 |
 | 30 | 114 | DmytroCrawford | Dmytro Crawford | 41 | 35 | 1 | 77 |
 | 31 | 93 | zhangliangmalatang | Leo Liu | 13 | 37 | 2 | 52 |
 ---
