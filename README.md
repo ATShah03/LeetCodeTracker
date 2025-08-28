@@ -19,7 +19,7 @@
 | 10 | 492 | Flytre | Aaron Rahman | 57 | 156 | 41 | 254 |
 | 11 | 479 | devk03 | Dev Kunjadia | 86 | 180 | 11 | 277 |
 | 12 | 470 | wlvrd | Nick Walvoord | 69 | 172 | 19 | 260 |
-| 13 | 457 | QuantumMechanics123 | Aadit Jain | 66 | 167 | 19 | 252 |
+| 13 | 459 | QuantumMechanics123 | Aadit Jain | 66 | 168 | 19 | 253 |
 | 14 | 419 | shah_aryan1 | Aryan Shah | 95 | 129 | 22 | 246 |
 | 15 | 406 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 17 | 230 |
 | 16 | 356 | RGBmarya | Mihir Arya | 56 | 117 | 22 | 195 |
