@@ -27,7 +27,7 @@
 | 18 | 344 | nishtothekish | Nikhil Vaidyanathan | 41 | 42 | 73 | 156 |
 | 19 | 338 | ohmp7 | Ohm Patel | 56 | 123 | 12 | 191 |
 | 20 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
-| 21 | 319 | enumerative | Peter Wu | 53 | 112 | 14 | 179 |
+| 21 | 321 | enumerative | Peter Wu | 53 | 113 | 14 | 180 |
 | 22 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 23 | 309 | lfuchia | Lance Fuchia | 30 | 129 | 7 | 166 |
 | 24 | 277 | KaelWu | Kael Wu | 29 | 94 | 20 | 143 |
