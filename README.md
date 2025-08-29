@@ -19,7 +19,7 @@
 | 10 | 492 | Flytre | Aaron Rahman | 57 | 156 | 41 | 254 |
 | 11 | 479 | devk03 | Dev Kunjadia | 86 | 180 | 11 | 277 |
 | 12 | 470 | wlvrd | Nick Walvoord | 69 | 172 | 19 | 260 |
-| 13 | 463 | QuantumMechanics123 | Aadit Jain | 66 | 170 | 19 | 255 |
+| 13 | 465 | QuantumMechanics123 | Aadit Jain | 66 | 171 | 19 | 256 |
 | 14 | 421 | shah_aryan1 | Aryan Shah | 95 | 130 | 22 | 247 |
 | 15 | 406 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 17 | 230 |
 | 16 | 356 | ericzhao16 | Eric Zhao | 60 | 133 | 10 | 203 |
@@ -27,7 +27,7 @@
 | 18 | 344 | nishtothekish | Nikhil Vaidyanathan | 41 | 42 | 73 | 156 |
 | 19 | 338 | ohmp7 | Ohm Patel | 56 | 123 | 12 | 191 |
 | 20 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
-| 21 | 321 | enumerative | Peter Wu | 53 | 113 | 14 | 180 |
+| 21 | 322 | enumerative | Peter Wu | 54 | 113 | 14 | 181 |
 | 22 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 23 | 309 | lfuchia | Lance Fuchia | 30 | 129 | 7 | 166 |
 | 24 | 277 | KaelWu | Kael Wu | 29 | 94 | 20 | 143 |
