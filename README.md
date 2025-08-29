@@ -20,7 +20,7 @@
 | 11 | 479 | devk03 | Dev Kunjadia | 86 | 180 | 11 | 277 |
 | 12 | 470 | wlvrd | Nick Walvoord | 69 | 172 | 19 | 260 |
 | 13 | 465 | QuantumMechanics123 | Aadit Jain | 66 | 171 | 19 | 256 |
-| 14 | 421 | shah_aryan1 | Aryan Shah | 95 | 130 | 22 | 247 |
+| 14 | 423 | shah_aryan1 | Aryan Shah | 95 | 131 | 22 | 248 |
 | 15 | 406 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 17 | 230 |
 | 16 | 356 | ericzhao16 | Eric Zhao | 60 | 133 | 10 | 203 |
 | 17 | 356 | RGBmarya | Mihir Arya | 56 | 117 | 22 | 195 |
@@ -38,5 +38,5 @@
 | 29 | 187 | rayankdm | Rayan Kamdem | 47 | 67 | 2 | 116 |
 | 30 | 142 | alexdnl | Alex Lee | 25 | 48 | 7 | 80 |
 | 31 | 114 | DmytroCrawford | Dmytro Crawford | 41 | 35 | 1 | 77 |
-| 32 | 100 | zhangliangmalatang | Leo Liu | 13 | 39 | 3 | 55 |
+| 32 | 102 | zhangliangmalatang | Leo Liu | 13 | 40 | 3 | 56 |
 ---
