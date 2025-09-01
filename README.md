@@ -15,10 +15,10 @@
 | 6 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 7 | 652 | shreypatel703 | Shrey Patel | 85 | 240 | 29 | 354 |
 | 8 | 534 | adavidwu | David Wu | 82 | 169 | 38 | 289 |
-| 9 | 515 | shadowion | Ihsaan Yasin | 104 | 174 | 21 | 299 |
+| 9 | 521 | shadowion | Ihsaan Yasin | 104 | 177 | 21 | 302 |
 | 10 | 492 | Flytre | Aaron Rahman | 57 | 156 | 41 | 254 |
-| 11 | 479 | devk03 | Dev Kunjadia | 86 | 180 | 11 | 277 |
-| 12 | 479 | QuantumMechanics123 | Aadit Jain | 67 | 176 | 20 | 263 |
+| 11 | 482 | QuantumMechanics123 | Aadit Jain | 67 | 176 | 21 | 264 |
+| 12 | 479 | devk03 | Dev Kunjadia | 86 | 180 | 11 | 277 |
 | 13 | 470 | wlvrd | Nick Walvoord | 69 | 172 | 19 | 260 |
 | 14 | 423 | shah_aryan1 | Aryan Shah | 95 | 131 | 22 | 248 |
 | 15 | 406 | jessicaa_zhang | Jessica Zhang | 71 | 142 | 17 | 230 |
