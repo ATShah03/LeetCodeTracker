@@ -35,7 +35,7 @@
 | 26 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 27 | 226 | justinbabe019 | Angie Leong | 68 | 73 | 4 | 145 |
 | 28 | 200 | wolinskij | Jonathan Wolinski | 43 | 74 | 3 | 120 |
-| 29 | 187 | rayankdm | Rayan Kamdem | 47 | 67 | 2 | 116 |
+| 29 | 189 | rayankdm | Rayan Kamdem | 47 | 68 | 2 | 117 |
 | 30 | 146 | alexdnl | Alex Lee | 25 | 50 | 7 | 82 |
 | 31 | 114 | DmytroCrawford | Dmytro Crawford | 41 | 35 | 1 | 77 |
 | 32 | 102 | zhangliangmalatang | Leo Liu | 13 | 40 | 3 | 56 |
