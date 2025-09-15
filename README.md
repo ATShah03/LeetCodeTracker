@@ -14,7 +14,7 @@
 | 5 | 725 | arnsh | Arnav Shah | 85 | 236 | 56 | 377 |
 | 6 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 7 | 652 | shreypatel703 | Shrey Patel | 85 | 240 | 29 | 354 |
-| 8 | 546 | adavidwu | David Wu | 82 | 172 | 40 | 294 |
+| 8 | 549 | adavidwu | David Wu | 82 | 172 | 41 | 295 |
 | 9 | 534 | shadowion | Ihsaan Yasin | 106 | 178 | 24 | 308 |
 | 10 | 492 | Flytre | Aaron Rahman | 57 | 156 | 41 | 254 |
 | 11 | 490 | QuantumMechanics123 | Aadit Jain | 67 | 180 | 21 | 268 |
