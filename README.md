@@ -22,8 +22,8 @@
 | 13 | 473 | wlvrd | Nick Walvoord | 70 | 173 | 19 | 262 |
 | 14 | 431 | shah_aryan1 | Aryan Shah | 95 | 135 | 22 | 252 |
 | 15 | 407 | jessicaa_zhang | Jessica Zhang | 72 | 142 | 17 | 231 |
-| 16 | 358 | ericzhao16 | Eric Zhao | 60 | 134 | 10 | 204 |
-| 17 | 356 | nishtothekish | Nikhil Vaidyanathan | 41 | 42 | 77 | 160 |
+| 16 | 359 | nishtothekish | Nikhil Vaidyanathan | 41 | 42 | 78 | 161 |
+| 17 | 358 | ericzhao16 | Eric Zhao | 60 | 134 | 10 | 204 |
 | 18 | 356 | RGBmarya | Mihir Arya | 56 | 117 | 22 | 195 |
 | 19 | 338 | ohmp7 | Ohm Patel | 56 | 123 | 12 | 191 |
 | 20 | 327 | enumerative | Peter Wu | 55 | 115 | 14 | 184 |
