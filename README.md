@@ -28,8 +28,8 @@
 | 19 | 338 | ohmp7 | Ohm Patel | 56 | 123 | 12 | 191 |
 | 20 | 329 | enumerative | Peter Wu | 57 | 115 | 14 | 186 |
 | 21 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
-| 22 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
-| 23 | 309 | lfuchia | Lance Fuchia | 30 | 129 | 7 | 166 |
+| 22 | 313 | lfuchia | Lance Fuchia | 30 | 131 | 7 | 168 |
+| 23 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 24 | 283 | KaelWu | Kael Wu | 29 | 97 | 20 | 146 |
 | 25 | 276 | zyoonkim | Zach Yoon-Kim | 76 | 82 | 12 | 170 |
 | 26 | 265 | justinbabe019 | Angie Leong | 78 | 86 | 5 | 169 |
