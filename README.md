@@ -21,7 +21,7 @@
 | 12 | 479 | devk03 | Dev Kunjadia | 86 | 180 | 11 | 277 |
 | 13 | 473 | wlvrd | Nick Walvoord | 70 | 173 | 19 | 262 |
 | 14 | 431 | shah_aryan1 | Aryan Shah | 95 | 135 | 22 | 252 |
-| 15 | 409 | jessicaa_zhang | Jessica Zhang | 72 | 143 | 17 | 232 |
+| 15 | 412 | jessicaa_zhang | Jessica Zhang | 72 | 143 | 18 | 233 |
 | 16 | 359 | nishtothekish | Nikhil Vaidyanathan | 41 | 42 | 78 | 161 |
 | 17 | 358 | ericzhao16 | Eric Zhao | 60 | 134 | 10 | 204 |
 | 18 | 356 | RGBmarya | Mihir Arya | 56 | 117 | 22 | 195 |
