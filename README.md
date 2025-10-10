@@ -7,7 +7,7 @@
 
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
-| 🥇 1 | 857 | AB1015 | Aditya Bodanapu | 86 | 276 | 73 | 435 |
+| 🥇 1 | 859 | AB1015 | Aditya Bodanapu | 86 | 277 | 73 | 436 |
 | 🥈 2 | 843 | brinco | Brian Lee | 98 | 305 | 45 | 448 |
 | 🥉 3 | 837 | ashwin_a_kumar | Ashwin Kumar | 182 | 293 | 23 | 498 |
 | 4 | 827 | mj3061 | Michael Jiang | 116 | 285 | 47 | 448 |
