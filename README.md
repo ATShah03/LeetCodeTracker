@@ -30,7 +30,7 @@
 | 21 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
 | 22 | 313 | lfuchia | Lance Fuchia | 30 | 131 | 7 | 168 |
 | 23 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
-| 24 | 283 | KaelWu | Kael Wu | 29 | 97 | 20 | 146 |
+| 24 | 287 | KaelWu | Kael Wu | 33 | 97 | 20 | 150 |
 | 25 | 276 | zyoonkim | Zach Yoon-Kim | 76 | 82 | 12 | 170 |
 | 26 | 267 | justinbabe019 | Angie Leong | 80 | 86 | 5 | 171 |
 | 27 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
