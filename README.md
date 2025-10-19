@@ -32,7 +32,7 @@
 | 23 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 24 | 301 | KaelWu | Kael Wu | 36 | 101 | 21 | 158 |
 | 25 | 278 | zyoonkim | Zach Yoon-Kim | 76 | 83 | 12 | 171 |
-| 26 | 273 | justinbabe019 | Angie Leong | 81 | 87 | 6 | 174 |
+| 26 | 275 | justinbabe019 | Angie Leong | 81 | 88 | 6 | 175 |
 | 27 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 28 | 200 | wolinskij | Jonathan Wolinski | 43 | 74 | 3 | 120 |
 | 29 | 189 | rayankdm | Rayan Kamdem | 47 | 68 | 2 | 117 |
