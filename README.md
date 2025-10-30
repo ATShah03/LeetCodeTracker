@@ -23,7 +23,7 @@
 | 14 | 431 | shah_aryan1 | Aryan Shah | 95 | 135 | 22 | 252 |
 | 15 | 425 | jessicaa_zhang | Jessica Zhang | 76 | 146 | 19 | 241 |
 | 16 | 368 | nishtothekish | Nikhil Vaidyanathan | 41 | 42 | 81 | 164 |
-| 17 | 360 | ericzhao16 | Eric Zhao | 60 | 135 | 10 | 205 |
+| 17 | 362 | ericzhao16 | Eric Zhao | 60 | 136 | 10 | 206 |
 | 18 | 356 | RGBmarya | Mihir Arya | 56 | 117 | 22 | 195 |
 | 19 | 338 | ohmp7 | Ohm Patel | 56 | 123 | 12 | 191 |
 | 20 | 331 | enumerative | Peter Wu | 57 | 116 | 14 | 187 |
