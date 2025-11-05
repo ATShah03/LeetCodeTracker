@@ -32,10 +32,10 @@
 | 23 | 312 | KaelWu | Kael Wu | 37 | 106 | 21 | 164 |
 | 24 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 25 | 289 | justinbabe019 | Angie Leong | 83 | 94 | 6 | 183 |
-| 26 | 279 | zyoonkim | Zach Yoon-Kim | 77 | 83 | 12 | 172 |
+| 26 | 283 | zyoonkim | Zach Yoon-Kim | 77 | 85 | 12 | 174 |
 | 27 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 28 | 200 | wolinskij | Jonathan Wolinski | 43 | 74 | 3 | 120 |
-| 29 | 193 | rayankdm | Rayan Kamdem | 49 | 69 | 2 | 120 |
+| 29 | 195 | rayankdm | Rayan Kamdem | 49 | 70 | 2 | 121 |
 | 30 | 186 | alexdnl | Alex Lee | 27 | 69 | 7 | 103 |
 | 31 | 114 | DmytroCrawford | Dmytro Crawford | 41 | 35 | 1 | 77 |
 | 32 | 111 | zhangliangmalatang | Leo Liu | 13 | 43 | 4 | 60 |
