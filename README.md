@@ -14,7 +14,7 @@
 | 5 | 725 | arnsh | Arnav Shah | 85 | 236 | 56 | 377 |
 | 6 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 7 | 654 | shreypatel703 | Shrey Patel | 85 | 241 | 29 | 355 |
-| 8 | 581 | adavidwu | David Wu | 84 | 181 | 45 | 310 |
+| 8 | 587 | adavidwu | David Wu | 84 | 181 | 47 | 312 |
 | 9 | 536 | shadowion | Ihsaan Yasin | 106 | 179 | 24 | 309 |
 | 10 | 492 | Flytre | Aaron Rahman | 57 | 156 | 41 | 254 |
 | 11 | 490 | QuantumMechanics123 | Aadit Jain | 67 | 180 | 21 | 268 |
@@ -35,7 +35,7 @@
 | 26 | 283 | zyoonkim | Zach Yoon-Kim | 77 | 85 | 12 | 174 |
 | 27 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 28 | 200 | wolinskij | Jonathan Wolinski | 43 | 74 | 3 | 120 |
-| 29 | 195 | rayankdm | Rayan Kamdem | 49 | 70 | 2 | 121 |
+| 29 | 196 | rayankdm | Rayan Kamdem | 50 | 70 | 2 | 122 |
 | 30 | 186 | alexdnl | Alex Lee | 27 | 69 | 7 | 103 |
 | 31 | 114 | DmytroCrawford | Dmytro Crawford | 41 | 35 | 1 | 77 |
 | 32 | 111 | zhangliangmalatang | Leo Liu | 13 | 43 | 4 | 60 |
