@@ -25,7 +25,7 @@
 | 16 | 396 | nishtothekish | Nikhil Vaidyanathan | 42 | 48 | 86 | 176 |
 | 17 | 362 | ericzhao16 | Eric Zhao | 60 | 136 | 10 | 206 |
 | 18 | 356 | RGBmarya | Mihir Arya | 56 | 117 | 22 | 195 |
-| 19 | 339 | ohmp7 | Ohm Patel | 57 | 123 | 12 | 192 |
+| 19 | 341 | ohmp7 | Ohm Patel | 57 | 124 | 12 | 193 |
 | 20 | 336 | enumerative | Peter Wu | 60 | 117 | 14 | 191 |
 | 21 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
 | 22 | 313 | lfuchia | Lance Fuchia | 30 | 131 | 7 | 168 |
