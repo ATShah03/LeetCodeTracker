@@ -22,7 +22,7 @@
 | 13 | 473 | wlvrd | Nick Walvoord | 70 | 173 | 19 | 262 |
 | 14 | 433 | shah_aryan1 | Aryan Shah | 95 | 136 | 22 | 253 |
 | 15 | 425 | jessicaa_zhang | Jessica Zhang | 76 | 146 | 19 | 241 |
-| 16 | 396 | nishtothekish | Nikhil Vaidyanathan | 42 | 48 | 86 | 176 |
+| 16 | 400 | nishtothekish | Nikhil Vaidyanathan | 42 | 50 | 86 | 178 |
 | 17 | 362 | ericzhao16 | Eric Zhao | 60 | 136 | 10 | 206 |
 | 18 | 356 | RGBmarya | Mihir Arya | 56 | 117 | 22 | 195 |
 | 19 | 345 | ohmp7 | Ohm Patel | 59 | 125 | 12 | 196 |
