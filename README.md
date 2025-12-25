@@ -8,7 +8,7 @@
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 859 | AB1015 | Aditya Bodanapu | 86 | 277 | 73 | 436 |
-| 🥈 2 | 848 | brinco | Brian Lee | 99 | 307 | 45 | 451 |
+| 🥈 2 | 849 | brinco | Brian Lee | 100 | 307 | 45 | 452 |
 | 🥉 3 | 844 | ashwin_a_kumar | Ashwin Kumar | 185 | 295 | 23 | 503 |
 | 4 | 827 | mj3061 | Michael Jiang | 116 | 285 | 47 | 448 |
 | 5 | 725 | arnsh | Arnav Shah | 85 | 236 | 56 | 377 |
@@ -25,7 +25,7 @@
 | 16 | 406 | nishtothekish | Nikhil Vaidyanathan | 43 | 51 | 87 | 181 |
 | 17 | 362 | ericzhao16 | Eric Zhao | 60 | 136 | 10 | 206 |
 | 18 | 356 | RGBmarya | Mihir Arya | 56 | 117 | 22 | 195 |
-| 19 | 350 | ohmp7 | Ohm Patel | 60 | 127 | 12 | 199 |
+| 19 | 352 | ohmp7 | Ohm Patel | 60 | 128 | 12 | 200 |
 | 20 | 336 | enumerative | Peter Wu | 60 | 117 | 14 | 191 |
 | 21 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
 | 22 | 319 | zyoonkim | Zach Yoon-Kim | 90 | 95 | 13 | 198 |
@@ -37,7 +37,7 @@
 | 28 | 200 | wolinskij | Jonathan Wolinski | 43 | 74 | 3 | 120 |
 | 29 | 196 | rayankdm | Rayan Kamdem | 50 | 70 | 2 | 122 |
 | 30 | 186 | alexdnl | Alex Lee | 27 | 69 | 7 | 103 |
-| 31 | 114 | DmytroCrawford | Dmytro Crawford | 41 | 35 | 1 | 77 |
+| 31 | 116 | DmytroCrawford | Dmytro Crawford | 41 | 36 | 1 | 78 |
 | 32 | 111 | zhangliangmalatang | Leo Liu | 13 | 43 | 4 | 60 |
 | 33 | 26 | divyaponda | Divya Ponda | 24 | 1 | 0 | 25 |
 ---
