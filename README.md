@@ -24,7 +24,7 @@
 | 15 | 425 | jessicaa_zhang | Jessica Zhang | 76 | 146 | 19 | 241 |
 | 16 | 406 | nishtothekish | Nikhil Vaidyanathan | 43 | 51 | 87 | 181 |
 | 17 | 362 | ericzhao16 | Eric Zhao | 60 | 136 | 10 | 206 |
-| 18 | 360 | ohmp7 | Ohm Patel | 60 | 129 | 14 | 203 |
+| 18 | 362 | ohmp7 | Ohm Patel | 60 | 130 | 14 | 204 |
 | 19 | 359 | RGBmarya | Mihir Arya | 57 | 118 | 22 | 197 |
 | 20 | 341 | enumerative | Peter Wu | 61 | 119 | 14 | 194 |
 | 21 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
