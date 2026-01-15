@@ -26,7 +26,7 @@
 | 17 | 375 | ohmp7 | Ohm Patel | 61 | 133 | 16 | 210 |
 | 18 | 362 | ericzhao16 | Eric Zhao | 60 | 136 | 10 | 206 |
 | 19 | 359 | RGBmarya | Mihir Arya | 57 | 118 | 22 | 197 |
-| 20 | 341 | enumerative | Peter Wu | 61 | 119 | 14 | 194 |
+| 20 | 344 | enumerative | Peter Wu | 62 | 120 | 14 | 196 |
 | 21 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
 | 22 | 319 | zyoonkim | Zach Yoon-Kim | 90 | 95 | 13 | 198 |
 | 23 | 313 | lfuchia | Lance Fuchia | 30 | 131 | 7 | 168 |
