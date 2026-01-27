@@ -16,7 +16,7 @@
 | 7 | 654 | shreypatel703 | Shrey Patel | 85 | 241 | 29 | 355 |
 | 8 | 618 | adavidwu | David Wu | 85 | 193 | 49 | 327 |
 | 9 | 537 | shadowion | Ihsaan Yasin | 107 | 179 | 24 | 310 |
-| 10 | 494 | Flytre | Aaron Rahman | 57 | 157 | 41 | 255 |
+| 10 | 496 | Flytre | Aaron Rahman | 57 | 158 | 41 | 256 |
 | 11 | 490 | QuantumMechanics123 | Aadit Jain | 67 | 180 | 21 | 268 |
 | 12 | 482 | devk03 | Dev Kunjadia | 87 | 181 | 11 | 279 |
 | 13 | 473 | wlvrd | Nick Walvoord | 70 | 173 | 19 | 262 |
