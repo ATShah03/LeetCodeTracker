@@ -36,7 +36,7 @@
 | 27 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 28 | 200 | wolinskij | Jonathan Wolinski | 43 | 74 | 3 | 120 |
 | 29 | 199 | rayankdm | Rayan Kamdem | 50 | 70 | 3 | 123 |
-| 30 | 188 | alexdnl | Alex Lee | 29 | 69 | 7 | 105 |
+| 30 | 190 | alexdnl | Alex Lee | 29 | 70 | 7 | 106 |
 | 31 | 116 | DmytroCrawford | Dmytro Crawford | 41 | 36 | 1 | 78 |
 | 32 | 111 | zhangliangmalatang | Leo Liu | 13 | 43 | 4 | 60 |
 | 33 | 26 | divyaponda | Divya Ponda | 24 | 1 | 0 | 25 |
