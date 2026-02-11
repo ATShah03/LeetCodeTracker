@@ -7,7 +7,7 @@
 
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
-| 🥇 1 | 861 | brinco | Brian Lee | 103 | 310 | 46 | 459 |
+| 🥇 1 | 863 | brinco | Brian Lee | 103 | 311 | 46 | 460 |
 | 🥈 2 | 859 | AB1015 | Aditya Bodanapu | 86 | 277 | 73 | 436 |
 | 🥉 3 | 844 | ashwin_a_kumar | Ashwin Kumar | 185 | 295 | 23 | 503 |
 | 4 | 827 | mj3061 | Michael Jiang | 116 | 285 | 47 | 448 |
@@ -23,7 +23,7 @@
 | 14 | 433 | shah_aryan1 | Aryan Shah | 95 | 136 | 22 | 253 |
 | 15 | 425 | jessicaa_zhang | Jessica Zhang | 76 | 146 | 19 | 241 |
 | 16 | 408 | nishtothekish | Nikhil Vaidyanathan | 43 | 52 | 87 | 182 |
-| 17 | 390 | ohmp7 | Ohm Patel | 61 | 136 | 19 | 216 |
+| 17 | 393 | ohmp7 | Ohm Patel | 61 | 136 | 20 | 217 |
 | 18 | 362 | ericzhao16 | Eric Zhao | 60 | 136 | 10 | 206 |
 | 19 | 359 | RGBmarya | Mihir Arya | 57 | 118 | 22 | 197 |
 | 20 | 348 | enumerative | Peter Wu | 62 | 122 | 14 | 198 |
