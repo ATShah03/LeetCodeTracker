@@ -28,7 +28,7 @@
 | 19 | 359 | RGBmarya | Mihir Arya | 57 | 118 | 22 | 197 |
 | 20 | 358 | enumerative | Peter Wu | 62 | 127 | 14 | 203 |
 | 21 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
-| 22 | 322 | zyoonkim | Zach Yoon-Kim | 93 | 95 | 13 | 201 |
+| 22 | 325 | zyoonkim | Zach Yoon-Kim | 94 | 96 | 13 | 203 |
 | 23 | 313 | lfuchia | Lance Fuchia | 30 | 131 | 7 | 168 |
 | 24 | 312 | KaelWu | Kael Wu | 37 | 106 | 21 | 164 |
 | 25 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
