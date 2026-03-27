@@ -25,7 +25,7 @@
 | 16 | 408 | nishtothekish | Nikhil Vaidyanathan | 43 | 52 | 87 | 182 |
 | 17 | 393 | ohmp7 | Ohm Patel | 61 | 136 | 20 | 217 |
 | 18 | 366 | ericzhao16 | Eric Zhao | 60 | 138 | 10 | 208 |
-| 19 | 364 | enumerative | Peter Wu | 63 | 128 | 15 | 206 |
+| 19 | 365 | enumerative | Peter Wu | 64 | 128 | 15 | 207 |
 | 20 | 359 | RGBmarya | Mihir Arya | 57 | 118 | 22 | 197 |
 | 21 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
 | 22 | 325 | zyoonkim | Zach Yoon-Kim | 94 | 96 | 13 | 203 |
