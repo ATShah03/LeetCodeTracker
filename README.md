@@ -29,7 +29,7 @@
 | 20 | 359 | RGBmarya | Mihir Arya | 57 | 118 | 22 | 197 |
 | 21 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
 | 22 | 325 | zyoonkim | Zach Yoon-Kim | 94 | 96 | 13 | 203 |
-| 23 | 317 | KaelWu | Kael Wu | 38 | 108 | 21 | 167 |
+| 23 | 320 | KaelWu | Kael Wu | 38 | 108 | 22 | 168 |
 | 24 | 313 | lfuchia | Lance Fuchia | 30 | 131 | 7 | 168 |
 | 25 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 26 | 303 | justinbabe019 | Angie Leong | 85 | 100 | 6 | 191 |
