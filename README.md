@@ -10,7 +10,7 @@
 | 🥇 1 | 866 | brinco | Brian Lee | 104 | 312 | 46 | 462 |
 | 🥈 2 | 861 | AB1015 | Aditya Bodanapu | 86 | 278 | 73 | 437 |
 | 🥉 3 | 849 | ashwin_a_kumar | Ashwin Kumar | 186 | 297 | 23 | 506 |
-| 4 | 829 | mj3061 | Michael Jiang | 116 | 286 | 47 | 449 |
+| 4 | 831 | mj3061 | Michael Jiang | 116 | 287 | 47 | 450 |
 | 5 | 725 | arnsh | Arnav Shah | 85 | 236 | 56 | 377 |
 | 6 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 7 | 654 | shreypatel703 | Shrey Patel | 85 | 241 | 29 | 355 |
