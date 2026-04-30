@@ -33,11 +33,12 @@
 | 24 | 313 | lfuchia | Lance Fuchia | 30 | 131 | 7 | 168 |
 | 25 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 26 | 303 | justinbabe019 | Angie Leong | 85 | 100 | 6 | 191 |
-| 27 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
-| 28 | 200 | wolinskij | Jonathan Wolinski | 43 | 74 | 3 | 120 |
-| 29 | 199 | rayankdm | Rayan Kamdem | 50 | 70 | 3 | 123 |
-| 30 | 190 | alexdnl | Alex Lee | 29 | 70 | 7 | 106 |
-| 31 | 116 | DmytroCrawford | Dmytro Crawford | 41 | 36 | 1 | 78 |
-| 32 | 111 | zhangliangmalatang | Leo Liu | 13 | 43 | 4 | 60 |
-| 33 | 26 | divyaponda | Divya Ponda | 24 | 1 | 0 | 25 |
+| 27 | 299 | vijay_n7 | Vijay Nannapuraju | 137 | 72 | 6 | 215 |
+| 28 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
+| 29 | 200 | wolinskij | Jonathan Wolinski | 43 | 74 | 3 | 120 |
+| 30 | 199 | rayankdm | Rayan Kamdem | 50 | 70 | 3 | 123 |
+| 31 | 190 | alexdnl | Alex Lee | 29 | 70 | 7 | 106 |
+| 32 | 116 | DmytroCrawford | Dmytro Crawford | 41 | 36 | 1 | 78 |
+| 33 | 111 | zhangliangmalatang | Leo Liu | 13 | 43 | 4 | 60 |
+| 34 | 26 | divyaponda | Divya Ponda | 24 | 1 | 0 | 25 |
 ---
