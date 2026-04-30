@@ -10,7 +10,7 @@
 | 🥇 1 | 866 | brinco | Brian Lee | 104 | 312 | 46 | 462 |
 | 🥈 2 | 861 | AB1015 | Aditya Bodanapu | 86 | 278 | 73 | 437 |
 | 🥉 3 | 849 | ashwin_a_kumar | Ashwin Kumar | 186 | 297 | 23 | 506 |
-| 4 | 831 | mj3061 | Michael Jiang | 116 | 287 | 47 | 450 |
+| 4 | 833 | mj3061 | Michael Jiang | 116 | 288 | 47 | 451 |
 | 5 | 725 | arnsh | Arnav Shah | 85 | 236 | 56 | 377 |
 | 6 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 7 | 654 | shreypatel703 | Shrey Patel | 85 | 241 | 29 | 355 |
@@ -33,7 +33,7 @@
 | 24 | 313 | lfuchia | Lance Fuchia | 30 | 131 | 7 | 168 |
 | 25 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 26 | 303 | justinbabe019 | Angie Leong | 85 | 100 | 6 | 191 |
-| 27 | 299 | vijay_n7 | Vijay Nannapuraju | 137 | 72 | 6 | 215 |
+| 27 | 301 | vijay_n7 | Vijay Nannapuraju | 137 | 73 | 6 | 216 |
 | 28 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 29 | 200 | wolinskij | Jonathan Wolinski | 43 | 74 | 3 | 120 |
 | 30 | 199 | rayankdm | Rayan Kamdem | 50 | 70 | 3 | 123 |
