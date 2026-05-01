@@ -32,7 +32,7 @@
 | 23 | 320 | KaelWu | Kael Wu | 38 | 108 | 22 | 168 |
 | 24 | 313 | lfuchia | Lance Fuchia | 30 | 131 | 7 | 168 |
 | 25 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
-| 26 | 305 | vijay_n7 | Vijay Nannapuraju | 137 | 75 | 6 | 218 |
+| 26 | 309 | vijay_n7 | Vijay Nannapuraju | 137 | 77 | 6 | 220 |
 | 27 | 303 | justinbabe019 | Angie Leong | 85 | 100 | 6 | 191 |
 | 28 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
 | 29 | 200 | wolinskij | Jonathan Wolinski | 43 | 74 | 3 | 120 |
