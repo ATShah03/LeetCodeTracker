@@ -8,7 +8,7 @@
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 866 | brinco | Brian Lee | 104 | 312 | 46 | 462 |
-| 🥈 2 | 862 | AB1015 | Aditya Bodanapu | 87 | 278 | 73 | 438 |
+| 🥈 2 | 866 | AB1015 | Aditya Bodanapu | 87 | 280 | 73 | 440 |
 | 🥉 3 | 849 | ashwin_a_kumar | Ashwin Kumar | 186 | 297 | 23 | 506 |
 | 4 | 839 | mj3061 | Michael Jiang | 118 | 290 | 47 | 455 |
 | 5 | 725 | arnsh | Arnav Shah | 85 | 236 | 56 | 377 |
