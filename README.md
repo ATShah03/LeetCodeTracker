@@ -8,7 +8,7 @@
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 866 | brinco | Brian Lee | 104 | 312 | 46 | 462 |
-| 🥈 2 | 861 | AB1015 | Aditya Bodanapu | 86 | 278 | 73 | 437 |
+| 🥈 2 | 862 | AB1015 | Aditya Bodanapu | 87 | 278 | 73 | 438 |
 | 🥉 3 | 849 | ashwin_a_kumar | Ashwin Kumar | 186 | 297 | 23 | 506 |
 | 4 | 839 | mj3061 | Michael Jiang | 118 | 290 | 47 | 455 |
 | 5 | 725 | arnsh | Arnav Shah | 85 | 236 | 56 | 377 |
@@ -28,9 +28,9 @@
 | 19 | 365 | enumerative | Peter Wu | 64 | 128 | 15 | 207 |
 | 20 | 361 | zyoonkim | Zach Yoon-Kim | 108 | 107 | 13 | 228 |
 | 21 | 359 | RGBmarya | Mihir Arya | 57 | 118 | 22 | 197 |
-| 22 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
-| 23 | 320 | KaelWu | Kael Wu | 38 | 108 | 22 | 168 |
-| 24 | 317 | vijay_n7 | Vijay Nannapuraju | 139 | 80 | 6 | 225 |
+| 22 | 327 | vijay_n7 | Vijay Nannapuraju | 139 | 82 | 8 | 229 |
+| 23 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
+| 24 | 320 | KaelWu | Kael Wu | 38 | 108 | 22 | 168 |
 | 25 | 313 | lfuchia | Lance Fuchia | 30 | 131 | 7 | 168 |
 | 26 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 27 | 303 | justinbabe019 | Angie Leong | 85 | 100 | 6 | 191 |
