@@ -7,8 +7,8 @@
 
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
-| 🥇 1 | 866 | brinco | Brian Lee | 104 | 312 | 46 | 462 |
-| 🥈 2 | 866 | AB1015 | Aditya Bodanapu | 87 | 280 | 73 | 440 |
+| 🥇 1 | 868 | AB1015 | Aditya Bodanapu | 87 | 281 | 73 | 441 |
+| 🥈 2 | 866 | brinco | Brian Lee | 104 | 312 | 46 | 462 |
 | 🥉 3 | 849 | ashwin_a_kumar | Ashwin Kumar | 186 | 297 | 23 | 506 |
 | 4 | 839 | mj3061 | Michael Jiang | 118 | 290 | 47 | 455 |
 | 5 | 725 | arnsh | Arnav Shah | 85 | 236 | 56 | 377 |
@@ -25,20 +25,21 @@
 | 16 | 425 | jessicaa_zhang | Jessica Zhang | 76 | 146 | 19 | 241 |
 | 17 | 408 | nishtothekish | Nikhil Vaidyanathan | 43 | 52 | 87 | 182 |
 | 18 | 393 | ohmp7 | Ohm Patel | 61 | 136 | 20 | 217 |
-| 19 | 366 | ericzhao16 | Eric Zhao | 60 | 138 | 10 | 208 |
-| 20 | 365 | enumerative | Peter Wu | 64 | 128 | 15 | 207 |
-| 21 | 359 | RGBmarya | Mihir Arya | 57 | 118 | 22 | 197 |
-| 22 | 327 | vijay_n7 | Vijay Nannapuraju | 139 | 82 | 8 | 229 |
-| 23 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
-| 24 | 320 | KaelWu | Kael Wu | 38 | 108 | 22 | 168 |
-| 25 | 313 | lfuchia | Lance Fuchia | 30 | 131 | 7 | 168 |
-| 26 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
-| 27 | 303 | justinbabe019 | Angie Leong | 85 | 100 | 6 | 191 |
-| 28 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
-| 29 | 200 | wolinskij | Jonathan Wolinski | 43 | 74 | 3 | 120 |
-| 30 | 199 | rayankdm | Rayan Kamdem | 50 | 70 | 3 | 123 |
-| 31 | 190 | alexdnl | Alex Lee | 29 | 70 | 7 | 106 |
-| 32 | 116 | DmytroCrawford | Dmytro Crawford | 41 | 36 | 1 | 78 |
-| 33 | 111 | zhangliangmalatang | Leo Liu | 13 | 43 | 4 | 60 |
-| 34 | 26 | divyaponda | Divya Ponda | 24 | 1 | 0 | 25 |
+| 19 | 376 | anuawesome | Anish Jain | 107 | 133 | 1 | 241 |
+| 20 | 366 | ericzhao16 | Eric Zhao | 60 | 138 | 10 | 208 |
+| 21 | 365 | enumerative | Peter Wu | 64 | 128 | 15 | 207 |
+| 22 | 359 | RGBmarya | Mihir Arya | 57 | 118 | 22 | 197 |
+| 23 | 327 | vijay_n7 | Vijay Nannapuraju | 139 | 82 | 8 | 229 |
+| 24 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
+| 25 | 320 | KaelWu | Kael Wu | 38 | 108 | 22 | 168 |
+| 26 | 313 | lfuchia | Lance Fuchia | 30 | 131 | 7 | 168 |
+| 27 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
+| 28 | 303 | justinbabe019 | Angie Leong | 85 | 100 | 6 | 191 |
+| 29 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
+| 30 | 200 | wolinskij | Jonathan Wolinski | 43 | 74 | 3 | 120 |
+| 31 | 199 | rayankdm | Rayan Kamdem | 50 | 70 | 3 | 123 |
+| 32 | 190 | alexdnl | Alex Lee | 29 | 70 | 7 | 106 |
+| 33 | 116 | DmytroCrawford | Dmytro Crawford | 41 | 36 | 1 | 78 |
+| 34 | 111 | zhangliangmalatang | Leo Liu | 13 | 43 | 4 | 60 |
+| 35 | 26 | divyaponda | Divya Ponda | 24 | 1 | 0 | 25 |
 ---
