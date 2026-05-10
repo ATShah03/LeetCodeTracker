@@ -30,8 +30,8 @@
 | 21 | 365 | enumerative | Peter Wu | 64 | 128 | 15 | 207 |
 | 22 | 359 | RGBmarya | Mihir Arya | 57 | 118 | 22 | 197 |
 | 23 | 339 | vijay_n7 | Vijay Nannapuraju | 142 | 85 | 9 | 236 |
-| 24 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
-| 25 | 323 | KaelWu | Kael Wu | 41 | 108 | 22 | 171 |
+| 24 | 328 | KaelWu | Kael Wu | 44 | 109 | 22 | 175 |
+| 25 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
 | 26 | 313 | lfuchia | Lance Fuchia | 30 | 131 | 7 | 168 |
 | 27 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 28 | 303 | justinbabe019 | Angie Leong | 85 | 100 | 6 | 191 |
