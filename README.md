@@ -20,7 +20,7 @@
 | 11 | 490 | QuantumMechanics123 | Aadit Jain | 67 | 180 | 21 | 268 |
 | 12 | 482 | devk03 | Dev Kunjadia | 87 | 181 | 11 | 279 |
 | 13 | 473 | wlvrd | Nick Walvoord | 70 | 173 | 19 | 262 |
-| 14 | 444 | zyoonkim | Zach Yoon-Kim | 119 | 137 | 17 | 273 |
+| 14 | 445 | zyoonkim | Zach Yoon-Kim | 120 | 137 | 17 | 274 |
 | 15 | 433 | shah_aryan1 | Aryan Shah | 95 | 136 | 22 | 253 |
 | 16 | 425 | jessicaa_zhang | Jessica Zhang | 76 | 146 | 19 | 241 |
 | 17 | 408 | nishtothekish | Nikhil Vaidyanathan | 43 | 52 | 87 | 182 |
