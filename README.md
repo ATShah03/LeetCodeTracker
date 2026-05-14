@@ -7,7 +7,7 @@
 
 | Rank | Score | Username       | Name | Easy | Medium | Hard | Problems Solved |
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
-| 🥇 1 | 907 | AB1015 | Aditya Bodanapu | 87 | 293 | 78 | 458 |
+| 🥇 1 | 912 | AB1015 | Aditya Bodanapu | 88 | 295 | 78 | 461 |
 | 🥈 2 | 866 | brinco | Brian Lee | 104 | 312 | 46 | 462 |
 | 🥉 3 | 849 | ashwin_a_kumar | Ashwin Kumar | 186 | 297 | 23 | 506 |
 | 4 | 839 | mj3061 | Michael Jiang | 118 | 290 | 47 | 455 |
@@ -25,7 +25,7 @@
 | 16 | 425 | jessicaa_zhang | Jessica Zhang | 76 | 146 | 19 | 241 |
 | 17 | 408 | nishtothekish | Nikhil Vaidyanathan | 43 | 52 | 87 | 182 |
 | 18 | 393 | ohmp7 | Ohm Patel | 61 | 136 | 20 | 217 |
-| 19 | 378 | anuawesome | Anish Jain | 107 | 134 | 1 | 242 |
+| 19 | 380 | anuawesome | Anish Jain | 107 | 135 | 1 | 243 |
 | 20 | 366 | ericzhao16 | Eric Zhao | 60 | 138 | 10 | 208 |
 | 21 | 365 | enumerative | Peter Wu | 64 | 128 | 15 | 207 |
 | 22 | 359 | RGBmarya | Mihir Arya | 57 | 118 | 22 | 197 |
