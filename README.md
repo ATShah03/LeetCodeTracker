@@ -19,7 +19,7 @@
 | 10 | 496 | Flytre | Aaron Rahman | 57 | 158 | 41 | 256 |
 | 11 | 490 | QuantumMechanics123 | Aadit Jain | 67 | 180 | 21 | 268 |
 | 12 | 482 | devk03 | Dev Kunjadia | 87 | 181 | 11 | 279 |
-| 13 | 473 | wlvrd | Nick Walvoord | 70 | 173 | 19 | 262 |
+| 13 | 475 | wlvrd | Nick Walvoord | 70 | 174 | 19 | 263 |
 | 14 | 457 | zyoonkim | Zach Yoon-Kim | 121 | 141 | 18 | 280 |
 | 15 | 433 | shah_aryan1 | Aryan Shah | 95 | 136 | 22 | 253 |
 | 16 | 425 | jessicaa_zhang | Jessica Zhang | 76 | 146 | 19 | 241 |
@@ -30,7 +30,7 @@
 | 21 | 365 | enumerative | Peter Wu | 64 | 128 | 15 | 207 |
 | 22 | 359 | RGBmarya | Mihir Arya | 57 | 118 | 22 | 197 |
 | 23 | 349 | vijay_n7 | Vijay Nannapuraju | 142 | 90 | 9 | 241 |
-| 24 | 330 | KaelWu | Kael Wu | 44 | 110 | 22 | 176 |
+| 24 | 332 | KaelWu | Kael Wu | 44 | 111 | 22 | 177 |
 | 25 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
 | 26 | 313 | lfuchia | Lance Fuchia | 30 | 131 | 7 | 168 |
 | 27 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
