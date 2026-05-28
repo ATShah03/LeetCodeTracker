@@ -19,8 +19,8 @@
 | 10 | 498 | zyoonkim | Zach Yoon-Kim | 128 | 158 | 18 | 304 |
 | 11 | 496 | Flytre | Aaron Rahman | 57 | 158 | 41 | 256 |
 | 12 | 490 | QuantumMechanics123 | Aadit Jain | 67 | 180 | 21 | 268 |
-| 13 | 482 | devk03 | Dev Kunjadia | 87 | 181 | 11 | 279 |
-| 14 | 480 | wlvrd | Nick Walvoord | 70 | 175 | 20 | 265 |
+| 13 | 483 | wlvrd | Nick Walvoord | 70 | 175 | 21 | 266 |
+| 14 | 482 | devk03 | Dev Kunjadia | 87 | 181 | 11 | 279 |
 | 15 | 433 | shah_aryan1 | Aryan Shah | 95 | 136 | 22 | 253 |
 | 16 | 425 | jessicaa_zhang | Jessica Zhang | 76 | 146 | 19 | 241 |
 | 17 | 408 | nishtothekish | Nikhil Vaidyanathan | 43 | 52 | 87 | 182 |
