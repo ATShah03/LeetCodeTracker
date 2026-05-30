@@ -23,7 +23,7 @@
 | 14 | 482 | devk03 | Dev Kunjadia | 87 | 181 | 11 | 279 |
 | 15 | 433 | shah_aryan1 | Aryan Shah | 95 | 136 | 22 | 253 |
 | 16 | 425 | jessicaa_zhang | Jessica Zhang | 76 | 146 | 19 | 241 |
-| 17 | 414 | vijay_n7 | Vijay Nannapuraju | 147 | 102 | 21 | 270 |
+| 17 | 416 | vijay_n7 | Vijay Nannapuraju | 147 | 103 | 21 | 271 |
 | 18 | 408 | nishtothekish | Nikhil Vaidyanathan | 43 | 52 | 87 | 182 |
 | 19 | 398 | anuawesome | Anish Jain | 107 | 141 | 3 | 251 |
 | 20 | 393 | ohmp7 | Ohm Patel | 61 | 136 | 20 | 217 |
