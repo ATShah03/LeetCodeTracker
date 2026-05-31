@@ -19,7 +19,7 @@
 | 10 | 503 | zyoonkim | Zach Yoon-Kim | 129 | 160 | 18 | 307 |
 | 11 | 496 | Flytre | Aaron Rahman | 57 | 158 | 41 | 256 |
 | 12 | 490 | QuantumMechanics123 | Aadit Jain | 67 | 180 | 21 | 268 |
-| 13 | 483 | wlvrd | Nick Walvoord | 70 | 175 | 21 | 266 |
+| 13 | 486 | wlvrd | Nick Walvoord | 70 | 175 | 22 | 267 |
 | 14 | 482 | devk03 | Dev Kunjadia | 87 | 181 | 11 | 279 |
 | 15 | 455 | vijay_n7 | Vijay Nannapuraju | 150 | 115 | 25 | 290 |
 | 16 | 433 | shah_aryan1 | Aryan Shah | 95 | 136 | 22 | 253 |
