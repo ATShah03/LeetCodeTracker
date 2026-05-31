@@ -21,11 +21,11 @@
 | 12 | 490 | QuantumMechanics123 | Aadit Jain | 67 | 180 | 21 | 268 |
 | 13 | 483 | wlvrd | Nick Walvoord | 70 | 175 | 21 | 266 |
 | 14 | 482 | devk03 | Dev Kunjadia | 87 | 181 | 11 | 279 |
-| 15 | 439 | vijay_n7 | Vijay Nannapuraju | 148 | 108 | 25 | 281 |
+| 15 | 455 | vijay_n7 | Vijay Nannapuraju | 150 | 115 | 25 | 290 |
 | 16 | 433 | shah_aryan1 | Aryan Shah | 95 | 136 | 22 | 253 |
 | 17 | 425 | jessicaa_zhang | Jessica Zhang | 76 | 146 | 19 | 241 |
 | 18 | 408 | nishtothekish | Nikhil Vaidyanathan | 43 | 52 | 87 | 182 |
-| 19 | 398 | anuawesome | Anish Jain | 107 | 141 | 3 | 251 |
+| 19 | 405 | anuawesome | Anish Jain | 107 | 143 | 4 | 254 |
 | 20 | 393 | ohmp7 | Ohm Patel | 61 | 136 | 20 | 217 |
 | 21 | 366 | ericzhao16 | Eric Zhao | 60 | 138 | 10 | 208 |
 | 22 | 365 | enumerative | Peter Wu | 64 | 128 | 15 | 207 |
