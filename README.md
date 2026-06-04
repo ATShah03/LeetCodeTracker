@@ -15,13 +15,13 @@
 | 6 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 7 | 654 | shreypatel703 | Shrey Patel | 85 | 241 | 29 | 355 |
 | 8 | 619 | adavidwu | David Wu | 86 | 193 | 49 | 328 |
-| 9 | 554 | zyoonkim | Zach Yoon-Kim | 130 | 185 | 18 | 333 |
+| 9 | 568 | zyoonkim | Zach Yoon-Kim | 130 | 192 | 18 | 340 |
 | 10 | 539 | shadowion | Ihsaan Yasin | 107 | 180 | 24 | 311 |
 | 11 | 496 | Flytre | Aaron Rahman | 57 | 158 | 41 | 256 |
 | 12 | 490 | wlvrd | Nick Walvoord | 71 | 175 | 23 | 269 |
 | 13 | 490 | QuantumMechanics123 | Aadit Jain | 67 | 180 | 21 | 268 |
-| 14 | 482 | devk03 | Dev Kunjadia | 87 | 181 | 11 | 279 |
-| 15 | 474 | vijay_n7 | Vijay Nannapuraju | 152 | 122 | 26 | 300 |
+| 14 | 488 | vijay_n7 | Vijay Nannapuraju | 152 | 129 | 26 | 307 |
+| 15 | 482 | devk03 | Dev Kunjadia | 87 | 181 | 11 | 279 |
 | 16 | 433 | shah_aryan1 | Aryan Shah | 95 | 136 | 22 | 253 |
 | 17 | 425 | jessicaa_zhang | Jessica Zhang | 76 | 146 | 19 | 241 |
 | 18 | 408 | nishtothekish | Nikhil Vaidyanathan | 43 | 52 | 87 | 182 |
