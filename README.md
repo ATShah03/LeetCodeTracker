@@ -19,8 +19,8 @@
 | 10 | 539 | shadowion | Ihsaan Yasin | 107 | 180 | 24 | 311 |
 | 11 | 496 | Flytre | Aaron Rahman | 57 | 158 | 41 | 256 |
 | 12 | 493 | wlvrd | Nick Walvoord | 71 | 175 | 24 | 270 |
-| 13 | 490 | QuantumMechanics123 | Aadit Jain | 67 | 180 | 21 | 268 |
-| 14 | 490 | vijay_n7 | Vijay Nannapuraju | 152 | 130 | 26 | 308 |
+| 13 | 492 | vijay_n7 | Vijay Nannapuraju | 152 | 131 | 26 | 309 |
+| 14 | 490 | QuantumMechanics123 | Aadit Jain | 67 | 180 | 21 | 268 |
 | 15 | 482 | devk03 | Dev Kunjadia | 87 | 181 | 11 | 279 |
 | 16 | 433 | shah_aryan1 | Aryan Shah | 95 | 136 | 22 | 253 |
 | 17 | 425 | jessicaa_zhang | Jessica Zhang | 76 | 146 | 19 | 241 |
