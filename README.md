@@ -15,7 +15,7 @@
 | 6 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 7 | 654 | shreypatel703 | Shrey Patel | 85 | 241 | 29 | 355 |
 | 8 | 619 | adavidwu | David Wu | 86 | 193 | 49 | 328 |
-| 9 | 540 | zyoonkim | Zach Yoon-Kim | 130 | 178 | 18 | 326 |
+| 9 | 554 | zyoonkim | Zach Yoon-Kim | 130 | 185 | 18 | 333 |
 | 10 | 539 | shadowion | Ihsaan Yasin | 107 | 180 | 24 | 311 |
 | 11 | 496 | Flytre | Aaron Rahman | 57 | 158 | 41 | 256 |
 | 12 | 490 | wlvrd | Nick Walvoord | 71 | 175 | 23 | 269 |
