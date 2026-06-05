@@ -15,7 +15,7 @@
 | 6 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 7 | 654 | shreypatel703 | Shrey Patel | 85 | 241 | 29 | 355 |
 | 8 | 619 | adavidwu | David Wu | 86 | 193 | 49 | 328 |
-| 9 | 568 | zyoonkim | Zach Yoon-Kim | 130 | 192 | 18 | 340 |
+| 9 | 582 | zyoonkim | Zach Yoon-Kim | 138 | 195 | 18 | 351 |
 | 10 | 539 | shadowion | Ihsaan Yasin | 107 | 180 | 24 | 311 |
 | 11 | 498 | vijay_n7 | Vijay Nannapuraju | 152 | 134 | 26 | 312 |
 | 12 | 496 | Flytre | Aaron Rahman | 57 | 158 | 41 | 256 |
@@ -26,7 +26,7 @@
 | 17 | 425 | jessicaa_zhang | Jessica Zhang | 76 | 146 | 19 | 241 |
 | 18 | 408 | nishtothekish | Nikhil Vaidyanathan | 43 | 52 | 87 | 182 |
 | 19 | 407 | anuawesome | Anish Jain | 107 | 144 | 4 | 255 |
-| 20 | 393 | ohmp7 | Ohm Patel | 61 | 136 | 20 | 217 |
+| 20 | 395 | ohmp7 | Ohm Patel | 61 | 137 | 20 | 218 |
 | 21 | 366 | ericzhao16 | Eric Zhao | 60 | 138 | 10 | 208 |
 | 22 | 365 | enumerative | Peter Wu | 64 | 128 | 15 | 207 |
 | 23 | 359 | RGBmarya | Mihir Arya | 57 | 118 | 22 | 197 |
