@@ -24,7 +24,7 @@
 | 15 | 482 | devk03 | Dev Kunjadia | 87 | 181 | 11 | 279 |
 | 16 | 433 | shah_aryan1 | Aryan Shah | 95 | 136 | 22 | 253 |
 | 17 | 425 | jessicaa_zhang | Jessica Zhang | 76 | 146 | 19 | 241 |
-| 18 | 412 | ohmp7 | Ohm Patel | 61 | 141 | 23 | 225 |
+| 18 | 418 | ohmp7 | Ohm Patel | 61 | 141 | 25 | 227 |
 | 19 | 409 | anuawesome | Anish Jain | 107 | 145 | 4 | 256 |
 | 20 | 408 | nishtothekish | Nikhil Vaidyanathan | 43 | 52 | 87 | 182 |
 | 21 | 366 | ericzhao16 | Eric Zhao | 60 | 138 | 10 | 208 |
@@ -36,8 +36,8 @@
 | 27 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 28 | 303 | justinbabe019 | Angie Leong | 85 | 100 | 6 | 191 |
 | 29 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
-| 30 | 200 | wolinskij | Jonathan Wolinski | 43 | 74 | 3 | 120 |
-| 31 | 199 | rayankdm | Rayan Kamdem | 50 | 70 | 3 | 123 |
+| 30 | 201 | rayankdm | Rayan Kamdem | 50 | 71 | 3 | 124 |
+| 31 | 200 | wolinskij | Jonathan Wolinski | 43 | 74 | 3 | 120 |
 | 32 | 190 | alexdnl | Alex Lee | 29 | 70 | 7 | 106 |
 | 33 | 116 | DmytroCrawford | Dmytro Crawford | 41 | 36 | 1 | 78 |
 | 34 | 111 | zhangliangmalatang | Leo Liu | 13 | 43 | 4 | 60 |
