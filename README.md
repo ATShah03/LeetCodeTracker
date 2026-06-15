@@ -25,7 +25,7 @@
 | 16 | 433 | shah_aryan1 | Aryan Shah | 95 | 136 | 22 | 253 |
 | 17 | 425 | jessicaa_zhang | Jessica Zhang | 76 | 146 | 19 | 241 |
 | 18 | 418 | ohmp7 | Ohm Patel | 61 | 141 | 25 | 227 |
-| 19 | 413 | anuawesome | Anish Jain | 107 | 147 | 4 | 258 |
+| 19 | 416 | anuawesome | Anish Jain | 107 | 147 | 5 | 259 |
 | 20 | 408 | nishtothekish | Nikhil Vaidyanathan | 43 | 52 | 87 | 182 |
 | 21 | 366 | ericzhao16 | Eric Zhao | 60 | 138 | 10 | 208 |
 | 22 | 365 | enumerative | Peter Wu | 64 | 128 | 15 | 207 |
