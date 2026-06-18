@@ -16,7 +16,7 @@
 | 7 | 693 | zyoonkim | Zach Yoon-Kim | 152 | 233 | 25 | 410 |
 | 8 | 654 | shreypatel703 | Shrey Patel | 85 | 241 | 29 | 355 |
 | 9 | 622 | adavidwu | David Wu | 87 | 194 | 49 | 330 |
-| 10 | 591 | vijay_n7 | Vijay Nannapuraju | 153 | 177 | 28 | 358 |
+| 10 | 600 | vijay_n7 | Vijay Nannapuraju | 153 | 180 | 29 | 362 |
 | 11 | 539 | shadowion | Ihsaan Yasin | 107 | 180 | 24 | 311 |
 | 12 | 496 | Flytre | Aaron Rahman | 57 | 158 | 41 | 256 |
 | 13 | 493 | wlvrd | Nick Walvoord | 71 | 175 | 24 | 270 |
@@ -30,7 +30,7 @@
 | 21 | 366 | ericzhao16 | Eric Zhao | 60 | 138 | 10 | 208 |
 | 22 | 365 | enumerative | Peter Wu | 64 | 128 | 15 | 207 |
 | 23 | 359 | RGBmarya | Mihir Arya | 57 | 118 | 22 | 197 |
-| 24 | 332 | KaelWu | Kael Wu | 44 | 111 | 22 | 177 |
+| 24 | 334 | KaelWu | Kael Wu | 44 | 112 | 22 | 178 |
 | 25 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
 | 26 | 313 | lfuchia | Lance Fuchia | 30 | 131 | 7 | 168 |
 | 27 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
