@@ -13,9 +13,9 @@
 | 4 | 839 | mj3061 | Michael Jiang | 118 | 290 | 47 | 455 |
 | 5 | 725 | arnsh | Arnav Shah | 85 | 236 | 56 | 377 |
 | 6 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
-| 7 | 698 | zyoonkim | Zach Yoon-Kim | 155 | 234 | 25 | 414 |
+| 7 | 700 | zyoonkim | Zach Yoon-Kim | 155 | 235 | 25 | 415 |
 | 8 | 654 | shreypatel703 | Shrey Patel | 85 | 241 | 29 | 355 |
-| 9 | 637 | vijay_n7 | Vijay Nannapuraju | 153 | 194 | 32 | 379 |
+| 9 | 639 | vijay_n7 | Vijay Nannapuraju | 153 | 195 | 32 | 380 |
 | 10 | 622 | adavidwu | David Wu | 87 | 194 | 49 | 330 |
 | 11 | 539 | shadowion | Ihsaan Yasin | 107 | 180 | 24 | 311 |
 | 12 | 496 | Flytre | Aaron Rahman | 57 | 158 | 41 | 256 |
