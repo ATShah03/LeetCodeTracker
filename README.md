@@ -11,11 +11,11 @@
 | 🥈 2 | 866 | brinco | Brian Lee | 104 | 312 | 46 | 462 |
 | 🥉 3 | 849 | ashwin_a_kumar | Ashwin Kumar | 186 | 297 | 23 | 506 |
 | 4 | 839 | mj3061 | Michael Jiang | 118 | 290 | 47 | 455 |
-| 5 | 725 | arnsh | Arnav Shah | 85 | 236 | 56 | 377 |
-| 6 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
-| 7 | 719 | zyoonkim | Zach Yoon-Kim | 174 | 235 | 25 | 434 |
+| 5 | 738 | zyoonkim | Zach Yoon-Kim | 193 | 235 | 25 | 453 |
+| 6 | 725 | arnsh | Arnav Shah | 85 | 236 | 56 | 377 |
+| 7 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 8 | 654 | shreypatel703 | Shrey Patel | 85 | 241 | 29 | 355 |
-| 9 | 639 | vijay_n7 | Vijay Nannapuraju | 153 | 195 | 32 | 380 |
+| 9 | 643 | vijay_n7 | Vijay Nannapuraju | 153 | 197 | 32 | 382 |
 | 10 | 622 | adavidwu | David Wu | 87 | 194 | 49 | 330 |
 | 11 | 539 | shadowion | Ihsaan Yasin | 107 | 180 | 24 | 311 |
 | 12 | 496 | Flytre | Aaron Rahman | 57 | 158 | 41 | 256 |
