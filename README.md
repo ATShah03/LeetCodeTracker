@@ -11,7 +11,7 @@
 | 🥈 2 | 866 | brinco | Brian Lee | 104 | 312 | 46 | 462 |
 | 🥉 3 | 849 | ashwin_a_kumar | Ashwin Kumar | 186 | 297 | 23 | 506 |
 | 4 | 839 | mj3061 | Michael Jiang | 118 | 290 | 47 | 455 |
-| 5 | 773 | zyoonkim | Zach Yoon-Kim | 208 | 245 | 25 | 478 |
+| 5 | 775 | zyoonkim | Zach Yoon-Kim | 208 | 246 | 25 | 479 |
 | 6 | 725 | arnsh | Arnav Shah | 85 | 236 | 56 | 377 |
 | 7 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 8 | 679 | vijay_n7 | Vijay Nannapuraju | 153 | 215 | 32 | 400 |
