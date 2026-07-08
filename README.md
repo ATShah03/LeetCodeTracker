@@ -30,7 +30,7 @@
 | 21 | 366 | ericzhao16 | Eric Zhao | 60 | 138 | 10 | 208 |
 | 22 | 365 | enumerative | Peter Wu | 64 | 128 | 15 | 207 |
 | 23 | 359 | RGBmarya | Mihir Arya | 57 | 118 | 22 | 197 |
-| 24 | 334 | KaelWu | Kael Wu | 44 | 112 | 22 | 178 |
+| 24 | 339 | KaelWu | Kael Wu | 44 | 113 | 23 | 180 |
 | 25 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
 | 26 | 313 | lfuchia | Lance Fuchia | 30 | 131 | 7 | 168 |
 | 27 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
