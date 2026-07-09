@@ -14,7 +14,7 @@
 | 5 | 787 | zyoonkim | Zach Yoon-Kim | 212 | 250 | 25 | 487 |
 | 6 | 725 | arnsh | Arnav Shah | 85 | 236 | 56 | 377 |
 | 7 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
-| 8 | 692 | vijay_n7 | Vijay Nannapuraju | 153 | 220 | 33 | 406 |
+| 8 | 695 | vijay_n7 | Vijay Nannapuraju | 153 | 220 | 34 | 407 |
 | 9 | 654 | shreypatel703 | Shrey Patel | 85 | 241 | 29 | 355 |
 | 10 | 637 | adavidwu | David Wu | 87 | 200 | 50 | 337 |
 | 11 | 539 | shadowion | Ihsaan Yasin | 107 | 180 | 24 | 311 |
@@ -36,7 +36,7 @@
 | 27 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 28 | 303 | justinbabe019 | Angie Leong | 85 | 100 | 6 | 191 |
 | 29 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
-| 30 | 203 | rayankdm | Rayan Kamdem | 52 | 71 | 3 | 126 |
+| 30 | 207 | rayankdm | Rayan Kamdem | 52 | 73 | 3 | 128 |
 | 31 | 200 | wolinskij | Jonathan Wolinski | 43 | 74 | 3 | 120 |
 | 32 | 190 | alexdnl | Alex Lee | 29 | 70 | 7 | 106 |
 | 33 | 116 | DmytroCrawford | Dmytro Crawford | 41 | 36 | 1 | 78 |
