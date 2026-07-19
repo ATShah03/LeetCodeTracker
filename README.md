@@ -23,7 +23,7 @@
 | 14 | 490 | QuantumMechanics123 | Aadit Jain | 67 | 180 | 21 | 268 |
 | 15 | 482 | devk03 | Dev Kunjadia | 87 | 181 | 11 | 279 |
 | 16 | 433 | shah_aryan1 | Aryan Shah | 95 | 136 | 22 | 253 |
-| 17 | 427 | anuawesome | Anish Jain | 107 | 151 | 6 | 264 |
+| 17 | 429 | anuawesome | Anish Jain | 107 | 152 | 6 | 265 |
 | 18 | 425 | jessicaa_zhang | Jessica Zhang | 76 | 146 | 19 | 241 |
 | 19 | 423 | ohmp7 | Ohm Patel | 61 | 142 | 26 | 229 |
 | 20 | 408 | nishtothekish | Nikhil Vaidyanathan | 43 | 52 | 87 | 182 |
