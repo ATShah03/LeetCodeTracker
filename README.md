@@ -24,8 +24,8 @@
 | 15 | 482 | devk03 | Dev Kunjadia | 87 | 181 | 11 | 279 |
 | 16 | 433 | shah_aryan1 | Aryan Shah | 95 | 136 | 22 | 253 |
 | 17 | 429 | anuawesome | Anish Jain | 107 | 152 | 6 | 265 |
-| 18 | 425 | jessicaa_zhang | Jessica Zhang | 76 | 146 | 19 | 241 |
-| 19 | 423 | ohmp7 | Ohm Patel | 61 | 142 | 26 | 229 |
+| 18 | 425 | ohmp7 | Ohm Patel | 61 | 143 | 26 | 230 |
+| 19 | 425 | jessicaa_zhang | Jessica Zhang | 76 | 146 | 19 | 241 |
 | 20 | 408 | nishtothekish | Nikhil Vaidyanathan | 43 | 52 | 87 | 182 |
 | 21 | 367 | enumerative | Peter Wu | 64 | 129 | 15 | 208 |
 | 22 | 366 | ericzhao16 | Eric Zhao | 60 | 138 | 10 | 208 |
