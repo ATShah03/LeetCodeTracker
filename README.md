@@ -9,12 +9,12 @@
 |------|----------------|-----------------|-------------------|--------------|--------------|--------------|--------------|
 | 🥇 1 | 915 | AB1015 | Aditya Bodanapu | 88 | 295 | 79 | 462 |
 | 🥈 2 | 866 | brinco | Brian Lee | 104 | 312 | 46 | 462 |
-| 🥉 3 | 849 | ashwin_a_kumar | Ashwin Kumar | 186 | 297 | 23 | 506 |
+| 🥉 3 | 850 | ashwin_a_kumar | Ashwin Kumar | 185 | 298 | 23 | 506 |
 | 4 | 839 | mj3061 | Michael Jiang | 118 | 290 | 47 | 455 |
 | 5 | 787 | zyoonkim | Zach Yoon-Kim | 212 | 250 | 25 | 487 |
 | 6 | 725 | arnsh | Arnav Shah | 85 | 236 | 56 | 377 |
 | 7 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
-| 8 | 704 | vijay_n7 | Vijay Nannapuraju | 154 | 224 | 34 | 412 |
+| 8 | 705 | vijay_n7 | Vijay Nannapuraju | 153 | 225 | 34 | 412 |
 | 9 | 654 | shreypatel703 | Shrey Patel | 85 | 241 | 29 | 355 |
 | 10 | 637 | adavidwu | David Wu | 87 | 200 | 50 | 337 |
 | 11 | 539 | shadowion | Ihsaan Yasin | 107 | 180 | 24 | 311 |
@@ -22,9 +22,9 @@
 | 13 | 493 | wlvrd | Nick Walvoord | 71 | 175 | 24 | 270 |
 | 14 | 490 | QuantumMechanics123 | Aadit Jain | 67 | 180 | 21 | 268 |
 | 15 | 482 | devk03 | Dev Kunjadia | 87 | 181 | 11 | 279 |
-| 16 | 433 | shah_aryan1 | Aryan Shah | 95 | 136 | 22 | 253 |
-| 17 | 429 | anuawesome | Anish Jain | 107 | 152 | 6 | 265 |
-| 18 | 425 | ohmp7 | Ohm Patel | 61 | 143 | 26 | 230 |
+| 16 | 433 | ohmp7 | Ohm Patel | 61 | 144 | 28 | 233 |
+| 17 | 433 | shah_aryan1 | Aryan Shah | 95 | 136 | 22 | 253 |
+| 18 | 430 | anuawesome | Anish Jain | 106 | 153 | 6 | 265 |
 | 19 | 425 | jessicaa_zhang | Jessica Zhang | 76 | 146 | 19 | 241 |
 | 20 | 408 | nishtothekish | Nikhil Vaidyanathan | 43 | 52 | 87 | 182 |
 | 21 | 367 | enumerative | Peter Wu | 64 | 129 | 15 | 208 |
