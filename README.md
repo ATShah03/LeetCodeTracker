@@ -39,7 +39,7 @@
 | 30 | 209 | rayankdm | Rayan Kamdem | 52 | 74 | 3 | 129 |
 | 31 | 200 | wolinskij | Jonathan Wolinski | 43 | 74 | 3 | 120 |
 | 32 | 190 | alexdnl | Alex Lee | 29 | 70 | 7 | 106 |
-| 33 | 118 | DmytroCrawford | Dmytro Crawford | 43 | 36 | 1 | 80 |
+| 33 | 120 | DmytroCrawford | Dmytro Crawford | 43 | 37 | 1 | 81 |
 | 34 | 111 | zhangliangmalatang | Leo Liu | 13 | 43 | 4 | 60 |
 | 35 | 26 | divyaponda | Divya Ponda | 24 | 1 | 0 | 25 |
 ---
