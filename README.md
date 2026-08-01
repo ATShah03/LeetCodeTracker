@@ -16,7 +16,7 @@
 | 7 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 8 | 705 | vijay_n7 | Vijay Nannapuraju | 153 | 225 | 34 | 412 |
 | 9 | 654 | shreypatel703 | Shrey Patel | 85 | 241 | 29 | 355 |
-| 10 | 640 | adavidwu | David Wu | 87 | 200 | 51 | 338 |
+| 10 | 643 | adavidwu | David Wu | 88 | 201 | 51 | 340 |
 | 11 | 539 | shadowion | Ihsaan Yasin | 107 | 180 | 24 | 311 |
 | 12 | 496 | Flytre | Aaron Rahman | 57 | 158 | 41 | 256 |
 | 13 | 493 | wlvrd | Nick Walvoord | 71 | 175 | 24 | 270 |
@@ -39,7 +39,7 @@
 | 30 | 209 | rayankdm | Rayan Kamdem | 52 | 74 | 3 | 129 |
 | 31 | 200 | wolinskij | Jonathan Wolinski | 43 | 74 | 3 | 120 |
 | 32 | 190 | alexdnl | Alex Lee | 29 | 70 | 7 | 106 |
-| 33 | 121 | DmytroCrawford | Dmytro Crawford | 44 | 37 | 1 | 82 |
+| 33 | 123 | DmytroCrawford | Dmytro Crawford | 44 | 38 | 1 | 83 |
 | 34 | 111 | zhangliangmalatang | Leo Liu | 13 | 43 | 4 | 60 |
 | 35 | 26 | divyaponda | Divya Ponda | 24 | 1 | 0 | 25 |
 ---
