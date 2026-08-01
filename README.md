@@ -30,13 +30,13 @@
 | 21 | 367 | enumerative | Peter Wu | 64 | 129 | 15 | 208 |
 | 22 | 366 | ericzhao16 | Eric Zhao | 60 | 138 | 10 | 208 |
 | 23 | 359 | RGBmarya | Mihir Arya | 57 | 118 | 22 | 197 |
-| 24 | 350 | KaelWu | Kael Wu | 51 | 115 | 23 | 189 |
+| 24 | 353 | KaelWu | Kael Wu | 51 | 115 | 24 | 190 |
 | 25 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
 | 26 | 313 | lfuchia | Lance Fuchia | 30 | 131 | 7 | 168 |
 | 27 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 28 | 303 | justinbabe019 | Angie Leong | 85 | 100 | 6 | 191 |
 | 29 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
-| 30 | 209 | rayankdm | Rayan Kamdem | 52 | 74 | 3 | 129 |
+| 30 | 211 | rayankdm | Rayan Kamdem | 52 | 75 | 3 | 130 |
 | 31 | 200 | wolinskij | Jonathan Wolinski | 43 | 74 | 3 | 120 |
 | 32 | 190 | alexdnl | Alex Lee | 29 | 70 | 7 | 106 |
 | 33 | 123 | DmytroCrawford | Dmytro Crawford | 44 | 38 | 1 | 83 |
