@@ -27,10 +27,10 @@
 | 18 | 431 | anuawesome | Anish Jain | 107 | 153 | 6 | 266 |
 | 19 | 425 | jessicaa_zhang | Jessica Zhang | 76 | 146 | 19 | 241 |
 | 20 | 408 | nishtothekish | Nikhil Vaidyanathan | 43 | 52 | 87 | 182 |
-| 21 | 367 | enumerative | Peter Wu | 64 | 129 | 15 | 208 |
+| 21 | 369 | enumerative | Peter Wu | 64 | 130 | 15 | 209 |
 | 22 | 366 | ericzhao16 | Eric Zhao | 60 | 138 | 10 | 208 |
 | 23 | 359 | RGBmarya | Mihir Arya | 57 | 118 | 22 | 197 |
-| 24 | 356 | KaelWu | Kael Wu | 51 | 115 | 25 | 191 |
+| 24 | 358 | KaelWu | Kael Wu | 51 | 116 | 25 | 192 |
 | 25 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
 | 26 | 313 | lfuchia | Lance Fuchia | 30 | 131 | 7 | 168 |
 | 27 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
