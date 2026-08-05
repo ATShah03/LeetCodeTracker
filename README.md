@@ -11,7 +11,7 @@
 | 🥈 2 | 866 | brinco | Brian Lee | 104 | 312 | 46 | 462 |
 | 🥉 3 | 850 | ashwin_a_kumar | Ashwin Kumar | 185 | 298 | 23 | 506 |
 | 4 | 839 | mj3061 | Michael Jiang | 118 | 290 | 47 | 455 |
-| 5 | 788 | zyoonkim | Zach Yoon-Kim | 213 | 250 | 25 | 488 |
+| 5 | 790 | zyoonkim | Zach Yoon-Kim | 213 | 251 | 25 | 489 |
 | 6 | 725 | arnsh | Arnav Shah | 85 | 236 | 56 | 377 |
 | 7 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 8 | 705 | vijay_n7 | Vijay Nannapuraju | 153 | 225 | 34 | 412 |
@@ -22,7 +22,7 @@
 | 13 | 493 | wlvrd | Nick Walvoord | 71 | 175 | 24 | 270 |
 | 14 | 490 | QuantumMechanics123 | Aadit Jain | 67 | 180 | 21 | 268 |
 | 15 | 482 | devk03 | Dev Kunjadia | 87 | 181 | 11 | 279 |
-| 16 | 445 | ohmp7 | Ohm Patel | 61 | 150 | 28 | 239 |
+| 16 | 447 | ohmp7 | Ohm Patel | 61 | 151 | 28 | 240 |
 | 17 | 433 | shah_aryan1 | Aryan Shah | 95 | 136 | 22 | 253 |
 | 18 | 431 | anuawesome | Anish Jain | 107 | 153 | 6 | 266 |
 | 19 | 425 | jessicaa_zhang | Jessica Zhang | 76 | 146 | 19 | 241 |
