@@ -29,8 +29,8 @@
 | 20 | 408 | nishtothekish | Nikhil Vaidyanathan | 43 | 52 | 87 | 182 |
 | 21 | 369 | enumerative | Peter Wu | 64 | 130 | 15 | 209 |
 | 22 | 366 | ericzhao16 | Eric Zhao | 60 | 138 | 10 | 208 |
-| 23 | 359 | RGBmarya | Mihir Arya | 57 | 118 | 22 | 197 |
-| 24 | 358 | KaelWu | Kael Wu | 51 | 116 | 25 | 192 |
+| 23 | 360 | KaelWu | Kael Wu | 51 | 117 | 25 | 193 |
+| 24 | 359 | RGBmarya | Mihir Arya | 57 | 118 | 22 | 197 |
 | 25 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
 | 26 | 313 | lfuchia | Lance Fuchia | 30 | 131 | 7 | 168 |
 | 27 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
