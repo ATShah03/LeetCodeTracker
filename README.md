@@ -22,7 +22,7 @@
 | 13 | 493 | wlvrd | Nick Walvoord | 71 | 175 | 24 | 270 |
 | 14 | 490 | QuantumMechanics123 | Aadit Jain | 67 | 180 | 21 | 268 |
 | 15 | 482 | devk03 | Dev Kunjadia | 87 | 181 | 11 | 279 |
-| 16 | 458 | ohmp7 | Ohm Patel | 64 | 155 | 28 | 247 |
+| 16 | 460 | ohmp7 | Ohm Patel | 64 | 156 | 28 | 248 |
 | 17 | 433 | shah_aryan1 | Aryan Shah | 95 | 136 | 22 | 253 |
 | 18 | 431 | anuawesome | Anish Jain | 107 | 153 | 6 | 266 |
 | 19 | 425 | jessicaa_zhang | Jessica Zhang | 76 | 146 | 19 | 241 |
