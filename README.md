@@ -22,12 +22,12 @@
 | 13 | 493 | wlvrd | Nick Walvoord | 71 | 175 | 24 | 270 |
 | 14 | 490 | QuantumMechanics123 | Aadit Jain | 67 | 180 | 21 | 268 |
 | 15 | 482 | devk03 | Dev Kunjadia | 87 | 181 | 11 | 279 |
-| 16 | 456 | ohmp7 | Ohm Patel | 64 | 154 | 28 | 246 |
+| 16 | 458 | ohmp7 | Ohm Patel | 64 | 155 | 28 | 247 |
 | 17 | 433 | shah_aryan1 | Aryan Shah | 95 | 136 | 22 | 253 |
 | 18 | 431 | anuawesome | Anish Jain | 107 | 153 | 6 | 266 |
 | 19 | 425 | jessicaa_zhang | Jessica Zhang | 76 | 146 | 19 | 241 |
 | 20 | 408 | nishtothekish | Nikhil Vaidyanathan | 43 | 52 | 87 | 182 |
-| 21 | 369 | enumerative | Peter Wu | 64 | 130 | 15 | 209 |
+| 21 | 371 | enumerative | Peter Wu | 64 | 131 | 15 | 210 |
 | 22 | 366 | ericzhao16 | Eric Zhao | 60 | 138 | 10 | 208 |
 | 23 | 360 | KaelWu | Kael Wu | 51 | 117 | 25 | 193 |
 | 24 | 359 | RGBmarya | Mihir Arya | 57 | 118 | 22 | 197 |
