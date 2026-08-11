@@ -36,7 +36,7 @@
 | 27 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 28 | 303 | justinbabe019 | Angie Leong | 85 | 100 | 6 | 191 |
 | 29 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
-| 30 | 216 | rayankdm | Rayan Kamdem | 52 | 76 | 4 | 132 |
+| 30 | 218 | rayankdm | Rayan Kamdem | 52 | 77 | 4 | 133 |
 | 31 | 200 | wolinskij | Jonathan Wolinski | 43 | 74 | 3 | 120 |
 | 32 | 190 | alexdnl | Alex Lee | 29 | 70 | 7 | 106 |
 | 33 | 124 | DmytroCrawford | Dmytro Crawford | 45 | 38 | 1 | 84 |
