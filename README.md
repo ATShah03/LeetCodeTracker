@@ -28,8 +28,8 @@
 | 19 | 425 | jessicaa_zhang | Jessica Zhang | 76 | 146 | 19 | 241 |
 | 20 | 408 | nishtothekish | Nikhil Vaidyanathan | 43 | 52 | 87 | 182 |
 | 21 | 371 | enumerative | Peter Wu | 64 | 131 | 15 | 210 |
-| 22 | 366 | ericzhao16 | Eric Zhao | 60 | 138 | 10 | 208 |
-| 23 | 365 | KaelWu | Kael Wu | 51 | 118 | 26 | 195 |
+| 22 | 367 | KaelWu | Kael Wu | 51 | 119 | 26 | 196 |
+| 23 | 366 | ericzhao16 | Eric Zhao | 60 | 138 | 10 | 208 |
 | 24 | 359 | RGBmarya | Mihir Arya | 57 | 118 | 22 | 197 |
 | 25 | 325 | ewangerz | Emily Wang | 48 | 110 | 19 | 177 |
 | 26 | 313 | lfuchia | Lance Fuchia | 30 | 131 | 7 | 168 |
