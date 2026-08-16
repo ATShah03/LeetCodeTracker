@@ -11,7 +11,7 @@
 | 🥈 2 | 866 | brinco | Brian Lee | 104 | 312 | 46 | 462 |
 | 🥉 3 | 850 | ashwin_a_kumar | Ashwin Kumar | 185 | 298 | 23 | 506 |
 | 4 | 839 | mj3061 | Michael Jiang | 118 | 290 | 47 | 455 |
-| 5 | 815 | zyoonkim | Zach Yoon-Kim | 218 | 258 | 27 | 503 |
+| 5 | 827 | zyoonkim | Zach Yoon-Kim | 222 | 262 | 27 | 511 |
 | 6 | 725 | arnsh | Arnav Shah | 85 | 236 | 56 | 377 |
 | 7 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 8 | 705 | vijay_n7 | Vijay Nannapuraju | 153 | 225 | 34 | 412 |
@@ -19,7 +19,7 @@
 | 10 | 645 | adavidwu | David Wu | 88 | 202 | 51 | 341 |
 | 11 | 539 | shadowion | Ihsaan Yasin | 107 | 180 | 24 | 311 |
 | 12 | 496 | Flytre | Aaron Rahman | 57 | 158 | 41 | 256 |
-| 13 | 493 | wlvrd | Nick Walvoord | 71 | 175 | 24 | 270 |
+| 13 | 495 | wlvrd | Nick Walvoord | 71 | 176 | 24 | 271 |
 | 14 | 490 | QuantumMechanics123 | Aadit Jain | 67 | 180 | 21 | 268 |
 | 15 | 482 | devk03 | Dev Kunjadia | 87 | 181 | 11 | 279 |
 | 16 | 462 | ohmp7 | Ohm Patel | 64 | 157 | 28 | 249 |
@@ -36,7 +36,7 @@
 | 27 | 311 | kjihwan | Jihwan Kim | 63 | 103 | 14 | 180 |
 | 28 | 303 | justinbabe019 | Angie Leong | 85 | 100 | 6 | 191 |
 | 29 | 244 | calebjlee | Caleb Lee | 51 | 83 | 9 | 143 |
-| 30 | 224 | rayankdm | Rayan Kamdem | 52 | 80 | 4 | 136 |
+| 30 | 227 | rayankdm | Rayan Kamdem | 52 | 80 | 5 | 137 |
 | 31 | 200 | wolinskij | Jonathan Wolinski | 43 | 74 | 3 | 120 |
 | 32 | 190 | alexdnl | Alex Lee | 29 | 70 | 7 | 106 |
 | 33 | 124 | DmytroCrawford | Dmytro Crawford | 45 | 38 | 1 | 84 |
