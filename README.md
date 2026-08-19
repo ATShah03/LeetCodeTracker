@@ -11,13 +11,13 @@
 | 🥈 2 | 866 | brinco | Brian Lee | 104 | 312 | 46 | 462 |
 | 🥉 3 | 850 | ashwin_a_kumar | Ashwin Kumar | 185 | 298 | 23 | 506 |
 | 4 | 839 | mj3061 | Michael Jiang | 118 | 290 | 47 | 455 |
-| 5 | 828 | zyoonkim | Zach Yoon-Kim | 223 | 262 | 27 | 512 |
+| 5 | 834 | zyoonkim | Zach Yoon-Kim | 223 | 265 | 27 | 515 |
 | 6 | 725 | arnsh | Arnav Shah | 85 | 236 | 56 | 377 |
 | 7 | 722 | Vonais | John Xie | 121 | 248 | 35 | 404 |
 | 8 | 705 | vijay_n7 | Vijay Nannapuraju | 153 | 225 | 34 | 412 |
 | 9 | 654 | shreypatel703 | Shrey Patel | 85 | 241 | 29 | 355 |
 | 10 | 645 | adavidwu | David Wu | 88 | 202 | 51 | 341 |
-| 11 | 539 | shadowion | Ihsaan Yasin | 107 | 180 | 24 | 311 |
+| 11 | 541 | shadowion | Ihsaan Yasin | 107 | 181 | 24 | 312 |
 | 12 | 496 | Flytre | Aaron Rahman | 57 | 158 | 41 | 256 |
 | 13 | 495 | wlvrd | Nick Walvoord | 71 | 176 | 24 | 271 |
 | 14 | 490 | QuantumMechanics123 | Aadit Jain | 67 | 180 | 21 | 268 |
@@ -27,7 +27,7 @@
 | 18 | 431 | anuawesome | Anish Jain | 107 | 153 | 6 | 266 |
 | 19 | 425 | jessicaa_zhang | Jessica Zhang | 76 | 146 | 19 | 241 |
 | 20 | 408 | nishtothekish | Nikhil Vaidyanathan | 43 | 52 | 87 | 182 |
-| 21 | 397 | KaelWu | Kael Wu | 51 | 131 | 28 | 210 |
+| 21 | 399 | KaelWu | Kael Wu | 51 | 132 | 28 | 211 |
 | 22 | 371 | enumerative | Peter Wu | 64 | 131 | 15 | 210 |
 | 23 | 366 | ericzhao16 | Eric Zhao | 60 | 138 | 10 | 208 |
 | 24 | 359 | RGBmarya | Mihir Arya | 57 | 118 | 22 | 197 |
