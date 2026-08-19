@@ -27,7 +27,7 @@
 | 18 | 431 | anuawesome | Anish Jain | 107 | 153 | 6 | 266 |
 | 19 | 425 | jessicaa_zhang | Jessica Zhang | 76 | 146 | 19 | 241 |
 | 20 | 408 | nishtothekish | Nikhil Vaidyanathan | 43 | 52 | 87 | 182 |
-| 21 | 399 | KaelWu | Kael Wu | 51 | 132 | 28 | 211 |
+| 21 | 403 | KaelWu | Kael Wu | 51 | 134 | 28 | 213 |
 | 22 | 371 | enumerative | Peter Wu | 64 | 131 | 15 | 210 |
 | 23 | 366 | ericzhao16 | Eric Zhao | 60 | 138 | 10 | 208 |
 | 24 | 359 | RGBmarya | Mihir Arya | 57 | 118 | 22 | 197 |
